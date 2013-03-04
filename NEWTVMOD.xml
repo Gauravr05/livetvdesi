@@ -627,6 +627,8 @@ www.khantv.info timeout=15</link>
 <link>rtmp://streamer35.eboundservices.com/tv/starplus</link>
 <link>rtmp://cdn.livecaster.tv/stream playpath=starplushdd swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=starplushdd&vw=650&vh=440 timeout=15</link>
 <link>rtmp://live.ukcast.tv/broadcast playpath=star11122 swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=star11122&vw=650&vh=440 timeout=15</link>
+<link>rtmp://188.122.91.6/app playpath=starplushd0007 swfUrl=http://www.yocast.tv/player/player-licensed.swf live=true pageUrl=http://www.yocast.tv/embed.php?live=starplushd0007&vw=654&vh=450</link>
+<link>rtmp://89.248.174.117/live playpath=starplushdtv swfUrl=http://www.reyhq.com/player/player-licensed.swf live=true pageUrl=http://www.reyhq.com/embed.php?live=starplushdtv&vw=600&vh=450 timeout=15<</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
 </item>
 
@@ -639,9 +641,10 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>Zee Smile</title>
-<link>rtmp://65.49.77.251:1935/base2/dd16.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/zee-smile/ timeout=15</link>
+<link>rtmp://65.49.77.251/redirect playpath=dd16.stream  swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/zee-smile/ timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_smile.jpg</thumbnail>
 </item>
+
 
 
 <item>
@@ -691,21 +694,10 @@ www.khantv.info timeout=15</link>
 <title>Sony Sab</title>
 <link>rtmp://cdn.livecaster.tv/stream playpath=sab_tv66 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=sab_tv66&vw=600&vh=430 timeout=15</link>
 <link>rtmp://188.122.91.6/app playpath=sab121 swfUrl=http://www.yocast.tv/player/player-licensed.swf live=true pageUrl=http://www.yocast.tv/embed.php?live=sab121&vw=600&vh=450 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sony_sab_tv_in.jpg</thumbnail>
-</item>
-
-<item>
-<title>SAB</title>
 <link>rtmp://live.ukcast.tv/broadcast playpath=sab_tv6 swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=sab_tv6&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sony_sab_tv_in.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>Life OK</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=life_ok.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=life_ok&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_in.jpg</thumbnail>
-</item>
 
 <item>
 <title>Life OK</title>
@@ -771,9 +763,11 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>B4U Music</title>
-<link>rtmp://37.130.230.101:1935/base2/dd17.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/b4u-music/ timeout=15</link>
+<link>rtmp://65.49.77.251/redirect playpath=dd17.stream  swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/b4u-music/ timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/b4u_music.jpg</thumbnail>
 </item>
+
+
 
 <item>
 <title>9X Music</title>
@@ -808,6 +802,20 @@ www.khantv.info timeout=15</link>
 <link>rtmp://cdn.livecaster.tv/stream playpath=etnow1.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=etnow1&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/et_now.jpg</thumbnail>
 </item>
+
+<item>
+<title>Aaj Tak</title>
+<link>rtmp://23.21.155.146/zengalive/ playpath=250601250170150250901170250550170601aajtak150.sdp swfUrl=http://www.zengatv.com/5.10.swf pageUrl=http://www.zengatv.com/home.zenga?s=Aaj_Tak timeout=15</link>
+<thumbnail>http://d3jnkp3lrs2hd5.cloudfront.net/web/images/live-images/AAJTAK.jpg</thumbnail>
+</item> 
+
+<item>
+<title>Headlines Today</title>
+<link>rtmp://23.21.155.146/zengalive/ playpath=250601250170150250901170250550150170today150.sdp swfUrl=http://www.zengatv.com/5.10.swf pageUrl=http://www.zengatv.com/home.zenga?s=Headlines_Today live=true timeout=15</link>
+<thumbnail>http://d3jnkp3lrs2hd5.cloudfront.net/web/images/live-images/headlins-today.jpg</thumbnail>
+</item> 
+
+
 
 
 <item>
