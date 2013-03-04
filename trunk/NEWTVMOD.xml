@@ -805,15 +805,20 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>Aaj Tak</title>
+<link>rtmp://23.21.155.146/zengalive/ playpath=250601250170150250901170250411601770aajtak150.sdp swfUrl=http://www.zengatv.com/5.10.swf pageUrl=http://www.zengatv.com/home.zenga?s=Aaj_Tak timeout=15</link>
 <link>rtmp://23.21.155.146/zengalive/ playpath=250601250170150250901170250550170601aajtak150.sdp swfUrl=http://www.zengatv.com/5.10.swf pageUrl=http://www.zengatv.com/home.zenga?s=Aaj_Tak timeout=15</link>
 <thumbnail>http://d3jnkp3lrs2hd5.cloudfront.net/web/images/live-images/AAJTAK.jpg</thumbnail>
 </item> 
 
 <item>
 <title>Headlines Today</title>
+<link>rtmp://23.21.155.146/zengalive/ playpath=250601250170150250901170250411550601today150.sdp swfUrl=http://www.zengatv.com/5.10.swf pageUrl=http://www.zengatv.com/home.zenga?s=Headlines_Today live=true timeout=15</link>
 <link>rtmp://23.21.155.146/zengalive/ playpath=250601250170150250901170250550150170today150.sdp swfUrl=http://www.zengatv.com/5.10.swf pageUrl=http://www.zengatv.com/home.zenga?s=Headlines_Today live=true timeout=15</link>
 <thumbnail>http://d3jnkp3lrs2hd5.cloudfront.net/web/images/live-images/headlins-today.jpg</thumbnail>
 </item> 
+
+
+
 
 
 
