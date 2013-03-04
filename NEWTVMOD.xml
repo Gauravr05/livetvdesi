@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" ?> 
+ <?xml version="1.0" ?> 
 
 <channels>
 
@@ -623,14 +623,10 @@ www.khantv.info timeout=15</link>
 <items>
 
 <item>
-<title>Star Plus (Link 1)</title>
+<title>Star Plus</title>
 <link>rtmp://streamer35.eboundservices.com/tv/starplus</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
-</item>
-
-<item>
-<title>Star Plus (Link 2)</title>
-<link>rtmp://cdn.livecaster.tv/stream playpath=star456 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=star456&vw=600&vh=430 timeout=15</link>
+<link>rtmp://cdn.livecaster.tv/stream playpath=starplushdd swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=starplushdd&vw=650&vh=440 timeout=15</link>
+<link>rtmp://live.ukcast.tv/broadcast playpath=star11122 swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=star11122&vw=650&vh=440 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
 </item>
 
@@ -647,21 +643,19 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_smile.jpg</thumbnail>
 </item>
 
-<item>
-<title>Zee TV Updated</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=zeetv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_tv.jpg</thumbnail>
-</item>
 
 <item>
 <title>Zee Tv</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=zeetv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
 <link>rtmp://live.ukcast.tv/broadcast playpath=zee_tv98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=zee_tv98&vw=600&vh=430 timeout=15</link>
+<link>rtmp://80.82.78.37/play playpath=zeetv5 swfUrl=http://95.211.220.70/player/player-licensed.swf live=true pageUrl=http://www.flashcast.tv/embed.php?live=zeetv_desi&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_tv.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>Sony TV</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=sonylive swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=sonylive&vw=600&vh=430 timeout=15</link>
 <link>rtmp://cdn.livecaster.tv/stream playpath=sony1234 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=sony1234&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_in.jpg</thumbnail>
 </item>
@@ -688,12 +682,14 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>Colors</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=colors98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=colors98&vw=600&vh=430 timeout=15</link>
 <link>rtmp://91.121.9.106:1930/live/color playpath=color swfUrl=http://www.zonytvcom.info/saki/player/src2.swf live=true pageurl=http://zonytvcom.info/saki/embed.php?live=color&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/colors_in.jpg</thumbnail>
 </item>
 
 <item>
-<title>Sony Sab UPDATED</title>
+<title>Sony Sab</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=sab_tv66 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=sab_tv66&vw=600&vh=430 timeout=15</link>
 <link>rtmp://188.122.91.6/app playpath=sab121 swfUrl=http://www.yocast.tv/player/player-licensed.swf live=true pageUrl=http://www.yocast.tv/embed.php?live=sab121&vw=600&vh=450 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sony_sab_tv_in.jpg</thumbnail>
 </item>
@@ -713,6 +709,7 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>Life OK</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=life_ok.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=life_ok&vw=600&vh=430 timeout=15</link>
 <link>rtmp://85.25.155.85:1930/live playpath=lifeok.stream swfUrl=http://www.zonytvcom.info/saki/player/src2.swf live=true pageUrl=http://zonytvcom.info/saki/embed.php?live=lifeok.stream&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_in.jpg</thumbnail>
 </item>
