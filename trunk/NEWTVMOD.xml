@@ -1253,6 +1253,8 @@ www.khantv.info timeout=15</link>
 <item>
 <title>CNN</title>
 <link>rtmp://live.ukcast.tv/broadcast playpath=cnn1.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=cnn1&vw=600&vh=430 timeout=15</link>
+<link>rtmp://50.23.113.212/live playPath=mamoma?id=152942 swfVfy=1 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=hthttp://mips.tv/mamomaimeout=15</link>
+
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
 </item>
 
