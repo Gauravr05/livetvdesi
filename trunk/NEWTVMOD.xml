@@ -515,46 +515,43 @@
 </item>
 
 <item>
-<title>Sky Sports 1 (Link 1)</title>
-<link>rtmp://cdn.livecaster.tv/stream playpath=sky_sports001 swfUrl=http://www.livecaster.tv/player/player.swf pageUrl=http://www.livecaster.tv/embed.php?u=sky_sports001&vw=600&vh=430 live=true timeout=15</link>
-<thumbnail>http://images3.wikia.nocookie.net/__cb20100803180248/logopedia/images/a/a3/Sky_Sports_1_2010.png</thumbnail>
+<title>Sky Sports 1 </title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=sky_sports1.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=sky_sports1&vw=600&vh=430 timeout=15</link>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20120824135860/logopedia/images/4/46/SkySports3.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Sports 1 (Link 2)</title>
-<link>rtmp://142.4.216.173/edge/ playpath=gz8v9ux3690mxrc swfUrl=http://static.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/view/46445/ timeout=15</link>
-<thumbnail>http://images3.wikia.nocookie.net/__cb20100803180248/logopedia/images/a/a3/Sky_Sports_1_2010.png</thumbnail>
+<title>Sky Sports 2 </title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=sky_sports2.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=sky_sports1&vw=600&vh=430 timeout=15</link>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20120824135860/logopedia/images/4/46/SkySports3.png</thumbnail>
 </item>
 
 
 <item>
-<title>Sky Sports 2 (Link 1)</title>
-<link>rtmp://cdn.livecaster.tv/stream playpath=sky_sports002 swfUrl=http://www.livecaster.tv/player/player.swf swfVfy=true live=true pageUrl=http://www.livecaster.tv/embed.php?u=sky_sports002&vw=620&vh=485 timeout=15</link>
+<title>Sky Sports 3 </title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=sky_sports3.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=sky_sports1&vw=600&vh=430 timeout=15</link>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20120824135860/logopedia/images/4/46/SkySports3.png</thumbnail>
+</item>
+
+
+<item>
+<title>Sky Sports 4 </title>
+<link>rtmp://85.12.5.43:1935/live/_definst playpath=sss2rty swfUrl=http://cdn.yycast.com/player/player.swf live=true pageUrl=http://www.yycast.com/embed.php?fileid=sss2rty&vw=620&vh=490 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
 </item>
 
-<item>
-<title>Sky Sports 2 (Link 2)</title>
-<link>rtmp://142.4.216.174/edge/ playpath=s6isciy8uth9zvp swfUrl=http://static.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/view/46563/ timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
-</item>
-
 
 
 <item>
-<title>Sky Sports 3 (Link 1)</title>
+<title>Sky Sports</title>
 <link>rtmp://cdn.livecaster.tv/stream playpath=Sky_sports003 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=sky_sports003&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://images3.wikia.nocookie.net/__cb20120824135860/logopedia/images/4/46/SkySports3.png</thumbnail>
 </item>
 
-<item>
-<title>Sky Sports 3 (Link 2)</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=sky_sports3.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=sky_sports3&vw=670&vh=410 timeout=15</link>
-<thumbnail>http://images3.wikia.nocookie.net/__cb20120824135860/logopedia/images/4/46/SkySports3.png</thumbnail>
-</item>
+
 
 <item>
-<title>Willow (MUST LOAD IT TWICE)</title>
+<title>Willow</title>
 <link>rtmp://live.ukcast.tv/broadcast playpath=willow_cricket.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=willow_cricket&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://aimages.willow.tv/willow-logo.gif</thumbnail>
 </item>
@@ -803,23 +800,18 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/et_now.jpg</thumbnail>
 </item>
 
+
 <item>
-<title>Aaj Tak</title>
-<link>rtmp://23.21.155.146/zengalive/ playpath=250601250170150250901170250411601770aajtak150.sdp swfUrl=http://www.zengatv.com/5.10.swf pageUrl=http://www.zengatv.com/home.zenga?s=Aaj_Tak timeout=15</link>
-<link>rtmp://23.21.155.146/zengalive/ playpath=250601250170150250901170250550170601aajtak150.sdp swfUrl=http://www.zengatv.com/5.10.swf pageUrl=http://www.zengatv.com/home.zenga?s=Aaj_Tak timeout=15</link>
+<title>AAJ TAK</title>
+<link>rtmp://23.21.155.146/zengalive/ playpath=250411250170150250901170901901250411aajtak150.sdp swfUrl=http://www.zengatv.com/player.swf pageUrl=http://funtv4u.com/aaj-tak-news/  timeout=15</link>
 <thumbnail>http://d3jnkp3lrs2hd5.cloudfront.net/web/images/live-images/AAJTAK.jpg</thumbnail>
 </item> 
 
 <item>
 <title>Headlines Today</title>
 <link>rtmp://23.21.155.146/zengalive/ playpath=250601250170150250901170250411550601today150.sdp swfUrl=http://www.zengatv.com/5.10.swf pageUrl=http://www.zengatv.com/home.zenga?s=Headlines_Today live=true timeout=15</link>
-<link>rtmp://23.21.155.146/zengalive/ playpath=250601250170150250901170250550150170today150.sdp swfUrl=http://www.zengatv.com/5.10.swf pageUrl=http://www.zengatv.com/home.zenga?s=Headlines_Today live=true timeout=15</link>
 <thumbnail>http://d3jnkp3lrs2hd5.cloudfront.net/web/images/live-images/headlins-today.jpg</thumbnail>
 </item> 
-
-
-
-
 
 
 
@@ -1113,6 +1105,13 @@ www.khantv.info timeout=15</link>
 </item>
 
 <item>
+<title>HBO HD</title>
+<link>rtmp://142.4.216.155/edge playpath=z28ie9oqoku4qoy swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=620&height=410&channel=36674&
+autoplay=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo2_hd.jpg</thumbnail>
+</item>
+
+<item>
 <title>HBO 2 HD</title>
 <link>rtmp://streamer35.eboundservices.com/tv/hbo</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo2_hd.jpg</thumbnail>
@@ -1281,6 +1280,20 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 </item>
 
 <item>
+<title>HLN</title>
+<link>rtmp://198.105.209.116/live playpath=ciniestro?id=150370 swfUrl=http://mips.tv/content/scripts/eplayer.swf swfVfy=1 conn=S:OK pageUrl=http://mips.tv/embedplayer/ciniestro/1/600/380 timeout=15</link>
+<thumbnail>http://i.cdn.turner.com/dr/hln/www/release/sites/default/themes/hln/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Bloomberg</title>
+<link>rtmp://96.17.164.7/live?_fcs_vhost=cp116697.live.edgefcs.net playpath=BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_1000@18679 swfUrl=http://player.ooyala.com/static/cacheable/4f64f23fac27df75e13e40fe7a28ff
+45/player_v2.swf/[[DYNAMIC]]/1 pageUrl=http://www.bloomberg.com/tv/ timeout=15</link>
+<thumbnail>https://lh3.googleusercontent.com/-VEB545Y1H1M/AAAAAAAAAAI/AAAAAAAAAHQ/N4IRlRex3Nc/s48-c-k/photo.jpg</thumbnail>
+</item>
+
+
+<item>
 <title>CCTV News</title>
 <link>mms://4.30.61.228/cctv9-200</link>
 <thumbnail>http://www.tangmedia.fr/greatwall/images/cctv-news.png</thumbnail>
@@ -1389,6 +1402,7 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 <link>rtsp://202.125.158.232:554/stream1_wifi.sdp timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_asia.jpg</thumbnail>
 </item>
+
 
 
 <item>
