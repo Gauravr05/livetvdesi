@@ -371,29 +371,29 @@
 <thumbnail>http://www.sd23.bc.ca/DistrictInfo/athletics/fallsport/Documents/SportFair_Boy_W-bg.jpg</thumbnail>
 <items>
 
+
 <item>
-<title>Premier Sports</title>
-<link>rtmp://159.253.149.15:443/liverepeater/ playpath=3706 swfUrl=http://4372f0f736b94c17980f-72149a3bba3a67bfaa92318a7ed89a98.r76.cf1.rackcdn.com/player2.swf swfVfy=true live=true pageUrl=http://footballnews.be/player2.php?id=3706&width=640&height=460 timeout=15</link>
-<thumbnail>http://www.hydefc.co.uk/wp-content/uploads/2012/12/premier-sports-logo.jpg</thumbnail>
-</item> 
+<title>Star Sports</title>
+<link>rtmp://live2.ilive.to/redirect playpath=u9pmjsett1tqv0r swfUrl=http://static.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/view/44984/ timeout=15</link>
+<link>rtmp://46.23.67.58/live playpath=a1112aass?id=38372 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf swfVfy=1 conn=S:OK live=true pageUrl=http://www.ucaster.eu/embedded/a1112aass/1/600/420timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports_se_asia.png</thumbnail>
+</item>
+
+
+
 
 <item>
 <title>EuroSport</title>
-<link>rtmp://37.220.34.61:443/liverepeater/ playpath=3708 swfUrl=http://4372f0f736b94c17980f-72149a3bba3a67bfaa92318a7ed89a98.r76.cf1.rackcdn.com/player2.swf swfVfy=true live=true pageUrl=http://footballnews.be/player2.php?id=3708&width=640&height=460 timeout=15</link>
+<link>rtmp://live.yycast.com:1935/lb/ playpath=oxtmvtvek6ivilw swfUrl=http://cdn.yycast.com/player/player.swf live=true pageUrl=http://www.yycast.com/oxtmvtvek6ivilw timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport_de.png</thumbnail>
-</item> 
-
-<item>
-<title>EuroSport 2</title>
-<link>rtmp://95.211.211.159:443/liverepeater/ playpath=3696 swfUrl=http://4372f0f736b94c17980f-72149a3bba3a67bfaa92318a7ed89a98.r76.cf1.rackcdn.com/player2.swf swfVfy=true live=true pageUrl=http://footballnews.be/player2.php?id=3696&width=640&height=460 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport2.png</thumbnail>
 </item>
 
 <item>
-<title>Sports Channel</title>
-<link>rtmp://159.253.149.57:443/liverepeater/ playpath=3689 swfUrl=http://4372f0f736b94c17980f-72149a3bba3a67bfaa92318a7ed89a98.r76.cf1.rackcdn.com/player2.swf swfVfy=true live=true pageUrl=http://footballnews.be/player2.php?id=3689&width=640&height=460 timeout=15</link>
-<thumbnail></thumbnail>
-</item> 
+<title>EuroSport 2</title>
+<link>rtmp://live.yycast.com:1935/lb/ playpath=5_wrcfyxmcs2gci swfUrl=http://cdn.yycast.com/player/player.swf live=true pageUrl=http://www.yycast.com/5_wrcfyxmcs2gci timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport_de.png</thumbnail>
+</item>
+
 
 <item>
 <title>beIN Sport</title>
@@ -446,28 +446,18 @@
 
 
 
-
 <item>
-<title>Star Sports Asia</title>
-<link>rtmp://142.4.216.91/edge/ playpath=u9pmjsett1tqv0r swfUrl=http://static.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/view/44984/ timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports_se_asia.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>ESPN U.K</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=espn_uk.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=espn_uk.stream&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png</thumbnail>
+<title>ESPN America HD</title>
+<link>rtmp://live.yycast.com:1935/lb/ playpath=espnusaaa swfUrl=http://cdn.yycast.com/player/player.swf swfVfy=true live=true pageUrl=http://www.yycast.com/espnusaaa timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_america_uk_hd.png</thumbnail>
 </item>
 
 
 <item>
 <title>ESPN U.S 2</title>
-<link>rtmp://142.4.216.173/edge/ playpath=xybwey6768c4ls2 swfUrl=http://static.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/view/46463 timeout=15</link>
+<link>rtmp://live2.ilive.to/redirect playpath=c1cik7lt7ft3j6u swfUrl=http://static.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/view/46712/ESPN_2 timeout=15</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png</thumbnail>
 </item>
-
 
 
 <item>
@@ -482,18 +472,18 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png</thumbnail>
 </item>
 
-
 <item>
 <title>ESPN India</title>
-<link>rtmp://cdn.livecaster.tv/live playpath=espn.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=espn&vw=600&vh=430 timeout=15</link>
+<link>rtmp://198.105.209.116/live playpath=aafferrass?id=158811 swfUrl=http://mips.tv/content/scripts/eplayer.swf swfVfy=1 conn=S:OK pageUrl=http://mips.tv/embedplayer/aafferrass/1/600/420 timeout=15</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png</thumbnail>
 </item>
 
 <item>
-<title>ESPN America HD</title>
-<link>rtmp://95.211.174.73:443/liverepeater/ playpath=3597 swfUrl=http://4372f0f736b94c17980f-72149a3bba3a67bfaa92318a7ed89a98.r76.cf1.rackcdn.com/player2.swf swfVfy=true live=true pageUrl=http://footballnews.be/player2.php?id=3597&width=640&height=460 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_america_uk_hd.png</thumbnail>
+<title>ESPN U.K</title>
+<link>rtmp://85.12.5.42:1935/live/_definst_ playpath=_93eaztokfsxyc0 swfUrl=http://cdn.yycast.com/player/player.swf live=true pageUrl=http://www.yycast.com/embed.php?fileid=_93eaztokfsxyc0&vw=640&vh=360 timeout=15</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png</thumbnail>
 </item>
+
 
 <item>
 <title>ESPN</title>
@@ -585,12 +575,12 @@
 <thumbnail></thumbnail>
 </item>
 
-
 <item>
 <title>DD Sports</title>
-<link>rtmp://80.82.70.225/live33 playpath=dds swfUrl=http://www.zstream.eu/pl11ayer.swf pageUrl=http://www.zstream.eu/channel.php?v=dds</link>
+<link>rtmp://65.49.77.251/redirect playpath=dd3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-sports-live/ </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d4/DD_sports_logo.jpg</thumbnail>
 </item>
+
 
 <item>
 <title>Ten Action</title>
