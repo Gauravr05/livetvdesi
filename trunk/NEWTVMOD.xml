@@ -427,12 +427,14 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7b/Ten_Sports.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>Ten Sports (Link 3)</title>
-<link>rtsp://202.125.158.233:554/stream1_wifi.sdp timeout=15</link>
+<link>rtmp://80.82.78.37:1935/app?ovpfv=2.1.4 Playpath=stream1 swfUrl=http://95.211.219.184/LiveVideoPlayer.swf pageUrl=http://www.99cast.com/embed.php?v=tenspp&vh=430&vw=600 timeout=15</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7b/Ten_Sports.jpg</thumbnail>
 </item>
+
+
+
 
 <item>
 <title>Star Sports Asia</title>
@@ -545,6 +547,7 @@
 <item>
 <title>Sky Sports</title>
 <link>rtmp://cdn.livecaster.tv/stream playpath=Sky_sports003 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=sky_sports003&vw=600&vh=430 timeout=15</link>
+<link>rtmp://80.82.78.37:1935/app?ovpfv=2.1.4 playpath=broadcast2 swfUrl=http://95.211.219.184/LiveVideoPlayer.swf live=true pageUrl=http://www.99cast.com/embed.php?v=starcricket6364&vh=430&vw=600 timeout=15</link>
 <thumbnail>http://images3.wikia.nocookie.net/__cb20120824135860/logopedia/images/4/46/SkySports3.png</thumbnail>
 </item>
 
@@ -553,13 +556,21 @@
 <item>
 <title>Willow</title>
 <link>rtmp://live.ukcast.tv/broadcast playpath=willow_cricket.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=willow_cricket&vw=600&vh=430 timeout=15</link>
+<link>rtmp://80.82.78.37:1935/cast?ovpfv=2.1.4 playpath=willowc swfUrl=http://95.211.219.184/LiveVideoPlayer.swf live=true pageUrl=http://www.99cast.com/embed.php?v=willowc&vh=430&vw=600 timeout=15</link>
 <thumbnail>http://aimages.willow.tv/willow-logo.gif</thumbnail>
 </item>
 
 <item>
 <title>Star Cricket</title>
 <link>rtmp://cdn.livecaster.tv/stream playpath=star_cricket001 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=star_cricket001&vw=600&vh=430 timeout=15</link>
+<link>rtmp://5.63.151.44/stream playpath=04032013ip1?id=85255 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf swfVfy=1 conn=S:OK live=true pageUrl=http://www.liveflash.tv/embedplayer/04032013ip1/1/600/420 timeout=15</link>
 <thumbnail>http://80.82.78.114/images/star_cricket.png</thumbnail>
+</item>
+
+<item>
+<title>NEO Prime</title>
+<link>rtmp://80.82.78.25:1935/cast?ovpfv=2.1.4 playpath=12377 swfUrl=http://95.211.219.184/LiveVideoPlayer.swf live=true pageUrl=http://www.99cast.com/embed.php?v=12377&vh=430&vw=60 timeout=15</link>
+<thumbnail></thumbnail>
 </item>
 
 
@@ -567,13 +578,15 @@
 <title>DD Sports</title>
 <link>rtmp://80.82.70.225/live33 playpath=dds swfUrl=http://www.zstream.eu/pl11ayer.swf pageUrl=http://www.zstream.eu/channel.php?v=dds</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d4/DD_sports_logo.jpg</thumbnail>
-</item>`
+</item>
 
 <item>
 <title>Ten Action</title>
-<link>rtmp://80.82.70.225/live/ playpath=tenactionhd11 swfUrl=http://www.zstream.eu/pl11ayer.swf pageUrl=http://www.zstream.eu/channel.php?v=tenactionhd11</link>
+<link>rtmp://50.23.115.84/live playpath=aferraas?id=158807 swfUrl=http://mips.tv/content/scripts/eplayer.swf swfVfy=1 conn=S:OK pageUrl=http://mips.tv/embedplayer/aferraas/1/600/420 timeout=15</link>
+<link>rtmp://46.23.67.58/live playpath=affera221?id=38430 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf swfVfy=1 conn=S:OK pageUrl=http://www.ucaster.eu/embedded/affera221/1/600/420 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/ten_action_plus.png</thumbnail>
-</item>`
+</item>
+
 
 <item>
 <title>Ten Sports Pakistan</title>
