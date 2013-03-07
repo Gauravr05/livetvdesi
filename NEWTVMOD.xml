@@ -401,6 +401,13 @@
 <thumbnail>http://desistreams.tv/images/bein_sport.jpeg</thumbnail>
 </item>
 
+<item>
+<title>S 2 Live</title>
+<link>rtmp://95.211.90.151/stream playpath=crichit11?id=85393 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf swfVfy=1 conn=S:OK pageUrl=http://www.liveflash.tv/embedplayer/crichit11/1/600/420 timeout=15</link>
+<thumbnail>http://i.cdn.turner.com/dr/hln/www/release/sites/default/themes/hln/logo.png</thumbnail>
+</item>
+
+
 
 <item>
 <title>NBA Tv</title>
@@ -408,11 +415,15 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/170px-NBA_TV.svg.png</thumbnail>
 </item>
 
+
 <item>
-<title>Ten Cricket</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=ten_cricket.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=ten_cricket.stream&vw=600&vh=430 timeout=15</link>
+<title>Ten Cricket HD</title>
+<link>rtmp://80.82.78.37:1935/cast?ovpfv=2.1.4 playpath=454666h swfUrl=http://95.211.219.184/LiveVideoPlayer.swf live=true pageUrl=http://www.99cast.com/embed.php?v=tencricket65&vh=430&vw=600 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/ten_cricket_international.png</thumbnail>
-</item>
+</item>m>
+
+
+
 
 <item>
 <title>Ten Sports (Link 1)</title>
@@ -570,6 +581,7 @@
 <item>
 <title>NEO Prime</title>
 <link>rtmp://80.82.78.25:1935/cast?ovpfv=2.1.4 playpath=12377 swfUrl=http://95.211.219.184/LiveVideoPlayer.swf live=true pageUrl=http://www.99cast.com/embed.php?v=12377&vh=430&vw=60 timeout=15</link>
+<link>rtmp://50.23.115.84/live playpath=lankalk3?id=157977 swfUrl=http://mips.tv/content/scripts/eplayer.swf swfVfy=1 conn=S:OK pageUrl=http://mips.tv/embedplayer/lankalk3/1/600/430 timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 
