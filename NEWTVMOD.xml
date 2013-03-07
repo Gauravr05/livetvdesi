@@ -484,18 +484,12 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png</thumbnail>
 </item>
 
-
 <item>
-<title>ESPN</title>
-<link>rtmp://95.211.186.102:443/liverepeater/ playpath=1576 swfUrl=http://4372f0f736b94c17980f-72149a3bba3a67bfaa92318a7ed89a98.r76.cf1.rackcdn.com/player2.swf swfVfy=true live=true pageUrl=http://footballnews.be/player2.php?id=1576&width=640&height=460 timeout=15</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png</thumbnail>
-</item> 
-
-<item>
-<title>ESPN HD</title>
-<link>rtmp://159.253.149.15:443/liverepeater/ playpath=3686 swfUrl=http://4372f0f736b94c17980f-72149a3bba3a67bfaa92318a7ed89a98.r76.cf1.rackcdn.com/player2.swf swfVfy=true live=true pageUrl=http://footballnews.be/player2.php?id=3686&width=640&height=460 timeout=15</link>
+<title>ESPN HD Live</title>
+<link>rtmp://live.yycast.com:1935/lb/ playpath=espnukhahah swfUrl=http://cdn.yycast.com/player/player.swf swfVfy=true live=true pageUrl=http://www.yycast.com/espnukhahah timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_hd.png</thumbnail>
 </item>
+
 
 
 <item>
@@ -597,28 +591,11 @@
 </item>
 
 <item>
-<title>s247me</title>
-<link>rtmp://173.255.134.183/live playpath=ff311123 swfUrl=http://www.s247.me/player/player-licensed55.swf live=true pageUrl=http://www.s247.me/embed.php?v=wafferas&vw=600vh=420&typeplayer=0&domain=www.streamer247.com timeout=15</link>
-<thumbnail>http://www.s247.me/images/logo.png</thumbnail>
-</item>
-
-<item>
 <title>Khantv</title>
 <link>rtmp://80.82.78.25/cast playpath=12377 swfUrl=http://95.211.219.184./player-licensed.swf live=true pageUrl=http://99cast.com/embed.php?v=starcricket6364&vw=590&vh=400&domain=www.khantv.info timeout=15</link>
-<thumbnail>http://www.khantv.info/images/star_cricket.png</thumbnail>
-</item>
-
-<item>
-<title>Khantv 2</title>
 <link>rtmp://80.82.78.37/cast playpath=12377  swfUrl=http://95.211.219.184/player-licensed.swf live=true pageUrl=http://www.99cast.com/embed.php?v=starcricket6364&vw=590&vh=400&domain=
 www.khantv.info timeout=15</link>
 <thumbnail>http://www.khantv.info/images/star_cricket.png</thumbnail>
-</item>
-
-<item>
-<title>Veemi</title>
-<link>rtmp://85.12.5.5/vl/_definst_ playpath=hitosports swfUrl=http://www.veemi.com/player/player-licensed.swf pageUrl=http://www.veemi.com/embed.php?v=hitosports&vw=600vh=600&vh=420&domain=cricpower.com</link>
-<thumbnail>http://80.82.78.114/images/star_cricket.png</thumbnail>
 </item>
 
 
@@ -1131,6 +1108,17 @@ autoplay=true timeout=15</link>
 <link>rtmp://streamer35.eboundservices.com/tv/hbo</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo2_hd.jpg</thumbnail>
 </item>
+
+<item>
+<title>CINEMAX</title>
+<link>rtmp://live2.ilive.to/redirect playpath=r3na4scqxhgcoly swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=650&height=450&channel=44
+968&autoplay=true timeout=15</link>
+<link>rtmp://live2.ilive.to/redirect playpath=nl1yg9ant34fy93 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=650&height=450&channel=44
+972&autoplay=true timeout=15</link>
+<thumbnail>http://www.cinemax.com/img/global/logo-ftr.png</thumbnail>
+</item>
+
+
 
 
 <item>
