@@ -208,8 +208,10 @@
 
 <item>
 <title>Mh1</title>
-<link>rtmpe://sakitv.net:1935/streams playpath=mh1.stream swfUrl=http://www.zonytvcom.info/you/src.swf live=true swfVfy=true timeout=15 token=9op0b5@7n1s5ip1 pageUrl=http://zonytvcom.info</link>
-<thumbnail></thumbnail>
+<link>rtmp://80.82.78.25:1935/cast?ovpfv=2.1.4 playpath=mh_one swfUrl=http://95.211.219.184/LiveVideoPlayer.swf live=true swfVfy=true  pageUrl=http://www.99cast.com/embed.php?v=mh_one&vw=600&vh=450&domain=pogot
+v.eu timeout=15 </link>
+<link>rtmp://shenzhenrtmp.viddillions.com/jadooplus/ playpath=stream625225.stream swfUrl=http://player.longtailvideo.com/player.swf live=true swfVfy=true  pageUrl=http://www.nowwatchtvlive.com/channel-tab-frame/mh1punjabi-1.php timeout=15 </link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/mh1_news-300x232.jpg</thumbnail>
 </item>
 
 <item>
@@ -221,6 +223,9 @@
 <item>
 <title>PTC Punjabi HQ</title>
 <link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=ptcpunjabi swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<link>rtmp://80.82.70.225/live22 playpath=ptcccc swfUrl=http://www.zstream.eu/pl11ayer.swf swfVfy=true live=true pageUrl=http://www.zstream.eu/embed.php?v=ptcccc&vw=600&vh=450&video=0&doma
+in=pogotv.eu timeout=15</link>
+
 <thumbnail>http://deora.tv/images/ptc-punjabi-tv-live-streaming-channel-online-free.jpg</thumbnail>
 </item>
 
@@ -336,6 +341,15 @@
 <link>rtmp://173.192.187.144:1935/bbs playpath=livestream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf pageUrl=http://nritv.ca/page.php?cid=30 timeout=20</link>
 <thumbnail>none</thumbnail>
 </item>
+
+<item>
+<title>DD Punjabi</title>
+<link>rtmp://23.21.155.146/zengalive/ playpath=250511250170150250901170250901901511dd_punjabi150.sdp swfUrl=http://www.zengatv.com/player.swf swfVfy=true live=true pageUrl=http://1tvlive.in/dd-punjabi/ timeout=15</link>
+<thumbnail>http://1tvlive.in/wp-content/uploads/2011/12/dd_punjabi_1194-300x250-119x80.jpg</thumbnail>
+</item>
+
+
+
 
 <item>
 <title>Dasmesh Dardar Gurdwara</title>
@@ -623,7 +637,8 @@ www.khantv.info timeout=15</link>
 
 
 <item>
-<title>Star Plus HD (NOT ALWAYS ONLINE)</title>
+<title>Star Plus HD</title>
+<link>rtmp://188.122.91.6/app playpath=starmuu swfUrl=http://www.yocast.tv/player/player-licensed.swf live=true pageUrl=ttp://www.yocast.tv/embed.php?live=starmuu&vw=600&vh=450 timeout=15</link>
 <link>rtmp://cdn.livecaster.tv/stream playpath=starplushdd swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=starplushdd&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
 </item>
@@ -641,6 +656,12 @@ www.khantv.info timeout=15</link>
 <link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=zeetv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
 <link>rtmp://live.ukcast.tv/broadcast playpath=zee_tv98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=zee_tv98&vw=600&vh=430 timeout=15</link>
 <link>rtmp://80.82.78.37/play playpath=zeetv5 swfUrl=http://95.211.220.70/player/player-licensed.swf live=true pageUrl=http://www.flashcast.tv/embed.php?live=zeetv_desi&vw=600&vh=430 timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zee Tv HD</title>
+<link>rtmp://188.122.91.6/app playpath=zeetvbu swfUrl=http://www.yocast.tv/player/player-licensed.swf swfVfy=true live=true pageUrl=http://www.yocast.tv/embed.php?live=zeetvbu&vw=600&vh=450 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_tv.jpg</thumbnail>
 </item>
 
@@ -745,6 +766,21 @@ www.khantv.info timeout=15</link>
 </item>
 
 <item>
+<title>Channel V</title>
+<link>rtmp://cp133304.live.edgefcs.net/live/ Playpath=channelv2@62057 swfUrl=http://player.longtailvideo.com/player.swf swfVfy=true live=true pageUrl=http://1tvlive.in/channel-v-india/ timeout=15</link>
+<thumbnail>http://1tvlive.in/wp-content/uploads/2011/12/channel_v_in-119x80.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>MTV India</title>
+<link>rtmp://23.21.155.146/zengalive/ Playpath=zenga1juneclustermtv150.sdp swfUrl=http://player.longtailvideo.com/player.swf swfVfy=true conn=S:OK live=true pageUrl=http://1tvlive.in/mtv-india/ timeout=15</link>
+<thumbnail>http://1tvlive.in/wp-content/uploads/2011/12/mtv-india11225-119x80.jpg</thumbnail>
+</item>
+
+
+<item>
 <title>mtunes (NOT ALWAYS ONLINE)</title>
 <link>rtmp://shnzhnrtmptop.viddillions.com/jadooplus/ playpath=stream0034.stream swfUrl=http://player.longtailvideo.com/player5.9.swf swfVfy=true live=true pageUrl=http://1tvlive.in/m-tunes-hd-live/ timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/m_tunes_hd.jpg</thumbnail>
@@ -795,16 +831,15 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>AAJ TAK</title>
-<link>rtmp://23.21.155.146/zengalive/ playpath=250411250170150250901170901901250411aajtak150.sdp swfUrl=http://www.zengatv.com/player.swf pageUrl=http://funtv4u.com/aaj-tak-news/  timeout=15</link>
+<link>rtmp://23.21.155.146/zengalive/ playpath=250511250170150250901170250901250250aajtak150.sdp swfUrl=http://player.longtailvideo.com/player.swf swfVfy=true conn=S:OK live=true pageUrl=http://1tvlive.in/aaj-tak-live-streaming-watch-channel/  timeout=15</link>
 <thumbnail>http://d3jnkp3lrs2hd5.cloudfront.net/web/images/live-images/AAJTAK.jpg</thumbnail>
 </item> 
 
 <item>
 <title>Headlines Today</title>
-<link>rtmp://23.21.155.146/zengalive/ playpath=250601250170150250901170250411550601today150.sdp swfUrl=http://www.zengatv.com/5.10.swf pageUrl=http://www.zengatv.com/home.zenga?s=Headlines_Today live=true timeout=15</link>
+<link>rtmp://23.21.155.146/zengalive/ playpath=250511250170150250901170250901250770today150.sdp swfUrl=http://player.longtailvideo.com/player.swf swfVfy=true conn=S:OK live=true  pageUrl=http://1tvlive.in/headlines-today/ timeout=15</link>
 <thumbnail>http://d3jnkp3lrs2hd5.cloudfront.net/web/images/live-images/headlins-today.jpg</thumbnail>
 </item> 
-
 
 
 <item>
@@ -1256,13 +1291,14 @@ autoplay=true timeout=15</link>
 <title>CNN</title>
 <link>rtmp://live.ukcast.tv/broadcast playpath=cnn1.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=cnn1&vw=600&vh=430 timeout=15</link>
 <link>rtmp://50.23.113.212/live playPath=mamoma?id=152942 swfVfy=1 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=hthttp://mips.tv/mamomaimeout=15</link>
-
+<link>rtmp://live2.ilive.to/redirect playpath=rjxo8hz17q9waiq swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/46461/CNN timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
 </item>
 
 <item>
 <title>CNN 2</title>
 <link>rtmp://a.cdn.msnbclive.eu/edge playpath=cnn_live swfUrl=http://msnbclive.eu/player.swf live=true pageUrl=http://weplaylive.tv/live-news-stream/ timeout=15</link>
+
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
 </item>
 
