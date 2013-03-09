@@ -404,7 +404,7 @@ in=pogotv.eu timeout=15</link>
 
 <item>
 <title>EuroSport 2</title>
-<link>rtmp://live.yycast.com:1935/lb/ playpath=5_wrcfyxmcs2gci swfUrl=http://cdn.yycast.com/player/player.swf live=true pageUrl=http://www.yycast.com/5_wrcfyxmcs2gci timeout=15</link>
+<link>rtmp://live.yycast.com:1935/lb/ playpath=wu6c4dn3ify0xot  swtfUrl=http://cdn.yycast.com/player/player.swf live=true pageUrl=http://www.yycast.com/embed.php?fileid=wu6c4dn3ify0xot&vw=640&vh=360 timeout=15</link>   
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport_de.png</thumbnail>
 </item>
 
