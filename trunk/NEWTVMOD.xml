@@ -221,6 +221,12 @@ v.eu timeout=15 </link>
 </item>
 
 <item>
+<title>Punjabi Music</title>
+<link>rtmp://extondemand.livestream.com/ondemand Playpath=trans/dv02/mogulus-user-files/chwardvision/2009/11/09/061d1808-fb27-4f20-8711-72a8b16dacd6 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?color=0x000000&jsEnabled=false&autoPlay=true&iconColor=0xCCCCCC&iconColorOver=0xE7E7E7&mute=false&time= swfVfy=1 conn=S:OK  pageUrl=http://cdn.livestream.com/embed/WARDVISION?layout=4&color=0x000000&mute=false&autoPlay=true&iconColorOver=0xE7E7E7&iconColor=0xCCCCCC </link>
+<thumbnail>http://ben10.edogo.com/wp-content/uploads/2011/10/ben-10.jpeg</thumbnail>
+</item>
+
+<item>
 <title>PTC Punjabi HQ</title>
 <link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=ptcpunjabi swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
 <link>rtmp://80.82.70.225/live22 playpath=ptcccc swfUrl=http://www.zstream.eu/pl11ayer.swf swfVfy=true live=true pageUrl=http://www.zstream.eu/embed.php?v=ptcccc&vw=600&vh=450&video=0&doma
@@ -637,12 +643,13 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>Star Plus HD</title>
+<link>rtmp://93.174.93.66/app playpath=starmuu swfUrl=http://www.yocast.tv/player/player-licensed.swf live=true pageUrl=http://www.yocast.tv/embed.php?live=starmuu&vw=600&vh=450 timeout=15</link>
 <link>rtmp://cdn.livecaster.tv/stream playpath=starplushdd swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=starplushdd&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
-</item>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail> 
+</item> 
+
 
 <item>
 <title>Zee Smile</title>
@@ -658,6 +665,13 @@ www.khantv.info timeout=15</link>
 <link>rtmp://80.82.78.37/play playpath=zeetv5 swfUrl=http://95.211.220.70/player/player-licensed.swf live=true pageUrl=http://www.flashcast.tv/embed.php?live=zeetv_desi&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_tv.jpg</thumbnail>
 </item>
+
+<item>
+<title>Zee Tv HD</title>
+<link>rtmp://cdn.yocast.tv/yocast playpath=zeetvbu swfUrl=http://www.yocast.tv/player/player-licensed.swf swfVfy=true live=true pageUrl=http://www.yocast.tv/embed.php?live=zeetvbu&vw=600&vh=450 timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_tv.jpg</thumbnail>
+</item>
+
 
 
 <item>
