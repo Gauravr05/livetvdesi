@@ -393,20 +393,22 @@ in=pogotv.eu timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports_se_asia.png</thumbnail>
 </item>
 
-
-
-
 <item>
 <title>EuroSport</title>
-<link>rtmp://live.yycast.com:1935/lb/ playpath=oxtmvtvek6ivilw swfUrl=http://cdn.yycast.com/player/player.swf live=true pageUrl=http://www.yycast.com/oxtmvtvek6ivilw timeout=15</link>
+<link>rtmp://live.yycast.com:1935/lb/ playpath=eurippplllkk swfUrl=http://cdn.yycast.com/player/player.swf live=true pageUrl=http://www.yycast.com/embed.php?fileid=eurippplllkk&vw=620&vh=490 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport_de.png</thumbnail>
 </item>
+
 
 <item>
 <title>EuroSport 2</title>
-<link>rtmp://live.yycast.com:1935/lb/ playpath=wu6c4dn3ify0xot  swtfUrl=http://cdn.yycast.com/player/player.swf live=true pageUrl=http://www.yycast.com/embed.php?fileid=wu6c4dn3ify0xot&vw=640&vh=360 timeout=15</link>   
+<link>rtmp://live.yycast.com:1935/lb/ playpath=iuudwj3gx0amxie swfUrl=http://cdn.yycast.com/player/player.swf live=true pageUrl=http://www.yycast.com/embed.php?fileid=iuudwj3gx0amxie&vw=620&vh=490 timeout=15</link>
+<link>rtmp://live.webcaston.com/wlb playpath=2C4UfU7kbLGOqlj swfUrl=http://www.webcaston.com/player/player.swf live=true pageUrl=http://www.webcaston.com/2C4UfU7kbLGOqlj timeout=15</link>
+<link>rtmp://live.veemi.com/vlb playpath=O_95GI1RwZQJWnD swfUrl=http://www.veemi.com/player/player-licensed.swf live=true pageUrl=http://www.veemi.com/embed.php?v=O_95GI1RwZQJWnD&vw=640&vh=360&doma
+in=mypremium.tv timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport_de.png</thumbnail>
 </item>
+
 
 
 <item>
@@ -458,13 +460,14 @@ in=pogotv.eu timeout=15</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7b/Ten_Sports.jpg</thumbnail>
 </item>
 
-
-
 <item>
 <title>ESPN America HD</title>
-<link>rtmp://live.yycast.com:1935/lb/ playpath=espnusaaa swfUrl=http://cdn.yycast.com/player/player.swf swfVfy=true live=true pageUrl=http://www.yycast.com/espnusaaa timeout=15</link>
+<link>rtmp://159.253.131.111/live playpath=184120 swfUrl=http://www.udemy.com/static/flash/player5.9.swf swfVfy=true live=true pageUrl=http://castalba.tv/embed.php?cid=12825&wh=650&ht=450&r=www.stream2w
+atch.me timeout=15</link>
+<link>rtmp://live.yycast.com:1935/lb/ playpath=espnusaa swfUrl=http://cdn.yycast.com/player/player.swf swfVfy=true live=true pageUrl=http://www.yycast.com/espnusaa timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_america_uk_hd.png</thumbnail>
 </item>
+
 
 
 <item>
@@ -488,15 +491,17 @@ in=pogotv.eu timeout=15</link>
 
 <item>
 <title>ESPN India</title>
-<link>rtmp://198.105.209.116/live playpath=aafferrass?id=158811 swfUrl=http://mips.tv/content/scripts/eplayer.swf swfVfy=1 conn=S:OK pageUrl=http://mips.tv/embedplayer/aafferrass/1/600/420 timeout=15</link>
+<link>rtmp://146.185.19.140/live playpath=affe2234?id=38769 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf swfVfy=1 conn=S:OK pageUrl=http://www.ucaster.eu/embedded/affe2234/1/600/420 timeout=15</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png</thumbnail>
 </item>
 
 <item>
 <title>ESPN U.K</title>
-<link>rtmp://85.12.5.42:1935/live/_definst_ playpath=_93eaztokfsxyc0 swfUrl=http://cdn.yycast.com/player/player.swf live=true pageUrl=http://www.yycast.com/embed.php?fileid=_93eaztokfsxyc0&vw=640&vh=360 timeout=15</link>
+<link>rtmp://live.ukcast.tv/broadcast playpath=espn_uk.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=espn_uk&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png</thumbnail>
 </item>
+
+
 
 <item>
 <title>ESPN HD Live</title>
@@ -544,13 +549,12 @@ in=pogotv.eu timeout=15</link>
 <thumbnail>http://images3.wikia.nocookie.net/__cb20120824135860/logopedia/images/4/46/SkySports3.png</thumbnail>
 </item>
 
-
 <item>
 <title>Sky Sports 4 </title>
-<link>rtmp://85.12.5.43:1935/live/_definst playpath=sss2rty swfUrl=http://cdn.yycast.com/player/player.swf live=true pageUrl=http://www.yycast.com/embed.php?fileid=sss2rty&vw=620&vh=490 timeout=15</link>
+<link>rtmp://178.21.18.143/liveedge playpath=iuyftrdd-tmzkzxhl3m2 swfUrl=http://cast4you.tv/p1.swf live=true pageUrl=http://cast4you.tv/show.php?id=iuyftrdd-tmzkzxhl3m2&width=620&heigh
+t=490 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
 </item>
-
 
 
 <item>
@@ -585,9 +589,10 @@ in=pogotv.eu timeout=15</link>
 
 <item>
 <title>DD Sports</title>
-<link>rtmp://65.49.77.251/redirect playpath=dd3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-sports-live/ </link>
+<link>rtmp://65.49.77.251/redirect playpath=dd3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf swfVfy=true conn=S:OK live=true pageUrl=http://www.turbotv.in/dd-sports-live/ </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d4/DD_sports_logo.jpg</thumbnail>
 </item>
+
 
 
 <item>
@@ -830,16 +835,23 @@ www.khantv.info timeout=15</link>
 
 
 <item>
-<title>AAJ TAK</title>
-<link>rtmp://23.21.155.146/zengalive/ playpath=250511250170150250901170250901250250aajtak150.sdp swfUrl=http://player.longtailvideo.com/player.swf swfVfy=true conn=S:OK live=true pageUrl=http://1tvlive.in/aaj-tak-live-streaming-watch-channel/  timeout=15</link>
-<thumbnail>http://d3jnkp3lrs2hd5.cloudfront.net/web/images/live-images/AAJTAK.jpg</thumbnail>
-</item> 
+<title>ET NOW</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=etnow swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=117 timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/et_now.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Aaj Tak</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=aajtak swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=8 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>Headlines Today</title>
-<link>rtmp://23.21.155.146/zengalive/ playpath=250511250170150250901170250901250770today150.sdp swfUrl=http://player.longtailvideo.com/player.swf swfVfy=true conn=S:OK live=true  pageUrl=http://1tvlive.in/headlines-today/ timeout=15</link>
-<thumbnail>http://d3jnkp3lrs2hd5.cloudfront.net/web/images/live-images/headlins-today.jpg</thumbnail>
-</item> 
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=headlinetoday swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=11 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
 
 
 <item>
