@@ -673,20 +673,16 @@ www.khantv.info timeout=15</link>
 </item>
 
 
-
 <item>
 <title>Sony TV</title>
+<link>rtmp://80.82.70.225/live22 playpath=sonypogotv swfUrl=http://www.zstream.eu/pl11ayer.swf live=true pageUrl=http://www.zstream.eu/embed.php?v=sonypogotv&vw=550&vh=450&video=0&
+domain=pogotv.eu timeout=15</link>
+<link>rtmp://cdn.livecaster.tv/stream playpath=sonyhd swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=sonyhd&vw=600&vh=430 timeout=15</link>
 <link>rtmp://live.ukcast.tv/broadcast playpath=sonylive swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=sonylive&vw=600&vh=430 timeout=15</link>
 <link>rtmp://cdn.livecaster.tv/stream playpath=sony1234 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=sony1234&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_in.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>Sony TV HD</title>
-<link>rtmp://cdn.livecaster.tv/stream playpath=sonyhd swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=sonyhd&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_in.jpg</thumbnail>
-</item>
 
 <item>
 <title>B4U Movies</title>
