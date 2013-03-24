@@ -98,6 +98,11 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>Zeetv USA HQ</title>
+<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=zeetv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_tv.png</thumbnail>
+</item>
 
 <item>
 <title>Zing tv HQ</title>
@@ -187,13 +192,165 @@
 </item>
 
 
-
 </items>
 </channel>
 
 <!-- ================================================================================?==== 
 
 -->
+
+<channel>
+<name>Watch Sun Tv</name>
+<thumbnail></thumbnail>
+<items>
+<item>
+<title>Life OK</title>
+<link>rtmpe://68.235.32.28/live/ playpath=lifeok pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zee Tv</title>
+<link>rtmpe://68.235.32.28/live/ playpath=zeetv pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Plus</title>
+<link>rtmpe://68.235.32.28/live/ playpath=starplus pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mh1</title>
+<link>rtmpe://68.235.32.28/live/ playpath=mh1 pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zee Cinema</title>
+<link>rtmpe://68.235.32.28/live/ playpath=zcinema pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zee Smile</title>
+<link>rtmpe://68.235.32.28/live/ playpath=zeesmile pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>UTV Movies</title>
+<link>rtmpe://68.235.32.28/live/ playpath=utvmovies pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Gold</title>
+<link>rtmpe://68.235.32.28/live/ playpath=stargold pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sahara One</title>
+<link>rtmpe://68.235.32.28/live/ playpath=saharaone pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Filmy</title>
+<link>rtmpe://68.235.32.28/live/ playpath=saharafilmy pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sony Max</title>
+<link>rtmpe://68.235.32.28/live/ playpath=setmax pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sony Sab</title>
+<link>rtmpe://68.235.32.28/live/ playpath=sonysabtv pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tv Asia</title>
+<link>rtmpe://68.235.32.28/live/ playpath=tvasia pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Aapka Colors</title>
+<link>rtmpe://68.235.32.28/live/ playpath=aapka_colors pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zoom</title>
+<link>rtmpe://68.235.32.28/live/ playpath=zoomtv pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Desi U4 Cinema</title>
+<link>rtmpe://68.235.32.28/live/ playpath=desicinema pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Desi 4U Hits</title>
+<link>rtmpe://68.235.32.28/live/ playpath=desi4uhits pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>MTV India </title>
+<link>rtmpe://68.235.32.28/live/ playpath=mtv pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zing</title>
+<link>rtmpe://68.235.32.28/live/ playpath=zing pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>Headline Today</title>
+<link>rtmpe://68.235.32.28/live/ playpath=headlines pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Times Now</title>
+<link>rtmpe://68.235.32.28/live/ playpath=timesnow pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>DD National</title>
+<link>rtmpe://68.235.32.28/live/ playpath=ddnational pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>DD Sports</title>
+<link>rtmpe://68.235.32.28/live/ playpath=ddsports pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+</items>
+</channel>
+
+
+<!-- ================================================================================?==== 
+
+-->
+
 <channel>
 <name>Punjabi Channels</name>
 <thumbnail></thumbnail>
@@ -205,6 +362,13 @@
 <link>rtmp://cdn.nwk.yupptv.tv/nwk playpath=etvpacific swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
 <thumbnail></thumbnail>
 </item>
+
+<item>
+ <title>9x Tashan</title>
+ <link>http://46.249.213.93/iPhone/broadcast/9xmtashan-tablet.3gp/9xmtashan-tablet.3gp-mr649k.m3u8</link>
+ <thumbnail>http://yamgo.mobi/images/mid/logo/Tashan-logo.png</thumbnail>
+ </item>
+
 
 <item>
 <title>Mh1</title>
@@ -354,6 +518,11 @@ in=pogotv.eu timeout=15</link>
 <thumbnail>http://1tvlive.in/wp-content/uploads/2011/12/dd_punjabi_1194-300x250-119x80.jpg</thumbnail>
 </item>
 
+<item>
+ <title>Punjabi Hits</title>
+ <link>http://46.249.213.87/iPhone/broadcast/punjabihits-tablet.3gp/punjabihits-tablet.3gp-mr647k.m3u8</link>
+ <thumbnail>http://yamgo.mobi/images/mid/logo/PunjabiHits-logo_mod.png</thumbnail>
+ </item>
 
 
 
@@ -378,8 +547,6 @@ in=pogotv.eu timeout=15</link>
 </items>
 </channel>
 
-</items>
-</channel>
 
 <!-- ================================================================================?==== 
 
@@ -538,12 +705,14 @@ atch.me timeout=15</link>
 
 <item>
 <title>Sky Sports 1 </title>
+<link>rtmp://109.163.236.88:1935/live/channel1</link>
 <link>rtmp://live.ukcast.tv/broadcast playpath=sky_sports1.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=sky_sports1&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://images3.wikia.nocookie.net/__cb20120824135860/logopedia/images/4/46/SkySports3.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 2 </title>
+<link>rtmp://109.163.236.88:1935/live/channel7</link>
 <link>rtmp://live.ukcast.tv/broadcast playpath=sky_sports2.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=sky_sports1&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://images3.wikia.nocookie.net/__cb20120824135860/logopedia/images/4/46/SkySports3.png</thumbnail>
 </item>
@@ -662,13 +831,6 @@ www.khantv.info timeout=15</link>
 <item>
 <title>Zee Tv</title>
 <link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=zeetv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<link>rtmp://80.82.78.37/play playpath=zeetv5 swfUrl=http://95.211.220.70/player/player-licensed.swf live=true pageUrl=http://www.flashcast.tv/embed.php?live=zeetv_desi&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>Zee Tv HD</title>
-<link>rtmp://cdn.yocast.tv/yocast playpath=zeetvbu swfUrl=http://www.yocast.tv/player/player-licensed.swf swfVfy=true live=true pageUrl=http://www.yocast.tv/embed.php?live=zeetvbu&vw=600&vh=450 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_tv.jpg</thumbnail>
 </item>
 
@@ -737,6 +899,19 @@ domain=pogotv.eu timeout=15</link>
 
 
 <item>
+<title>Desi4u Hits</title>
+<link>rtmpe://68.235.37.141/minnal/ playpath=dhits2 swfUrl=http://player.longtailvideo.com/player.swf live=true pageUrl=http://www.mylivetvchannel.com/desi4uhitsmusic/ timeout=15</link>
+<thumbnail>http://watchsuntv.com/channellogo/hits.png</thumbnail>
+</item>
+
+
+<item>
+<title>Desi4u Cinema</title>
+<link>rtmpe://68.235.37.141/minnal/ playpath=dcinema2 swfUrl=http://player.longtailvideo.com/player.swf live=true pageUrl=http://www.mylivetvchannel.com/desi4ucinema/ timeout=15</link>
+<thumbnail>http://funtv4u.com/wp-content/uploads/2012/06/desi-4u.jpg</thumbnail>
+</item>
+
+<item>
 <title>Zee Cinema</title>
 <link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=zeecinema swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_cinema.jpg</thumbnail>
@@ -775,7 +950,11 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail>http://1tvlive.in/wp-content/uploads/2011/12/channel_v_in-119x80.jpg</thumbnail>
 </item>
 
-
+<item>
+ <title>Zing</title>
+ <link>http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp/zing-tablet.3gp-mr398k.m3u8</link>
+ <thumbnail>http://yamgo.mobi/images/mid/logo/zing-logo.png</thumbnail>
+ </item>
 
 <item>
 <title>MTV India</title>
@@ -836,6 +1015,7 @@ domain=pogotv.eu timeout=15</link>
 <item>
 <title>Aaj Tak</title>
 <link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=aajtak swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=8 timeout=15</link>
+<link>http://46.249.213.87/iPhone/broadcast/aajtak-tablet.3gp/aajtak-tablet.3gp-mr648k.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -1373,6 +1553,13 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 <thumbnail>http://images2.wikia.nocookie.net/__cb20100728112639/logopedia/images/3/34/Discovery_Channel_2000.png</thumbnail>
 </item>
 
+<item>
+<title>Discovery-HD</title>
+<link>rtsp://118.69.202.58:1935/hayhaytv_live/mp4:discovery.360p</link>
+<thumbnail>http://2.bp.blogspot.com/-voVHSLaz6c8/T4Rzq5_2yqI/AAAAAAAAEF8/68NQBtrtBdk/s1600/Discovery_HD_old.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-voVHSLaz6c8/T4Rzq5_2yqI/AAAAAAAAEF8/68NQBtrtBdk/s1600/Discovery_HD_old.png</fanart>
+</item>
+
 
 
 <item>
@@ -1398,6 +1585,7 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 
 <item>
 <title>Animal Planet HD</title>
+<link>rtmp://tv.webport.tv/promo2 app=promo2 Playpath=mtv swfUrl=http://www.mylivetvchannel.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.mylivetvchannel.com/animalplanetuk/ buffer=300000 swfVfy=true live=true timeout=10</link>
 <link>rtmp://s01.webport.tv/promo/mtv swfUrl=http://futuboxhd.com/player/player.swf live=1 pageUrl=http://futuboxhd.com/ timeout=10</link>
 <thumbnail>http://www.m-streams.com/_images/chanal-pic/animalplanet-2l.jpg</thumbnail>
 </item>
@@ -1556,6 +1744,131 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 <link>rtmp://37.220.36.68:443/liverepeater playpath=3587 swfUrl=http://4372f0f736b94c17980f-72149a3bba3a67bfaa92318a7ed89a98.r76.cf1.rackcdn.com/player2.swf swfVfy=true live=true pageUrl=http://footballnews.be/player2.php?id=3587&width=640&height=460 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tlc_us.jpg</thumbnail>
 </item> 
+
+ <item>
+ <title>Active Channel-HD</title>
+ <link>rtmp://sb0hfynwcdzkxs.rtmphost.com/simulcast app=simulcast Playpath=livestream swfUrl=http://www.mylivetvchannel.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.mylivetvchannel.com/activechannel/ buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSpPsAXuceNS1XkX5_sO0mnHq1Vn9K0vFu1nTxza6UKe3ldoBf4</thumbnail>
+ <fanart>http://t1.gstatic.com/images?q=tbn:ANd9GcSpPsAXuceNS1XkX5_sO0mnHq1Vn9K0vFu1nTxza6UKe3ldoBf4</fanart>
+ </item>
+ <item>
+ <title>Filmon-HD</title>
+ <link>rtmp://live4.gv.edge.filmon.com:1935/live app=live Playpath=13.high.stream swfUrl=http://www.mylivetvchannel.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.mylivetvchannel.com/film4/ buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/08/Film4_HD_logo1.png</thumbnail>
+ <fanart>http://nowwatchtvlive.com/wp-content/uploads/2011/08/Film4_HD_logo1.png</fanart>
+ </item>
+
+ <item>
+ <title>TOM AND JERRY-HD</title>
+ <link>rtmp://204.45.133.154/ctv app=ctv Playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcRYS4OP5bF0xE47Q60qNwWyxMpoAFsmJUpiZgBN3W6JoLHM59Eqzw</thumbnail>
+ <fanart>http://t2.gstatic.com/images?q=tbn:ANd9GcRYS4OP5bF0xE47Q60qNwWyxMpoAFsmJUpiZgBN3W6JoLHM59Eqzw</fanart>
+ </item>
+
+
+
+ <item>
+ <title>AE -HD</title>
+ <link>rtmp://142.4.216.154/edge app=edge Playpath=x99v7adz8i3ikkm swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=620&height=500&channel=38765&autoplay=true buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/ae-hd-300x90.png</thumbnail>
+ <fanart>http://nowwatchtvlive.com/wp-content/uploads/2011/07/ae-hd-300x90.png</fanart>
+ </item>
+
+
+
+ <item>
+ <title>Live Hollywood Best Movies</title>
+ <link>rtmp://142.4.216.176/edge app=edge Playpath=a1wn1j3ra1w0cv0 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=38214&autoplay=true buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ </item>
+
+ <item>
+ <title>Latest Movies Free</title>
+ <link>rtmp://142.4.216.176/edge app=edge Playpath=hc992q7x7cz86t9 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=3449&autoplay=true buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ </item>
+
+ <item>
+ <title>Superhit Movies</title>
+ <link>rtmp://142.4.216.176/edge app=edge Playpath=bwbop58ixz281wv swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=44126&autoplay=true buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ </item>
+
+ <item>
+ <title>HBO Comedy movie</title>
+ <link>rtmp://142.4.216.176/edge app=edge Playpath=a1wn1j3ra1w0cv0 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/38214/watch-live-HBO%20Comedy%20movie-channel-for-free buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ </item>
+
+
+ <item>
+ <title>HBO 2</title>
+ <link>rtmp://142.4.216.178/edge app=edge Playpath=q370zyt153r1wl7 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/46059/HBO_2 buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ </item>
+
+ <item>
+ <title>StarMovie Asia</title>
+ <link>rtmp://142.4.216.176/edge app=edge Playpath=kggplz5w9bpaaaj swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/46497/StarMovie_Asia buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ </item>
+
+
+
+ <item>
+ <title>Nickelodeon</title>
+ <link>rtmp://142.4.216.178/edge app=edge Playpath=8f7p62ebc1aq711 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/42064/Nickelodeon buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ </item>
+
+ <item>
+ <title>Chan's movies from 1991-2008</title>
+ <link>rtmp://142.4.216.149/edge app=edge Playpath=aq6ijlszct7wfl4 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/37002/Jackie_Chan buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ </item>
+
+
+ <item>
+ <title>Showtime movies</title>
+ <link>rtmp://142.4.216.154/edge app=edge Playpath=bwbop58ixz281wv swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/44126/Showtime_movies buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ </item>
+
+ <item>
+ <title>Fox Movie</title>
+ <link>rtmp://142.4.216.154/edge app=edge Playpath=hc992q7x7cz86t9 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/38449/Fox_Movie_Channel buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ </item>
+ <item>
+ <title>Asian Movies</title>
+ <link>rtmp://142.4.216.156/edge app=edge Playpath=7rfuhjo3hs7g7tq swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/38226/Asian_Movies buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ </item>
+
+ <item>
+ <title>Disney Junior</title>
+ <link>rtmp://142.4.216.172/edge app=edge Playpath=tljgzu7oqfmr7h0 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/40859/Disney_Junior buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ </item>
+
+ <item>
+ <title>ABC</title>
+ <link>rtmp://142.4.216.149/edge app=edge Playpath=nz7l9vc5nv1og7b swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/46476/ABC buffer=300000 swfVfy=true live=true timeout=10</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ </item>
 
 </items>
 </channel>
