@@ -192,6 +192,7 @@
 </item>
 
 
+
 </items>
 </channel>
 
@@ -346,6 +347,8 @@
 </items>
 </channel>
 
+</items>
+</channel>
 
 <!-- ================================================================================?==== 
 
@@ -437,6 +440,13 @@ in=pogotv.eu timeout=15</link>
 <thumbnail>http://kamaltv.webs.com/get%20punjabi.png</thumbnail>
 </item>
 
+<item>
+<title>GET PUNJABI</title>
+<link>rtmp://live.wcast.tv/stream playpath=get_punjabi.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=get_punjabi&vw=600&vh=430 timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/get_punjabi.jpg</thumbnail>
+</item>
+
+
 
 <item>
 <title>Time tv HQ</title>
@@ -513,10 +523,12 @@ in=pogotv.eu timeout=15</link>
 </item>
 
 <item>
-<title>DD Punjabi</title>
-<link>rtmp://23.21.155.146/zengalive/ playpath=250511250170150250901170250901901511dd_punjabi150.sdp swfUrl=http://www.zengatv.com/player.swf swfVfy=true live=true pageUrl=http://1tvlive.in/dd-punjabi/ timeout=15</link>
-<thumbnail>http://1tvlive.in/wp-content/uploads/2011/12/dd_punjabi_1194-300x250-119x80.jpg</thumbnail>
+<title>DD PUNJABI</title>
+<link>rtmp://live.wcast.tv/stream playpath=dd_punjabi.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=dd_punjabi&vw=600&vh=430 timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dd_punjabi.jpg</thumbnail>
 </item>
+
+
 
 <item>
  <title>Punjabi Hits</title>
@@ -547,6 +559,8 @@ in=pogotv.eu timeout=15</link>
 </items>
 </channel>
 
+</items>
+</channel>
 
 <!-- ================================================================================?==== 
 
@@ -808,16 +822,8 @@ www.khantv.info timeout=15</link>
 <item>
 <title>Star Plus</title>
 <link>rtmp://streamer35.eboundservices.com/tv/starplus</link>
-<link>rtmp://cdn.livecaster.tv/stream playpath=starplushdd swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=starplushdd&vw=650&vh=440 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
 </item>
-
-<item>
-<title>Star Plus HD</title>
-<link>rtmp://93.174.93.66/app playpath=starmuu swfUrl=http://www.yocast.tv/player/player-licensed.swf live=true pageUrl=http://www.yocast.tv/embed.php?live=starmuu&vw=600&vh=450 timeout=15</link>
-<link>rtmp://cdn.livecaster.tv/stream playpath=starplushdd swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=starplushdd&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail> 
-</item> 
 
 
 <item>
@@ -839,9 +845,6 @@ www.khantv.info timeout=15</link>
 <title>Sony TV</title>
 <link>rtmp://80.82.70.225/live22 playpath=sonypogotv swfUrl=http://www.zstream.eu/pl11ayer.swf live=true pageUrl=http://www.zstream.eu/embed.php?v=sonypogotv&vw=550&vh=450&video=0&
 domain=pogotv.eu timeout=15</link>
-<link>rtmp://cdn.livecaster.tv/stream playpath=sonyhd swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=sonyhd&vw=600&vh=430 timeout=15</link>
-<link>rtmp://live.ukcast.tv/broadcast playpath=sonylive swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=sonylive&vw=600&vh=430 timeout=15</link>
-<link>rtmp://cdn.livecaster.tv/stream playpath=sony1234 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=sony1234&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_in.jpg</thumbnail>
 </item>
 
@@ -862,15 +865,12 @@ domain=pogotv.eu timeout=15</link>
 <item>
 <title>Colors</title>
 <link>rtmp://live.ukcast.tv/broadcast playpath=colors98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=colors98&vw=600&vh=430 timeout=15</link>
-<link>rtmp://91.121.9.106:1930/live/color playpath=color swfUrl=http://www.zonytvcom.info/saki/player/src2.swf live=true pageurl=http://zonytvcom.info/saki/embed.php?live=color&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/colors_in.jpg</thumbnail>
 </item>
 
 <item>
 <title>Sony Sab</title>
 <link>rtmp://cdn.livecaster.tv/stream playpath=sab_tv66 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=sab_tv66&vw=600&vh=430 timeout=15</link>
-<link>rtmp://188.122.91.6/app playpath=sab121 swfUrl=http://www.yocast.tv/player/player-licensed.swf live=true pageUrl=http://www.yocast.tv/embed.php?live=sab121&vw=600&vh=450 timeout=15</link>
-<link>rtmp://live.ukcast.tv/broadcast playpath=sab_tv6 swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=sab_tv6&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sony_sab_tv_in.jpg</thumbnail>
 </item>
 
@@ -878,7 +878,6 @@ domain=pogotv.eu timeout=15</link>
 <item>
 <title>Life OK</title>
 <link>rtmp://live.ukcast.tv/broadcast playpath=life_ok.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=life_ok&vw=600&vh=430 timeout=15</link>
-<link>rtmp://85.25.155.85:1930/live playpath=lifeok.stream swfUrl=http://www.zonytvcom.info/saki/player/src2.swf live=true pageUrl=http://zonytvcom.info/saki/embed.php?live=lifeok.stream&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_in.jpg</thumbnail>
 </item>
 
@@ -1053,27 +1052,11 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dd_national.jpg</thumbnail>
 </item> 
 
-
-<item>
-<title>DD PUNJABI</title>
-<link>rtmp://live.wcast.tv/stream playpath=dd_punjabi.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=dd_punjabi&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dd_punjabi.jpg</thumbnail>
-</item>
-
-
 <item>
 <title>DD URDU</title>
 <link>rtmp://live.wcast.tv/stream playpath=dd_urdu.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=dd_urdu&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dd_urdu.jpg</thumbnail>
 </item>
-
-
-<item>
-<title>GET PUNJABI</title>
-<link>rtmp://live.wcast.tv/stream playpath=get_punjabi.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=get_punjabi&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/get_punjabi.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>NAT GEO INDIA</title>
