@@ -1062,27 +1062,27 @@ domain=pogotv.eu timeout=15</link>
 <items>
 
 <item>
-<title>New item</title>
+<title>BBC One</title>
 <link>http://31.209.96.29:8000</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Foods</title>
+<title>BBC Two</title>
 <link>http://31.209.96.29:8001</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>New item</title>
+<title>1</title>
 <link>http://31.209.96.29:8002</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>New item</title>
+<title>2</title>
 <link>http://31.209.96.29:8003</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>New item</title>
+<title>itv</title>
 <link>http://31.209.96.29:8005</link>
 <thumbnail></thumbnail>
 </item>
@@ -1092,17 +1092,17 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Movie</title>
+<title>itv4</title>
 <link>http://31.209.96.29:8007</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Kiss</title>
+<title>KISS</title>
 <link>http://31.209.96.29:8008</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>4 MORE</title>
+<title>4 More</title>
 <link>http://31.209.96.29:8009</link>
 <thumbnail></thumbnail>
 </item>
@@ -1112,22 +1112,22 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Sky Sport 3 HD</title>
+<title>Sky Sports 3</title>
 <link>http://31.209.96.29:8012</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Sky Sport FE</title>
+<title>Sky Sports F1</title>
 <link>http://31.209.96.29:8013</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>EUROSPORT 2</title>
+<title>Eurosport 2</title>
 <link>http://31.209.96.29:8014</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>C Extra</title>
+<title>Comedy Central Extra</title>
 <link>http://31.209.96.29:8015</link>
 <thumbnail></thumbnail>
 </item>
@@ -1137,30 +1137,30 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>USA</title>
+<title>Channel 5 USA</title>
 <link>http://31.209.96.29:8020</link>
 <item>
-<title>5</title>
+<title>Channel 5</title>
 <link>http://31.209.96.29:8021</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>5 Star</title>
+<title>Channel 5 Star</title>
 <link>http://31.209.96.29:8022</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Sky Sport 1 HD</title>
+<title>Sky Sports 1 HD</title>
 <link>http://31.209.96.29:8053</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>EUROSPORT</title>
+<title>Eurosport</title>
 <link>http://31.209.96.29:8054</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Sky Sport 2 HD</title>
+<title>Sky Sports 2 HD</title>
 <link>http://31.209.96.29:8055</link>
 <thumbnail></thumbnail>
 </item>
@@ -1180,27 +1180,27 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Sky 1 HD</title>
+<title>Sky Movies HD</title>
 <link>http://31.209.96.29:8081</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Movies</title>
+<title>Sky Movies Greats HD</title>
 <link>http://31.209.96.29:8082</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>BBC Film</title>
+<title>Sky Movies Premiere HD</title>
 <link>http://31.209.96.29:8083</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Movies</title>
+<title>Sky Movies Sci-fi &amp; Horror HD</title>
 <link>http://31.209.96.29:8084</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Movies</title>
+<title>ky Atlantic HD</title>
 <link>http://31.209.96.29:8085</link>
 <thumbnail></thumbnail>
 </item>
@@ -1210,7 +1210,7 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>EUROSPORT</title>
+<title>Eurosport</title>
 <link>http://31.209.96.29:8091</link>
 <thumbnail></thumbnail>
 </item>
@@ -1230,12 +1230,12 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Movies</title>
+<title>Sky Movies Showcase HD</title>
 <link>http://31.209.96.29:8095</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>,Cartoon Network</title>
+<title>Cartoon Network</title>
 <link>http://31.209.96.29:8096</link>
 <thumbnail></thumbnail>
 </item>
@@ -1245,17 +1245,17 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Moters Tv</title>
+<title>Motors TV UK</title>
 <link>http://31.209.96.29:8102 </link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Sky Atlanta HD</title>
+<title>ex</title>
 <link>http://31.209.96.29:8104 </link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Fox News</title>  
+<title>FOX Extra</title>  
 <link>http://31.209.96.29:8106 </link> 
 <thumbnail></thumbnail>
 </item>
@@ -1265,7 +1265,7 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Wild</title>
+<title>National Geographic Wild</title>
 <link>http://31.209.96.29:8108 </link> 
 <thumbnail></thumbnail>
 </item>
@@ -1275,7 +1275,7 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item>
  <item>
-<title>Sky Sport HD 2</title>
+<title>Sky Sports 2 HD</title>
 <link>http://31.209.96.29:8111 </link> 
 <thumbnail></thumbnail>
 </item>
@@ -1285,7 +1285,7 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Trace Sports</title>
+<title>TCM</title>
 <link>http://31.209.96.29:8117 </link>
 <thumbnail></thumbnail>
 </item>
@@ -1295,17 +1295,17 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Anmil Planet</title>
+<title>Animal Planet</title>
 <link>http://31.209.96.29:8121 </link> 
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Discovery UK</title>
+<title>Discovery</title>
 <link>http://31.209.96.29:8122 </link> 
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Travel & Living</title>
+<title>Discovery Travel & Living</title>
 <link>http://31.209.96.29:8123 </link> 
 <thumbnail></thumbnail>
 </item>
@@ -1315,7 +1315,7 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item> 
 <item>
-<title>Home & Health</title>
+<title>Discovery Home & Health</title>
 <link>http://31.209.96.29:8125 </link>
 <thumbnail></thumbnail>
 </item>
@@ -1345,12 +1345,12 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title> Home UK </title>
+<title>Home UK</title>
 <link>http://31.209.96.29:8141 </link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>EOEN HD</title> 
+<title>Eden</title> 
 <link>http://31.209.96.29:8142 </link> 
 <thumbnail></thumbnail>
 </item>
@@ -1360,7 +1360,7 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Y Yesterday</title>
+<title>Yesterday</title>
 <link>http://31.209.96.29:8144 </link>
 <thumbnail></thumbnail>
 </item> 
@@ -1375,7 +1375,7 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item> 
 <item>
-<title>Sky Movies</title>
+<title>Sky Movies Action &amp; Adventure HD</title>
 <link>http://31.209.96.29:8151 </link> 
 <thumbnail></thumbnail>
 </item>
@@ -1395,7 +1395,7 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Sky Sport 4 HD</title>
+<title>Sky Sports 4 HD</title>
 <link>http://31.209.96.29:8156 </link>
 <thumbnail></thumbnail>
 </item> 
