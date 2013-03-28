@@ -1058,7 +1058,7 @@ domain=pogotv.eu timeout=15</link>
 
 <channel>
 <name>UK Cable Channels</name>
-<thumbnail>http://www.freewarepocketpc.net/wp7/img/yupptv.png</thumbnail>
+<thumbnail>htthttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaKz-EqnBWIyfxCJu0KmiPXY4UoEC60URkgs3URfueH_B8H4epL0VvWMu</humbnail>
 <items>
 
 <item>
@@ -1082,7 +1082,7 @@ domain=pogotv.eu timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>,New item</title>
+<title>New item</title>
 <link>http://31.209.96.29:8005</link>
 <thumbnail></thumbnail>
 </item>
