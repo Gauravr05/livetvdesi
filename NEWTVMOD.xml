@@ -143,7 +143,7 @@
 </item>
 
 <item>
-<title>Zee TV Updated (YUPP)</title>
+<title>Zee TV</title>
 <link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=zeetv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_tv.jpg</thumbnail>
 </item>
@@ -184,10 +184,16 @@
 <thumbnail></thumbnail>
 </item>
 
-
 <item>
 <title>Aaj Tak</title>
 <link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=aajtak swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=8 timeout=15</link>
+<link>http://46.249.213.87/iPhone/broadcast/aajtak-tablet.3gp/aajtak-tablet.3gp-mr648k.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Headlines Today</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=headlinetoday swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=11 timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -254,6 +260,14 @@
 <link>rtmpe://68.235.32.28/live/ playpath=saharafilmy pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
 <thumbnail>http://watchsuntv.com/tvlogos/sahara_filmy.jpg</thumbnail>
 </item>
+
+
+<item>
+<title>Sony</title>
+<link>rtmpe://68.235.32.28/live/ playpath=sonytv pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_in.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>Sony Max</title>
@@ -358,6 +372,149 @@
 <link>rtmpe://68.235.32.28/live/ playpath=ddsports pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
 <thumbnail>http://watchsuntv.com/tvlogos/dd_sports.jpg</thumbnail>
 </item>
+
+</items>
+</channel>
+
+</items>
+</channel>
+
+<!-- ================================================================================?==== 
+
+-->
+
+<channel>
+<name>TamilipTV - Links</name>
+<thumbnail></thumbnail>
+<items>
+
+<item>
+<title>Zee Tv</title>
+<link>http://68.235.32.28:1935/live/zeetv/chunklist.m3u8</link>
+<thumbnail>http://watchsuntv.com/tvlogos/zee_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zee Cinema</title>
+<link>http://68.235.32.28:1935/live/zcinema/chunklist.m3u8</link>
+<thumbnail>http://watchsuntv.com/tvlogos/zee_cinema.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Zee Smile</title>
+<link>http://68.235.32.28:1935/live/zeesmile/chunklist.m3u8</link>
+<thumbnail>http://watchsuntv.com/tvlogos/zee_smile.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Plus</title>
+<link>http://68.235.32.28:1935/live/starplus/chunklist.m3u8</link>
+<thumbnail>http://watchsuntv.com/tvlogos/starplus.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Life OK</title>
+<link>http://68.235.32.28:1935/live/lifeok/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
+</item>
+
+<item>
+<title>utvmovies</title>
+<link>http://68.235.32.28:1935/live/utvmovies/chunklist.m3u8</link>
+<thumbnail>http://www.utvmovies.com/images/index_01.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sahara One</title>
+<link>http://68.235.32.28:1935/live/saharaone/chunklist.m3u8</link>
+<thumbnail>http://watchsuntv.com/tvlogos/sahara_one.jpg</thumbnail>
+</item>
+
+<item>
+<title>Filmy</title>
+<link>http://68.235.32.28:1935/live/saharafilmy/chunklist.m3u8live=true</link>
+<thumbnail>http://watchsuntv.com/tvlogos/sahara_filmy.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sony</title>
+<link>http://68.235.32.28:1935/live/sonytv/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_in.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sony Max</title>
+<link>http://68.235.32.28:1935/live/setmax/chunklist.m3u8</link>
+<thumbnail>http://watchsuntv.com/tvlogos/set_max.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sab</title>
+<link>http://68.235.32.28:1935/live/sab/chunklist.m3u8</link>
+<thumbnail>http://watchsuntv.com/tvlogos/sony_sab_tv.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Tv Asia</title>
+<link>http://68.235.32.28:1935/live/tvasia/chunklist.m3u8</link>
+<thumbnail>http://watchsuntv.com/tvlogos/tvasia.png</thumbnail>
+</item>
+
+<item>
+<title>Aapka Colors</title>
+<link>http://68.235.32.28:1935/live/apclr/chunklist.m3u8</link>
+<thumbnail>http://watchsuntv.com/tvlogos/aapka_colors.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zoom</title>
+<link>http://68.235.32.28:1935/live/zoomtv/chunklist.m3u8</link>
+<thumbnail>http://watchsuntv.com/tvlogos/Zoom-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>MTV India</title>
+<link>http://68.235.32.28:1935/live/mtv/chunklist.m3u8</link>
+<thumbnail>http://1tvlive.in/wp-content/uploads/2011/12/mtv-india11225-119x80.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>MH1</title>
+<link>http://68.235.32.28:1935/live/mh1/chunklist.m3u8</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/mh1_news-300x232.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Star Gold</title>
+<link>http://68.235.32.28:1935/live/stargold/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_gold.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Zing</title>
+<link>http://68.235.32.28:1935/live/zing/chunklist.m3u8</link>
+<thumbnail>http://watchsuntv.com/images/zing.png</thumbnail>
+</item>
+
+<item>
+<title>Headline Today</title>
+<link>http://68.235.32.28:1935/live/headlines/chunklist.m3u8</link>
+<thumbnail>http://watchsuntv.com/images/headlines-today.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Times Now</title>
+<link>http://68.235.32.28:1935/live/timesnow/chunklist.m3u8</link>
+<thumbnail>http://watchsuntv.com/images/timesnow.jpg</thumbnail>
+</item>
+
 
 </items>
 </channel>
@@ -598,7 +755,7 @@ in=pogotv.eu timeout=15</link>
 <item>
 <title>EuroSport</title>
 <link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8</link>
-<link></link>
+<link>http://92.126.219.192:1234/udp/233.7.70.132:5000</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport_de.png</thumbnail>
 </item>
 
@@ -634,21 +791,26 @@ in=pogotv.eu timeout=15</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7b/Ten_Sports.jpg</thumbnail>
 </item>
 
+<item>
+<title>NBA Tv</title>
+<link>rtmp://46.19.141.138:1935/stream//f2OI8s.stream playpath=f2OI8s.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageurl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=b444m3r494l4z364y2x2r2q26433p2p21394q2u23334&adx=&stream=03j5w28474w26444z23384x2b4e4v2l2c454n3i323w5m284q2x2m22414d4v2t213c4v274e4y2r2f4v2x4g3a4t373u5w5l4b4d2o3j5e444i4f4w3p2s4r2y3m23434v2r2g5h584y264x2b4e4m5b4e4a4d4232474i5a45434a4z2w264s2l594x224r204p2q2r2y3m27664p4l2y3g566&sooor=Ng==&str=is&idom=www.firstrow1.eu live=true timeout=9</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/170px-NBA_TV.svg.png</thumbnail>
+</item>
 
 
 <item>
 <title>ESPN America HD</title>
 <link>http://94.155.46.4:8001/udp/238.11.0.7:1234/</link>
+<link>http://cds-sr1.vmo2.sbb.rs/live/ramdisk/espn_slo/hls1/espn_slo_q4.m3u8 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_america_uk_hd.png</thumbnail>
 </item>
 
 
 
-
-
 <item>
 <title>ESPN U.S</title>
-<link>rtmp://142.4.216.155/edge/ playpath=vzs8o5v8vkyztba swfUrl=http://static.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/view/45128/ timeout=15</link>
+<link>rtmp://live.ilive.to:1935/redirect/vzs8o5v8vkyztba pageUrl=http://www.ilive.to/ swfUrl=http://static.ilive.to/jwplayer/player.swf  timeout=15</link>
+<link>rtmp://live.ilive.to:1935/redirect/r0an48lzpf3fd6t pageUrl=http://www.ilive.to/ swfUrl=http://static.ilive.to/jwplayer/player.swf  timeout=15</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png</thumbnail>
 </item>
 
@@ -803,7 +965,7 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>Star Plus</title>
-<link>rtmp://streamer35.eboundservices.com/tv/starplus</link>
+<link>rtmp://streamer35.eboundservices.com/tv/starplus timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
 </item>
 
@@ -825,8 +987,7 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>Sony TV</title>
-<link>rtmp://80.82.70.225/live22 playpath=sonypogotv swfUrl=http://www.zstream.eu/pl11ayer.swf live=true pageUrl=http://www.zstream.eu/embed.php?v=sonypogotv&vw=550&vh=450&video=0&
-domain=pogotv.eu timeout=15</link>
+<link>rtmp://streamer35.eboundservices.com/tv/sonytv timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_in.jpg</thumbnail>
 </item>
 
@@ -995,14 +1156,13 @@ domain=pogotv.eu timeout=15</link>
 
 <item>
 <title>Aaj Tak</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=aajtak swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=8 timeout=15</link>
 <link>http://46.249.213.87/iPhone/broadcast/aajtak-tablet.3gp/aajtak-tablet.3gp-mr648k.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Headlines Today</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=headlinetoday swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=11 timeout=15</link>
+<link>http://88.212.11.205:5000/live/41/41.m3u8 timeout=15</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -1058,347 +1218,212 @@ domain=pogotv.eu timeout=15</link>
 
 <channel>
 <name>UK Cable Channels</name>
-<thumbnail>htthttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaKz-EqnBWIyfxCJu0KmiPXY4UoEC60URkgs3URfueH_B8H4epL0VvWMu</humbnail>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20121021104704/althistory/images/5/5e/Wales_on_British_Flag.png</humbnail>
 <items>
 
 <item>
-<title>BBC One</title>
-<link>http://31.209.96.29:8000</link>
+<title>BBC World News</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.186:5000</link>
 <thumbnail></thumbnail>
 </item>
+
 <item>
 <title>BBC Two</title>
-<link>http://31.209.96.29:8001</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>1</title>
-<link>http://31.209.96.29:8002</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>2</title>
-<link>http://31.209.96.29:8003</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>itv</title>
-<link>http://31.209.96.29:8005</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Itv2</title>
-<link>http://31.209.96.29:8006</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>itv4</title>
-<link>http://31.209.96.29:8007</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>KISS</title>
-<link>http://31.209.96.29:8008</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>4 More</title>
-<link>http://31.209.96.29:8009</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky News</title>
-<link>http://31.209.96.29:8010</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Sports 3</title>
-<link>http://31.209.96.29:8012</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Sports F1</title>
-<link>http://31.209.96.29:8013</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Eurosport 2</title>
-<link>http://31.209.96.29:8014</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Comedy Central Extra</title>
-<link>http://31.209.96.29:8015</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Sports News</title>
-<link>http://31.209.96.29:8016</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Channel 5 USA</title>
-<link>http://31.209.96.29:8020</link>
-<item>
-<title>Channel 5</title>
-<link>http://31.209.96.29:8021</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Channel 5 Star</title>
-<link>http://31.209.96.29:8022</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Sports 1 HD</title>
-<link>http://31.209.96.29:8053</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Eurosport</title>
-<link>http://31.209.96.29:8054</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Sports 2 HD</title>
-<link>http://31.209.96.29:8055</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>nick jr.</title>
-<link>http://31.209.96.29:8073</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>nick jr. 2</title>
-<link>http://31.209.96.29:8074</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>nick</title>
-<link>http://31.209.96.29:8075</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Movies HD</title>
-<link>http://31.209.96.29:8081</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Movies Greats HD</title>
-<link>http://31.209.96.29:8082</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Movies Premiere HD</title>
-<link>http://31.209.96.29:8083</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Movies Sci-fi &amp; Horror HD</title>
-<link>http://31.209.96.29:8084</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ky Atlantic HD</title>
-<link>http://31.209.96.29:8085</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Sports 1 HD</title>
-<link>http://31.209.96.29:8086</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Eurosport</title>
-<link>http://31.209.96.29:8091</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ESPN</title>
-<link>http://31.209.96.29:8092</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TNT</title>
-<link>http://31.209.96.29:8093</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky1</title>
-<link>http://31.209.96.29:8094</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Movies Showcase HD</title>
-<link>http://31.209.96.29:8095</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Cartoon Network</title>
-<link>http://31.209.96.29:8096</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CNNi</title>
-<link>http://31.209.96.29:8097</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Motors TV UK</title>
-<link>http://31.209.96.29:8102 </link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ex</title>
-<link>http://31.209.96.29:8104 </link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOX Extra</title>  
-<link>http://31.209.96.29:8106 </link> 
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CI</title>
-<link>http://31.209.96.29:8107 </link> 
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>National Geographic Wild</title>
-<link>http://31.209.96.29:8108 </link> 
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>National Geographic</title>
-<link>http://31.209.96.29:8109 </link>
+<link>rtmp://live.ilive.to:1935/redirect/jkgbg7vq8fcjgjl pageUrl=http://www.ilive.to/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
 <thumbnail></thumbnail>
 </item>
  <item>
-<title>Sky Sports 2 HD</title>
-<link>http://31.209.96.29:8111 </link> 
+<title>BBC Entertainment</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.185:5000</link> 
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Sky 1 HD</title>
-<link>http://31.209.96.29:8116 </link> 
+<title>Action TV 1000</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.59:5000</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>TCM</title>
-<link>http://31.209.96.29:8117 </link>
+<title>TV 1000</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.36:5000</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Trace Sports</title>
-<link>http://31.209.96.29:8118 </link> 
+<title>RT</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.82:5000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Explorer</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.33:5000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BLOOMBERG</title>
+<link>http://94.242.221.141/hls/a-lo/stream37.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+
+<title>ESPN America</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.138:5000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Eurosport</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.45:5000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Fashan</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.47:5000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>LUXE TV HD</title>
+<link>rtmp://203.217.99.60:1935/live/live12_3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Fight Box Boxing</title>
+<link>http://fms1.mediadirect.ro/live3/_definst_/FightBox/chunklist.m3u8?wowzasessionid=623172258&publisher=1</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Eurosport HD</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.132:5000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Eurosport News</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.197:5000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Moter Tv</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.206:5000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sony</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.70:5000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TLC</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.29:5000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBS reality</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.231:5000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Fashion One</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.162:5000</link> 
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>JimJam</title>  
+<link>http://92.126.219.192:1234/udp/233.7.70.148:5000</link> 
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Baby Tv</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.188:5000</link> 
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Boomerang</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.187:5000</link> 
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>nick jr</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.169:5000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>nickoldeon</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.164:5000</link> 
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Animal Planet</title>
-<link>http://31.209.96.29:8121 </link> 
+<link>http://92.126.219.192:1234/udp/233.7.70.30:5000</link> 
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Discovery</title>
-<link>http://31.209.96.29:8122 </link> 
+<link>http://92.126.219.192:1234/udp/233.7.70.26:5000</link> 
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Discovery Travel & Living</title>
-<link>http://31.209.96.29:8123 </link> 
+<title>DW</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.191:5000</link> 
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SC</title>
-<link>http://31.209.96.29:8124 </link>
+<title>National Geographic</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.32:5000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Outdood</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.163:5000</link>
 <thumbnail></thumbnail>
 </item> 
 <item>
-<title>Discovery Home & Health</title>
-<link>http://31.209.96.29:8125 </link>
+<title>Travel + adventur</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.156:5000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Nature</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.230:5000</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Foxlife</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.85:5000</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Fox</title>
-<link>http://31.209.96.29:8131 </link>
+<link>http://92.126.219.192:1234/udp/233.7.70.154:5000</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>E4 HD</title> 
-<link>http://31.209.96.29:8132 </link>
+<title>VH1</title> 
+<link>http://92.126.219.192:1234/udp/233.7.70.152:5000</link>
 <thumbnail></thumbnail>
 </item> 
 <item>
 <title>MTV</title>
-<link>http://31.209.96.29:8136 </link> 
+<link>http://92.126.219.192:1234/udp/233.7.70.161:5000</link> 
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>VH1</title>
-<link>http://31.209.96.29:8137 </link> 
+<title>MTV Dance</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.207:5000</link> 
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ViVA</title>
-<link>http://31.209.96.29:8138 </link> 
+<title>MTV Hits</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.208:5000</link> 
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Home UK</title>
-<link>http://31.209.96.29:8141 </link>
+<title>MTV Rock</title>
+<link>http://92.126.219.192:1234/udp/233.7.70.209:5000</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Eden</title> 
-<link>http://31.209.96.29:8142 </link> 
+<title>Europa Plus TV</title> 
+<link>http://92.126.219.192:1234/udp/233.7.70.196:5000</link> 
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Gold</title>
-<link>http://31.209.96.29:8143 </link> 
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Yesterday</title>
-<link>http://31.209.96.29:8144 </link>
-<thumbnail></thumbnail>
-</item> 
-<item>
-<title>Alibi HD</title>
-<link>http://31.209.96.29:8145 </link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Movies4Man</title> 
-<link>http://31.209.96.29:8146 </link>
-<thumbnail></thumbnail>
-</item> 
-<item>
-<title>Sky Movies Action &amp; Adventure HD</title>
-<link>http://31.209.96.29:8151 </link> 
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Movie</title>
-<link>http://31.209.96.29:8153 </link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Movie</title> 
-<link>http://31.209.96.29:8154 </link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Movie</title> 
-<link>http://31.209.96.29:8155 </link> 
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Sports 4 HD</title>
-<link>http://31.209.96.29:8156 </link>
-<thumbnail></thumbnail>
-</item> 
 
 </items>
 </channel>
@@ -1835,6 +1860,11 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 <thumbnail>https://lh3.googleusercontent.com/-VEB545Y1H1M/AAAAAAAAAAI/AAAAAAAAAHQ/N4IRlRex3Nc/s48-c-k/photo.jpg</thumbnail>
 </item>
 
+<item>
+<title>Fox News</title>
+<link>rtmp://46.165.196.36/stream app=stream conn=S:OK playpath=adadadafoxadad?id=87553 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/adadadafoxadad/1/500/400 swfVfy=1 live=1 timeout=30</link>
+<thumbnail>http://thenewsosphere.files.wordpress.com/2012/05/200px-fox_news_channel-svg.png</thumbnail>
+</item>
 
 <item>
 <title>CCTV News</title>
