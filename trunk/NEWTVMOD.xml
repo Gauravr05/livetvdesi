@@ -207,8 +207,8 @@
 -->
 
 <channel>
-<name>Watch Sun Tv</name>
-<thumbnail></thumbnail>
+<name>Premuim Watchsun Tv</name>
+<thumbnail>http://www.watchindia.tv/images/V3/Logo.png</thumbnail>
 <items>
 
 <item>
@@ -313,18 +313,6 @@
 </item>
 
 <item>
-<title>Desi 4U Hits</title>
-<link>rtmpe://68.235.32.28/live/ playpath=dhits2 pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
-<thumbnail>http://watchsuntv.com/tvlogos/desi4uhits.png</thumbnail>
-</item>
-
-<item>
-<title>Desi U4 Cinema</title>
-<link>rtmpe://68.235.32.28/live/ playpath=desi4umovies2 pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
-<thumbnail>http://watchsuntv.com/tvlogos/desicinema.png</thumbnail>
-</item>
-
-<item>
 <title>B4U Movies</title>
 <link>rtmpe://68.235.32.28/live/ playpath=b4umovies pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
 <thumbnail>http://idesitv.com/channel/b4u_movies.jpg</thumbnail>
@@ -361,17 +349,6 @@
 <thumbnail>http://watchsuntv.com/images/timesnow.jpg</thumbnail>
 </item>
 
-<item>
-<title>DD National</title>
-<link>rtmpe://68.235.32.28/live/ playpath=ddnational pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
-<thumbnail>http://watchsuntv.com/tvlogos/dd_national.jpg</thumbnail>
-</item>
-
-<item>
-<title>DD Sports</title>
-<link>rtmpe://68.235.32.28/live/ playpath=ddsports pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
-<thumbnail>http://watchsuntv.com/tvlogos/dd_sports.jpg</thumbnail>
-</item>
 
 </items>
 </channel>
@@ -384,8 +361,8 @@
 -->
 
 <channel>
-<name>TamilipTV - Links</name>
-<thumbnail></thumbnail>
+<name>Premuim TamilipTV</name>
+<thumbnail>http://www.tamiliptv.tv/images/logo.png</thumbnail>
 <items>
 
 <item>
@@ -393,13 +370,6 @@
 <link>http://68.235.32.28:1935/live/zeetv/chunklist.m3u8</link>
 <thumbnail>http://watchsuntv.com/tvlogos/zee_tv.jpg</thumbnail>
 </item>
-
-<item>
-<title>Zee Cinema</title>
-<link>http://68.235.32.28:1935/live/zcinema/chunklist.m3u8</link>
-<thumbnail>http://watchsuntv.com/tvlogos/zee_cinema.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>Zee Smile</title>
@@ -412,7 +382,6 @@
 <link>http://68.235.32.28:1935/live/starplus/chunklist.m3u8</link>
 <thumbnail>http://watchsuntv.com/tvlogos/starplus.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>Life OK</title>
@@ -434,7 +403,7 @@
 
 <item>
 <title>Filmy</title>
-<link>http://68.235.32.28:1935/live/saharafilmy/chunklist.m3u8live=true</link>
+<link>http://68.235.32.28:1935/live/saharafilmy/chunklist.m3u8live</link>
 <thumbnail>http://watchsuntv.com/tvlogos/sahara_filmy.jpg</thumbnail>
 </item>
 
@@ -456,7 +425,6 @@
 <thumbnail>http://watchsuntv.com/tvlogos/sony_sab_tv.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>Tv Asia</title>
 <link>http://68.235.32.28:1935/live/tvasia/chunklist.m3u8</link>
@@ -476,6 +444,12 @@
 </item>
 
 <item>
+<title>Zing</title>
+<link>http://68.235.32.28:1935/live/zing/chunklist.m3u8</link>
+<thumbnail>http://watchsuntv.com/images/zing.png</thumbnail>
+</item>
+
+<item>
 <title>MTV India</title>
 <link>http://68.235.32.28:1935/live/mtv/chunklist.m3u8</link>
 <thumbnail>http://1tvlive.in/wp-content/uploads/2011/12/mtv-india11225-119x80.jpg</thumbnail>
@@ -488,18 +462,16 @@
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/mh1_news-300x232.jpg</thumbnail>
 </item>
 
+<item>
+<title>Zee Cinema</title>
+<link>http://68.235.32.28:1935/live/zcinema/chunklist.m3u8</link>
+<thumbnail>http://watchsuntv.com/tvlogos/zee_cinema.jpg</thumbnail>
+</item>
 
 <item>
 <title>Star Gold</title>
 <link>http://68.235.32.28:1935/live/stargold/chunklist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_gold.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Zing</title>
-<link>http://68.235.32.28:1935/live/zing/chunklist.m3u8</link>
-<thumbnail>http://watchsuntv.com/images/zing.png</thumbnail>
 </item>
 
 <item>
@@ -528,7 +500,7 @@
 
 <channel>
 <name>Punjabi Channels</name>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Punjab_flag.svg/500px-Punjab_flag.svg.png</thumbnail>
 <items>
 
 
@@ -755,7 +727,7 @@ in=pogotv.eu timeout=15</link>
 <item>
 <title>EuroSport</title>
 <link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8</link>
-<link>http://92.126.219.192:1234/udp/233.7.70.132:5000</link>
+<link></link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport_de.png</thumbnail>
 </item>
 
@@ -763,7 +735,7 @@ in=pogotv.eu timeout=15</link>
 <item>
 <title>EuroSport 2</title>
 <link>http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8</link>
-<link>http://94.155.46.4:8001/udp/237.1.1.130:4000/</link>
+<link></link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport_de.png</thumbnail>
 </item>
 
@@ -1218,7 +1190,7 @@ www.khantv.info timeout=15</link>
 
 <channel>
 <name>UK Cable Channels</name>
-<thumbnail>http://images3.wikia.nocookie.net/__cb20121021104704/althistory/images/5/5e/Wales_on_British_Flag.png</humbnail>
+<thumbnail>http://www.outinperth.com/wp-content/uploads/2012/11/UK-flag-300x196.jpg</thumbnail>
 <items>
 
 <item>
@@ -1650,7 +1622,7 @@ www.khantv.info timeout=15</link>
 
 <channel>
 <name>English Channels</name>
-<thumbnail></thumbnail>
+<thumbnail>http://worldhdwallpaper.com/wp-content/uploads/2013/03/usa-flag-hd-wallpaper.gif</thumbnail>
 <items>
 
 <item>
