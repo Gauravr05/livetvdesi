@@ -922,6 +922,12 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://www.khantv.info/images/star_cricket.png</thumbnail>
 </item>
 
+<item>
+<title>itv4</title>  
+<link>rtmp://89.248.174.30:1935/cast?ovpfv=2.1.4 Playpath=ipl2013live swfUrl=http://95.211.219.184/LiveVideoPlayer.swf   pageUrl=http://www.99cast.com/embed.php?v=ipl2013live&vw=600&vh=430&domain=desistreams.tv conn=S:OK swfVfy=true live=true timeout=15</link> Sky Sport 3
+<thumbnail></thumbnail>
+</item>
+
 
 </items>
 </channel>
