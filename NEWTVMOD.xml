@@ -59,6 +59,7 @@
 <item>
 <title>INDIA TV</title>
 <link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=indiatv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=2 timeout=15</link>
+<link>rtsp://cdn.m.yupptv.tv/liveorigin/indiatv1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/india_tv.jpg</thumbnail>
 </item>
 
@@ -83,7 +84,8 @@
 <item>
 <title>NEWS X</title>
 <link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=newsx swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=16 timeout=15</link>
-<thumbnail></thumbnail>
+<link>rtsp://cdn.m.yupptv.tv/liveorigin/newsx1</link>
+<thumbnail>http://http://www.yupptv.com/img/newsx.png</thumbnail>
 </item>
 
 <item>
@@ -185,6 +187,12 @@
 </item>
 
 <item>
+<title>9X News</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin Playpath=newsx1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF pageUrl=http://www.yupptv.com</link>
+<thumbnail>http://zoomtvvideos.files.wordpress.com/2008/11/newsx_live.gif?w=500</thumbnail>
+</item>
+
+<item>
 <title>Aaj Tak</title>
 <link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=aajtak swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=8 timeout=15</link>
 <link>http://46.249.213.87/iPhone/broadcast/aajtak-tablet.3gp/aajtak-tablet.3gp-mr648k.m3u8</link>
@@ -197,7 +205,29 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>Sahara Madhya pradesh</title>
+<link>rtsp://cdn.m.yupptv.tv/liveorigin/saharamadhyap1</link>
+<thumbnail>http://www.yupptv.com/img/sahara_mp_iphone_N.png</thumbnail>
+</item>
 
+<item>
+<title>Sahara Mumbai</title>
+<link>rtsp://cdn.m.yupptv.tv/liveorigin/saharamum1</link>
+<thumbnail>http://www.yupptv.com/img/75x50_sahara_mumbai.png</thumbnail>
+</item>
+
+<item>
+<title>Sahara Samay</title>
+<link>rtsp://cdn.m.yupptv.tv/liveorigin/saharasamaynew1</link>
+<thumbnail>http://www.yupptv.com/img/sahara_samay_iphone_N.png</thumbnail>
+</item>
+
+<item>
+<title>Xtra</title>
+<link>rtsp://cdn.m.yupptv.tv/liveorigin/channel61</link>
+<thumbnail>http://www.yupptv.com/img/xtra_iphone.png</thumbnail>
+</item>
 
 </items>
 </channel>
@@ -1184,6 +1214,26 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_in.jpg</thumbnail>
 </item>
 
+<item>
+<title>CNBC</title>
+<link>http://bglive-a.bitgravity.com/web18/secure/feed01?e=2605091102%26h=78f9958b948ea899a6ef4d257e75097d</link>
+<thumbnail>http://www.indiamart.com/press-section/mediasays/gifs/cnbc_india.jpg</thumbnail>
+</item>
+
+<item>
+<title>India - NDTV India</title>
+<link>http://bglive-a.bitgravity.com/ndtv/indlo/live/native</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/ndtv_india.jpg</thumbnail>
+</item>
+
+<item>
+<title>India - NDTV Profit</title>
+<link>http://bglive-a.bitgravity.com/ndtv/prolo/live/native</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/ndtv_profit.jpg</thumbnail>
+</item>
+
+
+
 </items>
 </channel>
 
@@ -1637,28 +1687,6 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/baby_tv.png</thumbnail>
 </item>
 
-<item>
-<title>HBO HD</title>
-<link>rtmp://142.4.216.155/edge playpath=z28ie9oqoku4qoy swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=620&height=410&channel=36674&
-autoplay=true timeout=15</link>
-<link>http://hk.guduge.com:1163/tm3u8/live_m3u8/5041/kk.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo2_hd.jpg</thumbnail>
-</item>
-
-<item>
-<title>HBO 2 HD</title>
-<link>rtmp://streamer35.eboundservices.com/tv/hbo</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo2_hd.jpg</thumbnail>
-</item>
-
-<item>
-<title>CINEMAX</title>
-<link>rtmp://live2.ilive.to/redirect playpath=r3na4scqxhgcoly swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=650&height=450&channel=44
-968&autoplay=true timeout=15</link>
-<link>rtmp://live2.ilive.to/redirect playpath=nl1yg9ant34fy93 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=650&height=450&channel=44
-972&autoplay=true timeout=15</link>
-<thumbnail>http://www.cinemax.com/img/global/logo-ftr.png</thumbnail>
-</item>
 
 <item>
 <title>Spike Tv</title>
@@ -1775,17 +1803,9 @@ autoplay=true timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/pp/press_tv.png</thumbnail>
 </item>
 
-
-<item>
-<title>BBC World</title>
-<link> rtmp://d.cdn.msnbclive.eu/edge playpath=bbcworld_live swfUrl=http://msnbclive.eu/player.swf live=true pageUrl=http://weplaylive.tv/world-news-stream/ timeout=15</link
-<thumbnail></thumbnail>
-</item>
-
 <item>
 <title>BBC Two</title>
 <link>rtmp://37.59.35.214/edge/ playpath=jkgbg7vq8fcjgjl pageUrl=http://www.ilive.to/view/43892/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<link>rtmp://cdn.livecaster.tv/stream/bbc_2 swfUrl=http://www.livecaster.tv/player/player.swf pageUrl=http://www.livecaster.tv/channel.php?u=bbc_2</link>
 <thumbnail>http://formfilms.co.uk/wp-content/uploads/2010/05/bbc2_logo_lightbox.jpg</thumbnail>
 </item>
 
@@ -1798,8 +1818,6 @@ autoplay=true timeout=15</link>
 
 <item>
 <title>CNN International</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=cnn1.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=cnn1&vw=600&vh=430 timeout=15</link>
-<link>rtsp://202.125.158.230:554/stream3_wifi.sdp timeout=15</link>
 <link>rtmp://live.ukcast.tv/broadcast/cnn1.stream pageUrl=http://www.ukcast.tv/channel.php?u=cnn1 swfUrl=http://www.ukcast.tv/player/player.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
 </item>
@@ -1807,8 +1825,7 @@ autoplay=true timeout=15</link>
 
 <item>
 <title>CNN Live</title>
-<link>rtmp://cp44679.live.edgefcs.net/live playpath=cnnlive_4_low@49691 swfUrl=http://i.cdn.turner.com/cnn/.element/apps/CNNLive/2.1.6.2/assets/swfs/Li
-vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?stream=stream1 timeout=15</link>
+<link>rtmp://cp44679.live.edgefcs.net/live playpath=cnnlive_4_low@49691 swfUrl=http://i.cdn.turner.com/cnn/.element/apps/CNNLive/2.1.6.2/assets/swfs/LivePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?stream=stream1 timeout=15</link>
 <thumbnail>http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/hdr-main.gif</thumbnail>
 </item>
 
@@ -1833,6 +1850,14 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 </item>
 
 <item>
+<title>Fox News 2</title>
+<link>rtmp://cdn.livecaster.tv/stream/fox_news77 swfUrl=http://www.livecaster.tv/player/player.swf pageUrl=http://www.livecaster.tv/channel.php?u=fox_news77</link>
+<thumbnail>http://www.webvideovision.com/blog/wp-content/uploads/2012/05/foxnews_logo_1-e12691446608841.jpg</thumbnail>
+</item>
+
+
+
+<item>
 <title>MSNBC</title>
 <link>rtmp://d.cdn.msnbclive.eu/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf live=true pageUrl=http://weplaylive.tv/politics-stream/ timeout=15</link
 <thumbnail></thumbnail>
@@ -1849,6 +1874,7 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 <title>BBC World News</title>
 <link>rtsp://media4.lsops.net/live/bbcworld1_en_veryhigh.sdp</link>
 <link>rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_veryhigh.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
+<link>rtmp://d.cdn.msnbclive.eu/edge playpath=bbcworld_live swfUrl=http://msnbclive.eu/player.swf live=true pageUrl=http://weplaylive.tv/world-news-stream/ timeout=15</link
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlj.png</thumbnail>
 </item>
 
@@ -1876,27 +1902,11 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 <thumbnail>http://images2.wikia.nocookie.net/__cb20100728112639/logopedia/images/3/34/Discovery_Channel_2000.png</thumbnail>
 </item>
 
-<item>
-<title>Discovery-HD</title>
-<link>rtsp://118.69.202.58:1935/hayhaytv_live/mp4:discovery.360p</link>
-<thumbnail>http://2.bp.blogspot.com/-voVHSLaz6c8/T4Rzq5_2yqI/AAAAAAAAEF8/68NQBtrtBdk/s1600/Discovery_HD_old.png</thumbnail>
-<fanart>http://2.bp.blogspot.com/-voVHSLaz6c8/T4Rzq5_2yqI/AAAAAAAAEF8/68NQBtrtBdk/s1600/Discovery_HD_old.png</fanart>
-</item>
-
-
 
 <item>
 <title>Discovery Channel (Portuguese / English)</title>
 <link>rtmp://178.33.234.10/edge/ playpath=own38fuo0upig6w pageUrl=http://www.ilive.to/view/42226/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
 <thumbnail>http://images2.wikia.nocookie.net/__cb20100728112639/logopedia/images/3/34/Discovery_Channel_2000.png</thumbnail>
-</item>
-
-
-<item>
-<title>National Geographic (Hindi)</title>
-<link>rtmp://streamer35.eboundservices.com/tv/nationalgeographic</link>
-<link>rtmp://live.wcast.tv/live/NGCHindi.stream swfUrl=http://www.wcast.tv/player/player.swf pageUrl=http://www.wcast.tv/channel.php?u=NGCHindi</link>
-<thumbnail>http://www.yourlogoresources.com/wp-content/uploads/2011/09/national-geographic-logo.jpg</thumbnail>
 </item>
 
 
@@ -1922,7 +1932,6 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 <item>
 <title>Nick</title>
 <link>rtmp://cdn.livecaster.tv/stream/nickkp swfUrl=http://www.livecaster.tv/player/player.swf pageUrl=http://www.livecaster.tv/channel.php?u=nickkp</link>
-<link>rtmp://streamer35.eboundservices.com/tv/nick</link>
 <thumbnail>http://www.indiaprwire.com/downloads/photo/201006/14699.jpg</thumbnail>
 </item>
 
@@ -1939,11 +1948,6 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 <thumbnail>http://www.uploadimages4free.com/upload/big/disney_xd_2009_logo-26981.jpg</thumbnail>
 </item>
 
-<item>
-<title>Fox News</title>
-<link>rtmp://cdn.livecaster.tv/stream/fox_news77 swfUrl=http://www.livecaster.tv/player/player.swf pageUrl=http://www.livecaster.tv/channel.php?u=fox_news77</link>
-<thumbnail>http://www.webvideovision.com/blog/wp-content/uploads/2012/05/foxnews_logo_1-e12691446608841.jpg</thumbnail>
-</item>
 
 <item>
 <title>Kiss Tv Music</title>
@@ -2001,11 +2005,8 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 <item>
 <title>Star Movies</title>
 <link>rtmp://142.4.216.173/edge/ playpath=kggplz5w9bpaaaj swfUrl=http://static.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/view/46497 timeout=15</link>
-<link>rtmp://streamer35.eboundservices.com/tv/starmovies</link>
-<link>rtmp://cdn.livecaster.tv/stream playpath=star_movies7 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=star_movies7&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_in.png</thumbnail>
 </item>
-
 
 <item>
 <title>National Geographic</title>
@@ -2013,27 +2014,11 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_pt.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>Animal Planet (Russian)</title>
-<link>http://95.188.126.233:1234/udp/233.7.70.30:5000 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/animal_planet_europe.png</thumbnail>
-</item>
-
-<item>
-<title>Cartoon Network (Hindi/Urdu)</title>
-<link>rtmp://streamer35.eboundservices.com/tv/cartoonnetwork</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/cartoon_network_nl.png</thumbnail>
-</item>
-
-
 <item>
 <title>Music Channel </title>
 <link>rtmp://cp86438.live.edgefcs.net:80/live playpath=livestream6_287@41549 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf swfVfy=true live=true pageUrl=http://www.livestream.com/embed/1_music_channel?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=4&t=928904 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/num/1music_channel_ro.png</thumbnail>
 </item>
-
-
 
 <item>
 <title>Xorisoria </title>
@@ -2041,14 +2026,11 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 <thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-ash4/373163_209043812465207_1966241941_q.jpg</thumbnail>
 </item>
 
-
-
 <item>
 <title>Fashion Tv</title>
 <link>rtmp://cdn.livecaster.tv/broadcast playpath=ftv.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=ftv1&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fashion_tv_us.png</thumbnail>
 </item>
-
 
 <item>
 <title>Food Network</title>
@@ -2135,6 +2117,29 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
  <fanart></fanart>
  </item>
 
+
+<item>
+<title>HBO HD</title>
+<link>rtmp://142.4.216.155/edge playpath=z28ie9oqoku4qoy swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=620&height=410&channel=36674&
+autoplay=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo2_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>HBO 2 HD</title>
+<link>rtmp://streamer35.eboundservices.com/tv/hbo</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo2_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>CINEMAX</title>
+<link>rtmp://live2.ilive.to/redirect playpath=r3na4scqxhgcoly swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=650&height=450&channel=44
+968&autoplay=true timeout=15</link>
+<link>rtmp://live2.ilive.to/redirect playpath=nl1yg9ant34fy93 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=650&height=450&channel=44
+972&autoplay=true timeout=15</link>
+<thumbnail>http://www.cinemax.com/img/global/logo-ftr.png</thumbnail>
+</item>
+
  <item>
  <title>StarMovie Asia</title>
  <link>rtmp://142.4.216.176/edge app=edge Playpath=kggplz5w9bpaaaj swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/46497/StarMovie_Asia buffer=300000 swfVfy=true live=true timeout=10</link>
@@ -2200,97 +2205,6 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 
 -->
 
-
-<channel>
-<name>Hindi OLD</name>
-<thumbnail>none</thumbnail>
-<items>
-
-<item>
-<title>9X News</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin Playpath=newsx1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF pageUrl=http://www.yupptv.com</link>
-<thumbnail>http://zoomtvvideos.files.wordpress.com/2008/11/newsx_live.gif?w=500</thumbnail>
-</item>
-
-
-<item>
-<title>CNBC</title>
-<link>http://bglive-a.bitgravity.com/web18/secure/feed01?e=2605091102%26h=78f9958b948ea899a6ef4d257e75097d</link>
-<thumbnail>http://www.indiamart.com/press-section/mediasays/gifs/cnbc_india.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>India - NDTV Hindu</title>
-<link>http://bglive-a.bitgravity.com/ndtv/indhi/live/native</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/ndtv_hindu.jpg</thumbnail>
-</item>
-
-<item>
-<title>India - NDTV India</title>
-<link>http://bglive-a.bitgravity.com/ndtv/indlo/live/native</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/ndtv_india.jpg</thumbnail>
-</item>
-
-<item>
-<title>India - NDTV Profit</title>
-<link>http://bglive-a.bitgravity.com/ndtv/prolo/live/native</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/ndtv_profit.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>India Tv</title>
-<link>rtsp://cdn.m.yupptv.tv/liveorigin/indiatv1</link>
-<thumbnail>http://www.yupptv.com/img/indiatv.png</thumbnail>
-</item>
-
-
-<item>
-<title>MTV India</title>
-<link>rtmpe://31.204.154.61/tv playpath=mtvindiahq9_desistreams swfUrl=http://www.110cast.com/player/player-licensed.swf pageUrl=http://www.110cast.com/embed.php?u=mtvindiahq9_desistreams live=true timeout=15</link>
-<thumbnail>http://apne.tv/db_imgs/8QL1A7VCXP6UB5JWFR2G1307518220.jpg</thumbnail>
-</item>
-
-<item>
-<title>News X</title>
-<link>rtsp://cdn.m.yupptv.tv/liveorigin/newsx1</link>
-<thumbnail>http://http://www.yupptv.com/img/newsx.png</thumbnail>
-</item>
-
-
-<item>
-<title>Sahara Madhya pradesh</title>
-<link>rtsp://cdn.m.yupptv.tv/liveorigin/saharamadhyap1</link>
-<thumbnail>http://www.yupptv.com/img/sahara_mp_iphone_N.png</thumbnail>
-</item>
-
-<item>
-<title>Sahara Mumbai</title>
-<link>rtsp://cdn.m.yupptv.tv/liveorigin/saharamum1</link>
-<thumbnail>http://www.yupptv.com/img/75x50_sahara_mumbai.png</thumbnail>
-</item>
-
-<item>
-<title>Sahara Samay</title>
-<link>rtsp://cdn.m.yupptv.tv/liveorigin/saharasamaynew1</link>
-<thumbnail>http://www.yupptv.com/img/sahara_samay_iphone_N.png</thumbnail>
-</item>
-
-<item>
-<title>Xtra</title>
-<link>rtsp://cdn.m.yupptv.tv/liveorigin/channel61</link>
-<thumbnail>http://www.yupptv.com/img/xtra_iphone.png</thumbnail>
-</item>
-
-
-
-</items>
-</channel>
-
-<!-- ================================================================================?==== 
-
--->
 <channel>
 <name>Cartoons OLD</name>
 <thumbnail>none</thumbnail>
