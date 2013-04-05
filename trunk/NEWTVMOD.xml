@@ -1660,26 +1660,17 @@ autoplay=true timeout=15</link>
 <thumbnail>http://www.cinemax.com/img/global/logo-ftr.png</thumbnail>
 </item>
 
-
-
-
 <item>
 <title>Spike Tv</title>
 <link>rtmp://178.33.229.17/edge/ playpath=zmt2swezlswh9nz pageUrl=http://www.ilive.to/view/38197/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
 <thumbnail>http://www-deadline-com.vimg.net/wp-content/uploads/2011/04/SpikeTV_logo_20110409013949.jpg</thumbnail>
 </item>
 
-
-
-
-
 <item>
 <title>TNT</title>
 <link>rtmp://5.39.67.31/edge/ playpath=6ywadf790osnyxl pageUrl=http://www.ilive.to/view/45244/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
 <thumbnail>http://www.hdsports1.com/clogo/tnt_logo.jpg</thumbnail>
 </item>
-
-
 
 <item>
 <title>A & E</title>
@@ -1752,8 +1743,6 @@ autoplay=true timeout=15</link>
 <thumbnail>http://1.bp.blogspot.com/-A0wx-qfBN-Y/UEhNWdZhDHI/AAAAAAAAa64/GwriqDM1BPY/s1600/euronews.jpg</thumbnail>
 </item>
 
-
-
 <item>
 <title>France 24</title>
 <link>mms://stream1.france24.yacast.net/f24_liveen</link>
@@ -1788,30 +1777,28 @@ autoplay=true timeout=15</link>
 
 
 <item>
+<title>BBC World</title>
+<link> rtmp://d.cdn.msnbclive.eu/edge playpath=bbcworld_live swfUrl=http://msnbclive.eu/player.swf live=true pageUrl=http://weplaylive.tv/world-news-stream/ timeout=15</link
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>BBC Two</title>
 <link>rtmp://37.59.35.214/edge/ playpath=jkgbg7vq8fcjgjl pageUrl=http://www.ilive.to/view/43892/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
 <link>rtmp://cdn.livecaster.tv/stream/bbc_2 swfUrl=http://www.livecaster.tv/player/player.swf pageUrl=http://www.livecaster.tv/channel.php?u=bbc_2</link>
 <thumbnail>http://formfilms.co.uk/wp-content/uploads/2010/05/bbc2_logo_lightbox.jpg</thumbnail>
 </item>
 
-<item>
-<title>CNN</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=cnn1.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=cnn1&vw=600&vh=430 timeout=15</link>
-<link>rtmp://50.23.113.212/live playPath=mamoma?id=152942 swfVfy=1 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=hthttp://mips.tv/mamomaimeout=15</link>
-<link>rtmp://live2.ilive.to/redirect playpath=rjxo8hz17q9waiq swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/46461/CNN timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
-</item>
 
 <item>
-<title>CNN 2</title>
+<title>CNN USA</title>
 <link>rtmp://a.cdn.msnbclive.eu/edge playpath=cnn_live swfUrl=http://msnbclive.eu/player.swf live=true pageUrl=http://weplaylive.tv/live-news-stream/ timeout=15</link>
-
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
 </item>
 
 <item>
 <title>CNN International</title>
-<link>rtmp://178.33.229.17/edge/ playpath=sxzxrxufu91xil2 pageUrl=http://www.ilive.to/view/42804 swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
+<link>rtmp://live.ukcast.tv/broadcast playpath=cnn1.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=cnn1&vw=600&vh=430 timeout=15</link>
 <link>rtsp://202.125.158.230:554/stream3_wifi.sdp timeout=15</link>
 <link>rtmp://live.ukcast.tv/broadcast/cnn1.stream pageUrl=http://www.ukcast.tv/channel.php?u=cnn1 swfUrl=http://www.ukcast.tv/player/player.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
@@ -1827,6 +1814,7 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 
 <item>
 <title>HLN</title>
+<link>rtmp://d.cdn.msnbclive.eu/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf live=true pageUrl=http://weplaylive.tv/twoon-room/ timeout=15</link
 <link>http://211.79.36.141/iTV/segments/ch85/index.m3u8</link>
 <thumbnail>http://i.cdn.turner.com/dr/hln/www/release/sites/default/themes/hln/logo.png</thumbnail>
 </item>
@@ -1842,6 +1830,12 @@ vePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?
 <title>Fox News</title>
 <link>rtmp://46.165.196.36/stream app=stream conn=S:OK playpath=adadadafoxadad?id=87553 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/adadadafoxadad/1/500/400 swfVfy=1 live=1 timeout=30</link>
 <thumbnail>http://thenewsosphere.files.wordpress.com/2012/05/200px-fox_news_channel-svg.png</thumbnail>
+</item>
+
+<item>
+<title>MSNBC</title>
+<link>rtmp://d.cdn.msnbclive.eu/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf live=true pageUrl=http://weplaylive.tv/politics-stream/ timeout=15</link
+<thumbnail></thumbnail>
 </item>
 
 <item>
