@@ -1541,6 +1541,7 @@ www.khantv.info timeout=15</link>
 </item>
 
 
+
 <item>
 <title>Fox U.K</title>
 <link>rtmp://37.59.35.214/edge/ playpath=1tav2iv54qsul6f pageUrl=http://www.ilive.to/view/44929 swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
@@ -1703,6 +1704,11 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://www.tangmedia.fr/greatwall/images/cctv-news.png</thumbnail>
 </item>
 
+<item>
+<title>The Weather Channel</title>
+<link>rtmhttp://twci-i.akamaihd.net/hls/live/203612/hls02/master_index.m3u8<link>
+<thumbnail>http://streetfightmag.com/wp-content/uploads/weather_channel.png</thumbnail>
+</item>
 
 <item>
 <title>BBC World News</title>
