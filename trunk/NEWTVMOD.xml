@@ -1706,7 +1706,7 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>The Weather Channel</title>
-<link>rtmhttp://twci-i.akamaihd.net/hls/live/203612/hls02/master_index.m3u8<link>
+<link>http://twci-i.akamaihd.net/hls/live/203612/hls02/master_index.m3u8<link>
 <thumbnail>http://streetfightmag.com/wp-content/uploads/weather_channel.png</thumbnail>
 </item>
 
