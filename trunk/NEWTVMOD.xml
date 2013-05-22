@@ -1581,7 +1581,7 @@ player=default</link>
 
 <item>
 <title>Bloomberg</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://cp116697.live.edgefcs.net:80/live playpath=BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_440@18679 swfUrl=http://player.longtailvideo.com/player.swf live=1 timeout=15</link>
+<link>rtmp://cp116697.live.edgefcs.net:80/live playpath=BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_440@18679 swfUrl=http://player.longtailvideo.com/player.swf live=1 timeout=15</link>
 <thumbnail>https://lh3.googleusercontent.com/-VEB545Y1H1M/AAAAAAAAAAI/AAAAAAAAAHQ/N4IRlRex3Nc/s48-c-k/photo.jpg</thumbnail>
 </item>
 
@@ -1592,9 +1592,9 @@ player=default</link>
 </item>
 
 <item>
-<title>Fox News 2</title>
-<link>rtmp://cdn.livecaster.tv/stream/fox_news77 swfUrl=http://www.livecaster.tv/player/player.swf pageUrl=http://www.livecaster.tv/channel.php?u=fox_news77</link>
-<thumbnail>http://www.webvideovision.com/blog/wp-content/uploads/2012/05/foxnews_logo_1-e12691446608841.jpg</thumbnail>
+<title>Fox Business</title>
+<link>http://live.webcaston.com:1935/live/channel/aaj01/playlist.m3u8</link>
+<thumbnail>https://si0.twimg.com/profile_images/1268222676/fb_128x128_bigger.png</thumbnail>
 </item>
 
 <item>
@@ -1617,8 +1617,7 @@ player=default</link>
 
 <item>
 <title>TheWeatherNation TV US</title>
-<link>rtmp://cp77659.live.edgefcs.net/live playpath=0_c6zkpyg0_1@2781 swfUrl=http://cdnbakmi.kaltura.com/p/931702/sp/93170200/flash/kdp3/v3.6.17/kdp3.swf live=1
-player=default</link>
+<link>rtmp://cp77659.live.edgefcs.net/live playpath=0_c6zkpyg0_1@2781 swfUrl=http://cdnbakmi.kaltura.com/p/931702/sp/93170200/flash/kdp3/v3.6.17/kdp3.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php player=default timeout=15</link>
 <thumbnail>http://media.marketwire.com/attachments/201206/53621_WeatherNationTVlogo.jpg</thumbnail>
 </item>
 
