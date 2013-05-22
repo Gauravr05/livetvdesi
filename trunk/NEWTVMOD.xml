@@ -638,8 +638,7 @@ player=default  timeout=15</link>
 
 <item>
 <title>ESPN America HD</title>
-<link>http://94.155.46.4:8001/udp/238.11.0.7:1234/</link>
-<link>http://cds-sr1.vmo2.sbb.rs/live/ramdisk/espn_slo/hls1/espn_slo_q4.m3u8 </link>
+<link>rtmp://fmsnl.ilive.to:1935/app/_definst_/j0z1tlkds9h5fji</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_america_uk_hd.png</thumbnail>
 </item>
 
@@ -700,14 +699,13 @@ player=default  timeout=15</link>
 
 <item>
 <title>Sky Sports 1 </title>
-<link>rtmp://95.138.168.10/live/skysp1</link>
-<link>rtmp://109.163.236.88:1935/live/channel1</link>   rtmp://rtmp.stream4.tv:1935/liverepeater/_definst_/3934  <<<<<<<<<<<
+<link>rtmp://fmsnl.ilive.to:1935/app/_definst_/xz5i9s3c5l5kr78</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 2 </title>
-<link>rtmp://95.138.168.10/live/skysp2</link>
+<link>rtmp://fmsnl.ilive.to:1935/app/_definst_/hqamscbsqcganx6</link>
 <link>rtmp://109.163.236.88:1935/live/channel7</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
 </item>
@@ -956,7 +954,7 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>Music India</title>
-<link>rtmp://37.130.230.101:1935/base2/maha11.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/music-india/ timeout=15</link>
+<link>rtsp://115.112.248.159:554/prf1/cid_85.sdp timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/music_india.jpg</thumbnail>
 </item>
 
@@ -1484,8 +1482,7 @@ player=default</link>
 
 <item>
 <title>Animal Planet HD</title>
-<link>rtmp://tv.webport.tv/promo2 app=promo2 Playpath=mtv swfUrl=http://www.mylivetvchannel.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.mylivetvchannel.com/animalplanetuk/ buffer=300000 swfVfy=true live=true timeout=10</link>
-<link>rtmp://s01.webport.tv/promo/mtv swfUrl=http://futuboxhd.com/player/player.swf live=1 pageUrl=http://futuboxhd.com/ timeout=10</link>
+<link>rtmp://fmsnl.ilive.to:1935/app/_definst_/41i3ymbmum28xfk timeout=10</link>
 <thumbnail>http://www.m-streams.com/_images/chanal-pic/animalplanet-2l.jpg</thumbnail>
 </item>
 
