@@ -807,7 +807,7 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>Star Plus</title>
-<link>rtmp://streamer35.eboundservices.com/tv/starplus timeout=15</link>
+<link>rtmp://cdn.telecast.eu/live playpath=starpluslow1.stream swfUrl=http://www.telecast.eu/player/player.swf live=true pageUrl=http://www.telecast.eu/embed.php?u=starpluslive&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
 </item>
 
@@ -855,7 +855,7 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>Sony Sab</title>
-<link>rtmp://cdn.livecaster.tv/stream playpath=sab_tv66 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=sab_tv66&vw=600&vh=430 timeout=15</link>
+<link>rtmp://178.18.23.114/strm playpath=sabtvhq2.stream swfUrl=http://www.telecast.eu/player/player.swf live=true pageUrl=http://www.telecast.eu/embed.php?u=sabtvhq2&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sony_sab_tv_in.jpg</thumbnail>
 </item>
 
@@ -924,7 +924,7 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>9xm</title>
-<link>rtmp://cdn.livecaster.tv/stream playpath=9xmlow1.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=9xmlow1&vw=600&vh=430 timeout=15</link>
+<link>rtmp://94.102.51.78/live33 playpath=9x_music swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=9xm88&vw=600&vh=450&video=0&domain=pogotv.eu timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/num/9x_music.jpg</thumbnail>
 </item>
 
@@ -955,7 +955,7 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>B4U Music</title>
-<link>rtmp://65.49.77.251/redirect playpath=dd17.stream  swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/b4u-music/ timeout=15</link>
+<link>rtmp://94.102.51.78/live22 playpath=b4u_music77 swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=b4u_music77&vw=600&vh=450&video=0&domain=pogotv.eu timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/b4u_music.jpg</thumbnail>
 </item>
 
@@ -1518,28 +1518,30 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>Spike Tv</title>
-<link>rtmp://178.33.229.17/edge/ playpath=zmt2swezlswh9nz pageUrl=http://www.ilive.to/view/38197/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
+<link>rtmp://edge.isearch.to/edge/m5lssurqlffzxtp swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+player=default</link>
 <thumbnail>http://www-deadline-com.vimg.net/wp-content/uploads/2011/04/SpikeTV_logo_20110409013949.jpg</thumbnail>
 </item>
 
 <item>
 <title>TNT</title>
-<link>rtmp://176.31.231.57/edge/1842npoa9yindpzge pageUrl=http://www.ilive.to/view/45244/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<thumbnail>http://www.hdsports1.com/clogo/tnt_logo.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/s7d8wd96rhebpng swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+player=default</link>
+<thumbnail>http://4.bp.blogspot.com/-ce5cmqwmrm8/Tw-Cuy9LelI/AAAAAAAAFPk/OaS6b0ADkp0/s1600/TNT_TV_logo.png</thumbnail>
+</item>
+
+<item>
+<title>USA Network US</title>
+<link>rtmp://edge.isearch.to/edge/h5eovaj1jeegluq swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+player=default</link>
+<thumbnail>http://images.sodahead.com/polls/003279465/153380788_usa_network_logo_1_answer_2_xlarge.jpeg</thumbnail>
 </item>
 
 <item>
 <title>A & E</title>
-<link>rtmp://46.105.114.36/edge/ playpath=x99v7adz8i3ikkm pageUrl=http://www.ilive.to/view/43568/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
+<link>rtmp://edge.isearch.to/edge/oanry4s71cylxxb swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+player=default</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/274px-A%26E_Network_logo.svg.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>Fox U.K</title>
-<link>rtmp://37.59.35.214/edge/ playpath=1tav2iv54qsul6f pageUrl=http://www.ilive.to/view/44929 swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<thumbnail>http://www.mediabistro.com/tvspy/files/original/FOX_Logo.gif</thumbnail>
 </item>
 
 <item>
@@ -1549,105 +1551,17 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://tvisual.org/wp-content/uploads/2011/01/trutv-logo.gif</thumbnail>
 </item>
 
-<item>
-<title>AXN HD</title>
-<link>rtmp://37.59.35.215/edge/ playpath=dw657dcdmdf0vap pageUrl=http://www.ilive.to/view/40853/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<thumbnail>http://1.bp.blogspot.com/-pbmQG4pphBQ/T5SXUtSfJCI/AAAAAAAAEoQ/qgDLSR10UlM/s1600/axn+hd+logo.jpg</thumbnail>
-</item>
 
 <item>
-<title>Fox Life (Portuguese / English)</title>
-<link>rtmp://5.39.65.109/edge/ playpath=zsykl0nvdr7xf0x pageUrl=http://www.ilive.to/view/40842 swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Fox_Life_logo.svg/279px-Fox_Life_logo.svg.png</thumbnail>
-</item>
-
-<item>
-<title>Fox (Portuguese / English)</title>
-<link>rtmp://5.39.65.109/edge/ playpath=68ackspem808lbf pageUrl=http://www.ilive.to/view/40883/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<thumbnail>http://www.freelogovectors.net/wp-content/uploads/2012/04/fox-tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>Universal (Portuguese / English)</title>
-<link>rtmp://178.33.234.10/edge/ playpath=u4yqa53fa15ct18 pageUrl=http://www.ilive.to/view/42228/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/c/c6/Universal_Channel.png</thumbnail>
-</item>
-
-
-<item>
-<title>Fox Crime (Portuguese / English)</title>
-<link>rtmp://46.105.114.36/edge/ playpath=qe4ivz5egll49bx pageUrl=http://www.ilive.to/view/45011/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<thumbnail>http://realhousewifeofbelgrade.files.wordpress.com/2011/01/fox-crime.jpg</thumbnail>
-</item>
-
-<item>
-<title>HWD Hollywood (Portuguese / English)</title>
-<link>rtmp://178.33.229.17/edge/ playpath=ak7qf6qh54qg8z8 pageUrl=http://www.ilive.to/view/41625/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<thumbnail>http://refectori.com/hollywood.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Fox Movies Premium (Indonesian / English)</title>
-<link>rtmp://37.59.35.214/edge/ playpath=778im6ualerzp67 pageUrl=http://www.ilive.to/view/45911 swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<link>rtmp://live.ukcast.tv/broadcast/fox_movies.stream pageUrl=http://www.ukcast.tv/channel.php?u=fox_movies swfUrl=http://www.ukcast.tv/player/player.swf</link>
-<thumbnail>https://twimg0-a.akamaihd.net/profile_images/2647451160/e2b9e01f29a64babd2b456b10f7e5b96.png</thumbnail>
-</item>
-
-<item>
-<title>Euro News</title>
-<link>rtmp://178.33.234.10/edge/ playpath=fg2fwiffpklotoc pageUrl=http://www.ilive.to/view/43632 swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<thumbnail>http://1.bp.blogspot.com/-A0wx-qfBN-Y/UEhNWdZhDHI/AAAAAAAAa64/GwriqDM1BPY/s1600/euronews.jpg</thumbnail>
-</item>
-
-<item>
-<title>France 24</title>
-<link>mms://stream1.france24.yacast.net/f24_liveen</link>
-<thumbnail>https://twimg0-a.akamaihd.net/profile_images/1167719102/logo_france24_generique.png</thumbnail>
-</item>
-
-<item>
-<title>Russia Today</title>
-<link>rtmp://fms5.visionip.tv/live app=live swfUrl=http://rt.com/s/swf/player5.4.viral.swf pageURL=http://rt.com/on-air/ playpath=RT_3 live=true</link>
-<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlq.png</thumbnail>
-</item>
-
-<item>
-<title>Russia Today U.S</title>
-<link>rtmp://rt.fms.visionip.tv/live app=live swfUrl=http://rt.com/s/swf/player5.4.viral.swf pageURL=http://rt.com/on-air/ playpath=RT_US_3 live=true</link>
-<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlq.png</thumbnail>
-</item>
-
-
-<item>
-<title>Sky News</title>
-<link>mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k</link>
-<link>rtmp://media4.lsops.net/live/ playpath=skynewsi_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/en" swfVfy=true live=true</link>
-<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlp.png</thumbnail>
-</item>
-
-<item>
-<title>Press Tv</title>
-<link>rtmp://media4.lsops.net/live/ playpath=presstv_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/en/press-tv" swfVfy=true live=true</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/pp/press_tv.png</thumbnail>
-</item>
-
-<item>
-<title>BBC Two</title>
-<link>rtmp://37.59.35.214/edge/ playpath=jkgbg7vq8fcjgjl pageUrl=http://www.ilive.to/view/43892/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<thumbnail>http://formfilms.co.uk/wp-content/uploads/2010/05/bbc2_logo_lightbox.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>CNN USA</title>
+<title>CNN</title>
 <link>rtmp://a.cdn.msnbclive.eu/edge playpath=cnn_live swfUrl=http://msnbclive.eu/player.swf live=true pageUrl=http://weplaylive.tv/live-news-stream/ timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
 </item>
 
 <item>
 <title>CNN International</title>
-<link>rtmp://live.ukcast.tv/broadcast/cnn1.stream pageUrl=http://www.ukcast.tv/channel.php?u=cnn1 swfUrl=http://www.ukcast.tv/player/player.swf</link>
+<link>http://akamedia2.lsops.net/live/smil:cnn_en.smil/chunklist-b320000.m3u8</link>
+<link>rtsp://media2.lsops.net/live/_definst_/mp4:cnn_en_high.sdp</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
 </item>
 
@@ -1667,8 +1581,7 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>Bloomberg</title>
-<link>rtmp://96.17.164.7/live?_fcs_vhost=cp116697.live.edgefcs.net playpath=BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_1000@18679 swfUrl=http://player.ooyala.com/static/cacheable/4f64f23fac27df75e13e40fe7a28ff
-45/player_v2.swf/[[DYNAMIC]]/1 pageUrl=http://www.bloomberg.com/tv/ timeout=15</link>
+<link>rtmp://$OPT:rtmp-raw=rtmp://cp116697.live.edgefcs.net:80/live playpath=BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_440@18679 swfUrl=http://player.longtailvideo.com/player.swf live=1 timeout=15</link>
 <thumbnail>https://lh3.googleusercontent.com/-VEB545Y1H1M/AAAAAAAAAAI/AAAAAAAAAHQ/N4IRlRex3Nc/s48-c-k/photo.jpg</thumbnail>
 </item>
 
@@ -1683,8 +1596,6 @@ www.khantv.info timeout=15</link>
 <link>rtmp://cdn.livecaster.tv/stream/fox_news77 swfUrl=http://www.livecaster.tv/player/player.swf pageUrl=http://www.livecaster.tv/channel.php?u=fox_news77</link>
 <thumbnail>http://www.webvideovision.com/blog/wp-content/uploads/2012/05/foxnews_logo_1-e12691446608841.jpg</thumbnail>
 </item>
-
-
 
 <item>
 <title>MSNBC</title>
@@ -1705,11 +1616,20 @@ www.khantv.info timeout=15</link>
 </item>
 
 <item>
+<title>TheWeatherNation TV US</title>
+<link>rtmp://cp77659.live.edgefcs.net/live playpath=0_c6zkpyg0_1@2781 swfUrl=http://cdnbakmi.kaltura.com/p/931702/sp/93170200/flash/kdp3/v3.6.17/kdp3.swf live=1
+player=default</link>
+<thumbnail>http://media.marketwire.com/attachments/201206/53621_WeatherNationTVlogo.jpg</thumbnail>
+</item>
+
+
+<item>
 <title>BBC World News</title>
 <link>rtsp://media4.lsops.net/live/bbcworld1_en_veryhigh.sdp</link>
 <link>rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_veryhigh.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
 <link>rtmp://d.cdn.msnbclive.eu/edge playpath=bbcworld_live swfUrl=http://msnbclive.eu/player.swf live=true pageUrl=http://weplaylive.tv/world-news-stream/ timeout=15</link
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlj.png</thumbnail>
+<thumbnail>http://formfilms.co.uk/wp-content/uploads/2010/05/bbc2_logo_lightbox.jpg</thumbnail>
 </item>
 
 
@@ -1727,6 +1647,37 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://www.cyfraplus.pl/local/img/channel/large/RTD.png</thumbnail>
 </item>
 
+<item>
+<title>Euro News</title>
+<link>rtmp://178.33.234.10/edge/ playpath=fg2fwiffpklotoc pageUrl=http://www.ilive.to/view/43632 swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://1.bp.blogspot.com/-A0wx-qfBN-Y/UEhNWdZhDHI/AAAAAAAAa64/GwriqDM1BPY/s1600/euronews.jpg</thumbnail>
+</item>
+
+<item>
+<title>France 24</title>
+<link>mms://stream1.france24.yacast.net/f24_liveen</link>
+<thumbnail>https://twimg0-a.akamaihd.net/profile_images/1167719102/logo_france24_generique.png</thumbnail>
+</item>
+
+<item>
+<title>Russia Today</title>
+<link>rtmp://fms5.visionip.tv/live app=live swfUrl=http://rt.com/s/swf/player5.4.viral.swf pageURL=http://rt.com/on-air/ playpath=RT_3 live=true</link>
+<link>rtmp://rt.fms.visionip.tv/live app=live swfUrl=http://rt.com/s/swf/player5.4.viral.swf pageURL=http://rt.com/on-air/ playpath=RT_US_3 live=true</link>
+<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlq.png</thumbnail>
+</item>
+
+<item>
+<title>Sky News</title>
+<link>mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k</link>
+<link>rtmp://media4.lsops.net/live/ playpath=skynewsi_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/en" swfVfy=true live=true</link>
+<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlp.png</thumbnail>
+</item>
+
+<item>
+<title>Press Tv</title>
+<link>rtmp://media4.lsops.net/live/ playpath=presstv_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/en/press-tv" swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/press_tv.png</thumbnail>
+</item>
 
 
 <item>
@@ -1880,7 +1831,8 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>TLC</title>
-<link>rtmp://37.220.36.68:443/liverepeater playpath=3587 swfUrl=http://4372f0f736b94c17980f-72149a3bba3a67bfaa92318a7ed89a98.r76.cf1.rackcdn.com/player2.swf swfVfy=true live=true pageUrl=http://footballnews.be/player2.php?id=3587&width=640&height=460 timeout=15</link>
+<link>rtmp://edge.isearch.to/edge/x99v7adz8i3ikkm swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+player=default timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tlc_us.jpg</thumbnail>
 </item> 
 
