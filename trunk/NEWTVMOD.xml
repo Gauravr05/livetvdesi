@@ -665,11 +665,9 @@ player=default  timeout=15</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png</thumbnail>
 </item>
 
-
-
 <item>
 <title>ESPN U.K</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=espn_uk.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=espn_uk&vw=600&vh=430 timeout=15</link>
+<link>rtmp://178.18.23.128/live playpath=spnuk swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=spnuk&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png</thumbnail>
 </item>
 
@@ -825,14 +823,11 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>Zee Smile</title>
 <link>rtmp://65.49.77.251/redirect playpath=dd16.stream  swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf swfVfy=1 conn=S:OK pageUrl=http://www.turbotv.in/zee-smile/ timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_smile.jpg</thumbnail>
 </item>
-
-
 
 <item>
 <title>Zee Tv</title>
@@ -840,20 +835,17 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_tv.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>Sony TV</title>
 <link>rtmp://streamer35.eboundservices.com/tv/sonytv timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_in.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>B4U Movies</title>
 <link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=b4umovies swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/b4u_movies.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>Star GOld HD</title>
@@ -873,14 +865,11 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sony_sab_tv_in.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>Life OK</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=life_ok.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=life_ok&vw=60rtmp://178.18.23.91/live playpath=life_ok.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=life_ok timeout=15</link>
+<link>rtmp://live.ukcast.tv/broadcast playpath=life_ok.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=life_ok&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_in.jpg</thumbnail>
 </item>
-
-
 
 <item>
 <title>Set MAX HD</title>
@@ -917,29 +906,8 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>UTV Movies</title>
-<link>rtmp://cdn.livecaster.tv/live playpath=utvmovieshigh.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=utvmovieshigh&vw=600&vh=430 timeout=15</link>
+<link>rtmp://cdn.rtmp1.yupptv.tv/pnwk1 playpath=utvmoviesus900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=209 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/utv_movies.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>ABP NEWS</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=star_gold6 swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=star_gold6&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/abp_news_in.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>MAA TV</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=maa_tv.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=maa_tv&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/maa_tv.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>9xm</title>
-<link>rtmp://94.102.51.78/live33 playpath=9x_music swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=9xm88&vw=600&vh=450&video=0&domain=pogotv.eu timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/num/9x_music.jpg</thumbnail>
 </item>
 
 <item>
@@ -956,8 +924,8 @@ www.khantv.info timeout=15</link>
 
 <item>
  <title>Zoom Tv</title>
- <link>http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp/zing-tablet.3gp-mr398k.m3u8</link>
- <thumbnail>http://yamgo.mobi/images/mid/logo/zing-logo.png</thumbnail>
+ <link>rtmp://cdn.nwk.yupptv.tv/nwk/ playpath=zoomtv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+ <thumbnail>http://1.bp.blogspot.com/-Eeo8l4R_M4o/UWlEntt7nwI/AAAAAAAACFY/iusT7kzH1hU/s1600/zoomtv.jpg</thumbnail>
  </item>
 
 
@@ -980,11 +948,9 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/b4u_music.jpg</thumbnail>
 </item>
 
-
-
 <item>
-<title>9X Music</title>
-<link>rtmp://37.130.230.101:1935/base2/dd2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/9xm-live/ timeout=15</link>
+<title>9x Music</title>
+<link>rtmp://94.102.51.78/live33 playpath=9x_music swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=9xm88&vw=600&vh=450&video=0&domain=pogotv.eu timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/num/9x_music.jpg</thumbnail>
 </item>
 
@@ -994,14 +960,11 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/music_india.jpg</thumbnail>
 </item>
 
-
-
 <item>
 <title>UTV Stars</title>
 <link>rtmp://80.82.70.225/live22 playpath=ustar11 swfUrl=http://www.zstream.eu/pl1ayer.swf swfVfy=true live=true pageUrl=http://www.zstream.eu/embed.php?v=ustar11&vw=600&vh=450&video=0&domain=pogotv.eu timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/utv_stars.jpg</thumbnail>
 </item> 
-
 
 <item>
 <title>INDIA TV</title>
@@ -1009,13 +972,11 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/india_tv.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>ET NOW</title>
 <link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=etnow swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=117 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/et_now.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>Aaj Tak</title>
@@ -1029,21 +990,11 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://1.bp.blogspot.com/-ODHtMx6LohE/UWlAty5xp9I/AAAAAAAACEY/inpPE4J7AT0/s1600/headtoday.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>DISCOVERY INDIA</title>
 <link>rtmp://cdn.livecaster.tv/broadcast playpath=115521 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=discoveryhindi&vw=600&vh=470 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_in.jpg</thumbnail>
 </item>
-
-
-<item>
-<title>NICK</title>
-<link>rtmp://cdn.livecaster.tv/stream playpath=115521 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=pogo6&vw=600&vh=430 timeout=15</link>
-<link>rtmp://streamer35.eboundservices.com/tv/nick</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_in.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>DD NATIONAL</title>
@@ -1086,8 +1037,6 @@ www.khantv.info timeout=15</link>
 <link>http://bglive-a.bitgravity.com/ndtv/prolo/live/native</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/ndtv_profit.jpg</thumbnail>
 </item>
-
-
 
 </items>
 </channel>
