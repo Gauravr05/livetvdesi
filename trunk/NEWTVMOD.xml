@@ -1515,12 +1515,6 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://worldhdwallpaper.com/wp-content/uploads/2013/03/usa-flag-hd-wallpaper.gif</thumbnail>
 <items>
 
-<item>
-<title>Baby Tv</title>
-<link>rtmp://streamer35.eboundservices.com/tv/babytv</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/baby_tv.png</thumbnail>
-</item>
-
 
 <item>
 <title>Spike Tv</title>
@@ -1530,7 +1524,7 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>TNT</title>
-<link>rtmp://5.39.67.31/edge/ playpath=6ywadf790osnyxl pageUrl=http://www.ilive.to/view/45244/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
+<link>rtmp://176.31.231.57/edge/1842npoa9yindpzge pageUrl=http://www.ilive.to/view/45244/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
 <thumbnail>http://www.hdsports1.com/clogo/tnt_logo.jpg</thumbnail>
 </item>
 
@@ -1666,8 +1660,8 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>HLN</title>
-<link>rtmp://d.cdn.msnbclive.eu/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf live=true pageUrl=http://weplaylive.tv/twoon-room/ timeout=15</link
-<link>http://211.79.36.141/iTV/segments/ch85/index.m3u8</link>
+<link>rtmp://a.cdn.msnbclive.eu/edge/hln_liv swfUrl=http://msnbclive.eu/getswf.php?name=player.swf live=1 pageurl=http://blog.livenewschat.tv/the-nancy-grace-room/player=default timeout=15</link
+<link></link>
 <thumbnail>http://i.cdn.turner.com/dr/hln/www/release/sites/default/themes/hln/logo.png</thumbnail>
 </item>
 
