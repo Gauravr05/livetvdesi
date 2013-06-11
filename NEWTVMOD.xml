@@ -816,6 +816,14 @@ www.khantv.info timeout=15</link>
 <items>
 
 <item>
+<title>Star Plus HD</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live//7c75ad89c1cc417aa0f066133c0a2333.m3u8?bitrate=800</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
+<item>
+
+
+
+<item>
 <title>Star Plus</title>
 <link>rtmp://cdn.telecast.eu/live playpath=starpluslow1.stream swfUrl=http://www.telecast.eu/player/player.swf live=true pageUrl=http://www.telecast.eu/embed.php?u=starpluslive&vw=600&vh=430 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
