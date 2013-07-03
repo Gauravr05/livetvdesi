@@ -214,11 +214,48 @@
 <thumbnail>http://www.watchindia.tv/images/V3/Logo.png</thumbnail>
 <items>
 
-<item>
-<title>Zee Tv</title>
-<link>rtmpe://68.235.32.30/web/zeetv pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
-<thumbnail>http://watchsuntv.com/tvlogos/zee_tv.jpg</thumbnail>
+<item> 
+<title>Zee Tv</title> 
+<link>rtmpe://68.235.32.30/web/zeetv token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ </link> 
+<thumbnail>http://watchsuntv.com/tvlogos/zee_tv.jpg</thumbnail> 
 </item>
+
+<item> 
+<title>Star Plus</title> 
+<link>rtmpe://68.235.32.30/web/starplus token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ </link> 
+<thumbnail>http://watchsuntv.com/tvlogos/starplus.jpg</thumbnail> 
+</item> 
+
+<item> 
+<title>Sony TV</title> 
+<link>rtmpe://68.235.32.30/web/sonytv token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ </link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_in.jpg</thumbnail> 
+</item> 
+
+<item> 
+<title>Set Max</title> 
+<link>rtmpe://68.235.32.30/web/setmax token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ </link> 
+<thumbnail></thumbnail> 
+</item>
+
+<item> 
+<title>Sahara One</title> 
+<link>rtmpe://68.235.32.30/web/saharaone token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ </link> 
+<thumbnail>http://watchsuntv.com/tvlogos/sahara_one.jpg</thumbnail> 
+</item>
+
+<item> 
+<title>Star Gold </title> 
+<link>rtmpe://68.235.32.30/web/stargold token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ </link> 
+<thumbnail>http://watchsuntv.com/tvlogos/star_gold.jpg</thumbnail> 
+</item>
+
+
+
+
+
+
+
 
 <item>
 <title>Zee Cinema</title>
@@ -233,12 +270,6 @@
 <thumbnail>http://watchsuntv.com/tvlogos/zee_smile.jpg</thumbnail>
 </item>
 
-<item>
-<title>Star Plus</title>
-<link>rtmpe://68.235.32.30/web/starplus pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
-<thumbnail>http://watchsuntv.com/tvlogos/starplus.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>Life OK</title>
@@ -246,17 +277,6 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail>
 </item>
 
-<item>
-<title>Star Gold</title>
-<link>rtmpe://68.235.32.30/web/stargold pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
-<thumbnail>http://watchsuntv.com/tvlogos/star_gold.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sahara One</title>
-<link>rtmpe://68.235.32.30/web/saharaone pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
-<thumbnail>http://watchsuntv.com/tvlogos/sahara_one.jpg</thumbnail>
-</item>
 
 <item>
 <title>Filmy</title>
@@ -264,12 +284,6 @@
 <thumbnail>http://watchsuntv.com/tvlogos/sahara_filmy.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>Sony</title>
-<link>rtmpe://68.235.32.30/web/sonytv pageURL=http://www.watchsuntv.com/play/ app=live/ swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB swfVfy=true live=true</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_in.jpg</thumbnail>
-</item>
 
 
 <item>
