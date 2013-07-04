@@ -258,13 +258,13 @@
 
 <item> 
 <title>Zee Smile</title> 
-<link>rtmpe://68.235.32.30/web/zee_smile token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>rtmpe://68.235.32.30/web/zeesmile token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/zee_smile.jpg</thumbnail> 
 </item>
 
 <item> 
 <title>Zee Cinema</title> 
-<link>rtmpe://68.235.32.30/web/zeecinema token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>rtmpe://68.235.32.30/web/zee_cinema token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
 <thumbnail></thumbnail> 
 </item>
 
@@ -283,7 +283,7 @@
 
 <item> 
 <title>Zoom</title> 
-<link>rtmpe://68.235.32.30/web/zoom token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>rtmpe://68.235.32.30/web/zoomtv token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/Zoom-TV.jpg</thumbnail> 
 </item>
 
@@ -308,7 +308,7 @@
 
 <item> 
 <title>Filmy</title> 
-<link>rtmpe://68.235.32.30/web/sahara_filmy token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>rtmpe://68.235.32.30/web/saharafilmy token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/sahara_filmy.jpg</thumbnail> 
 </item>
 
