@@ -314,7 +314,7 @@
 
 <item> 
 <title>Mh1</title> 
-<link>/rtmpe://68.235.32.30/web/mh1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>rtmpe://68.235.32.30/web/mh1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
 <thumbnail>http://watchsuntv.com/images/mh1.png</thumbnail> 
 </item>
 
