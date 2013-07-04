@@ -235,7 +235,13 @@
 <item> 
 <title>Set Max</title> 
 <link>rtmpe://68.235.32.30/web/setmax token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
-<thumbnail></thumbnail> 
+<thumbnail>http://watchsuntv.com/tvlogos/set_max.jpg</thumbnail> 
+</item>
+
+<item> 
+<title>Sab</title> 
+<link>rtmpe://68.235.32.30/web/sab token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<thumbnail>http://watchsuntv.com/tvlogos/sony_sab_tv.jpg</thumbnail> 
 </item>
 
 <item> 
@@ -251,22 +257,28 @@
 </item>
 
 <item> 
+<title>Zee Smile</title> 
+<link>rtmpe://68.235.32.30/web/zee_smile token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<thumbnail>http://watchsuntv.com/tvlogos/zee_smile.jpg</thumbnail> 
+</item>
+
+<item> 
 <title>Zee Cinema</title> 
-<link>rtmp://141.8.244.56/base playpath=zee_cinema.stream  token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>rtmpe://68.235.32.30/web/zeecinema token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
 <thumbnail></thumbnail> 
 </item>
 
 
 <item> 
 <title>Life OK</title> 
-<link>rtmpe://68.235.32.30/web/lifeok  token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_us.jpg</thumbnail> 
+<link>rtmpe://68.235.32.30/web/lifeok token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<thumbnail>http://watchsuntv.com/tvlogos/star_gold.jpg</thumbnail> 
 </item>
 
 <item> 
 <title>Aapka Colors</title> 
 <link>rtmpe://68.235.32.30/web/apclr token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
-<thumbnail>http://watchsuntv.com/images/zing.png</thumbnail> 
+<thumbnail>http://watchsuntv.com/tvlogos/aapka_colors.jpg</thumbnail> 
 </item>
 
 <item> 
@@ -295,6 +307,12 @@
 </item>
 
 <item> 
+<title>Filmy</title> 
+<link>rtmpe://68.235.32.30/web/sahara_filmy token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<thumbnail>http://watchsuntv.com/tvlogos/sahara_filmy.jpg</thumbnail> 
+</item>
+
+<item> 
 <title>Mh1</title> 
 <link>rtmpe://68.235.32.30/web/Mh1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
 <thumbnail>http://watchsuntv.com/images/mh1.png</thumbnail> 
@@ -304,6 +322,30 @@
 <title>MTV India</title> 
 <link>rtmpe://68.235.32.30/web/mtv token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
 <thumbnail></thumbnail> 
+</item>
+
+<item> 
+<title>UTV Movies</title> 
+<link>rtmpe://68.235.32.30/web/utvmovies token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<thumbnail>http://watchsuntv.com/tvlogos/utv_movies.jpg</thumbnail> 
+</item>
+
+<item> 
+<title>UFX</title> 
+<link>rtmpe://68.235.32.30/web/channel_ufx token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<thumbnail>http://watchsuntv.com/tvlogos/channel_ufx.jpg</thumbnail> 
+</item>
+
+<item> 
+<title>Headline Today</title> 
+<link>rtmpe://68.235.32.30/web/headlines token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<thumbnail>http://watchsuntv.com/images/headlines-today.jpg</thumbnail> 
+</item>
+
+<item> 
+<title>Times Now</title> 
+<link>rtmpe://68.235.32.30/web/timesnow token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<thumbnail>http://watchsuntv.com/images/timesnow.jpg</thumbnail> 
 </item>
 
 </items>
