@@ -264,7 +264,7 @@
 
 <item> 
 <title>Zee Cinema</title> 
-<link>rtmpe://68.235.32.30/web/zee_cinema.stream token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>rtmpe://68.235.32.30/web/zee_cinema token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
 <thumbnail></thumbnail> 
 </item>
 
@@ -308,13 +308,13 @@
 
 <item> 
 <title>Filmy</title> 
-<link>rtmpe://68.235.32.30/web/filmy token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>rtmpe://68.235.32.30/web/sahara_filmy token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/sahara_filmy.jpg</thumbnail> 
 </item>
 
 <item> 
 <title>Mh1</title> 
-<link>rtmpe://68.235.32.30/web/Mh1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>rtmpe://68.235.37.141/minnal/Mh1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
 <thumbnail>http://watchsuntv.com/images/mh1.png</thumbnail> 
 </item>
 
@@ -326,14 +326,20 @@
 
 <item> 
 <title>UTV Movies</title> 
-<link>rtmpe://68.235.32.30/web/utvmovies token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>rtmpe://68.235.37.141/minnal/utvmovies token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/utv_movies.jpg</thumbnail> 
 </item>
 
 <item> 
 <title>UFX</title> 
-<link>rtmpe://68.235.32.30/web/ufx token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>rtmpe://68.235.37.141/minnal/ufx token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/channel_ufx.jpg</thumbnail> 
+</item>
+
+<item> 
+<title>Desi Cinema2</title> 
+<link>rtmpe://68.235.37.141/minnal/dcinema2 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<thumbnail></thumbnail> 
 </item>
 
 <item> 
