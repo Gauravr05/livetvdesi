@@ -264,7 +264,7 @@
 
 <item> 
 <title>Zee Cinema</title> 
-<link>rtmpe://68.235.32.30/web/zee_cinema token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>rtmpe://68.235.32.30/web/zeecinema1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
 <thumbnail></thumbnail> 
 </item>
 
@@ -314,7 +314,7 @@
 
 <item> 
 <title>Mh1</title> 
-<link>rtmpe://68.235.37.141/minnal/Mh1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>/rtmpe://68.235.32.30/web/mh1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
 <thumbnail>http://watchsuntv.com/images/mh1.png</thumbnail> 
 </item>
 
@@ -345,12 +345,6 @@
 <item> 
 <title>DesiClassic2</title> 
 <link>rtmpe://68.235.37.141/minnal/dclassic2 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
-<thumbnail></thumbnail> 
-</item>
-
-<item> 
-<title>K4uCinema2</title> 
-<link>rtmpe://68.235.37.141/minnal/k4ucinema2 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
 <thumbnail></thumbnail> 
 </item>
 
