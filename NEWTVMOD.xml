@@ -373,6 +373,12 @@ player=default  timeout=15</link>
  <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/b4u_movies.jpg</thumbnail>
  </item>
 
+<item>
+<title>Sony Sab</title>
+<link>rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sony_sab_tv_in.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>Zee Cinema</title>
