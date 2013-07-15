@@ -368,16 +368,11 @@ player=default  timeout=15</link>
 </item>
 
 <item>
-<title>Desi4u Hits</title>
-<link>rtmpe://68.235.37.141/minnal/ playpath=dhits2 swfUrl=http://player.longtailvideo.com/player.swf live=true pageUrl=http://www.mylivetvchannel.com/desi4uhitsmusic/ timeout=15</link>
-<thumbnail>http://watchsuntv.com/channellogo/hits.png</thumbnail>
-</item>
+ <title>B4U Movies</title>
+ <link>rtmp://178.18.23.129/live playpath=b4u_movies98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/embed.php?u=b4u_movies98&vw=600&vh=430&domain=HALILOU</link>
+ <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/b4u_movies.jpg</thumbnail>
+ </item>
 
-<item>
-<title>Desi4u Cinema</title>
-<link>rtmpe://68.235.37.141/minnal/ playpath=dcinema2 swfUrl=http://player.longtailvideo.com/player.swf live=true pageUrl=http://www.mylivetvchannel.com/desi4ucinema/ timeout=15</link>
-<thumbnail>http://funtv4u.com/wp-content/uploads/2012/06/desi-4u.jpg</thumbnail>
-</item>
 
 <item>
 <title>Zee Cinema</title>
@@ -398,6 +393,18 @@ player=default  timeout=15</link>
  <link>http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp/zing-tablet.3gp-mr398k.m3u8</link>
  <thumbnail>http://yamgo.mobi/images/mid/logo/zing-logo.png</thumbnail>
  </item>
+
+<item>
+<title>Desi4u Hits</title>
+<link>rtmpe://68.235.37.141/minnal/ playpath=dhits2 swfUrl=http://player.longtailvideo.com/player.swf live=true pageUrl=http://www.mylivetvchannel.com/desi4uhitsmusic/ timeout=15</link>
+<thumbnail>http://watchsuntv.com/channellogo/hits.png</thumbnail>
+</item>
+
+<item>
+<title>Desi4u Cinema</title>
+<link>rtmpe://68.235.37.141/minnal/ playpath=dcinema2 swfUrl=http://player.longtailvideo.com/player.swf live=true pageUrl=http://www.mylivetvchannel.com/desi4ucinema/ timeout=15</link>
+<thumbnail>http://funtv4u.com/wp-content/uploads/2012/06/desi-4u.jpg</thumbnail>
+</item>
 
 <item>
 <title>Aaj Tak</title>
