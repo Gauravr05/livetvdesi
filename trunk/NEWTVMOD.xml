@@ -252,7 +252,7 @@
 
 <item>
 <title>Sikh Channel</title>
-<link>rtmp://fml.9EA3.systemcdn.net/209EA3 playpath=SikhChannel swfUrl=https://www.sikhchannel.tv/Media/LiveStreaming.swf pageUrl=  timeout=15</link>
+<link>rtmp://fml.9EA3.systemcdn.net/209EA3 playpath=SikhChannel swfUrl=https://www.sikhchannel.tv/Media/LiveStreaming.swf pageUrl=  timlive=true swfvfy=true eoutimeout=20</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sikh_channel.png</thumbnail>
 </item>
 
