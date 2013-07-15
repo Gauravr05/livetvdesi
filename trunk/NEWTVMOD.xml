@@ -7,79 +7,23 @@
 <thumbnail>http://www.freewarepocketpc.net/wp7/img/yupptv.png</thumbnail>
 <items>
 
-<item>
-<title>Zee TV</title>
-<link>rtmp://cdn.m.yupptv.tv/liveorigin    playpath=zeetv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>Zing tv HQ</title>
-  <link>rtmp://cdn.m.yupptv.tv/liveorigin/zing playpath=zing swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx timeout=15</link>
-<thumbnail></thumbnail>
-</item> 
-
-<item>
-<title>ZOOM TV</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=zoomtv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=15 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ZOOM TV USA</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=zoomus900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=187 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Zee Cinema</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=zeecinema swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx timeout=15</link>
-<thumbnail>http://www.ladybrillestars.com/wp-content/uploads/2010/03/Zee-Cinema.jpg</thumbnail>
-</item>
-
-<item>
-<title>INDIA TV</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=indiatv1 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=2 timeout=15</link>
-<link></link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/india_tv.jpg</thumbnail>
-</item>
 
 <item>
 <title>Aaj Tak</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=aajtak swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=8 timeout=15</link>
 <link>http://46.249.213.87/iPhone/broadcast/aajtak-tablet.3gp/aajtak-tablet.3gp-mr648k.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Headlines Today</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=headlinetoday swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=11 timeout=15</link>
+<link>rtmp://cdn.m.yupptv.tv/liveorigin/headlinetoday1</link>
 <thumbnail></thumbnail>
-</item>
-
-<item>
-<title>TIMES NOW</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=timesnow swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=118 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ET NOW</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=etnow swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=117 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/et_now.jpg</thumbnail>
 </item>
 
 <item>
 <title>NEWS X</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=newsx swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=16 timeout=15</link>
 <link>rtsp://cdn.m.yupptv.tv/liveorigin/newsx1</link>
 <thumbnail>http://http://www.yupptv.com/img/newsx.png</thumbnail>
-</item>
-
-<item>
-<title>ZEE BUSINESS</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3/ playpath=zeebusiness swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayer.aspx?ChanId=297 timeout=15</link>
-<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -94,41 +38,6 @@
 <thumbnail>http://www.yupptv.com/img/75x50_sahara_mumbai.png</thumbnail>
 </item>
 
-<item>
-<title>GET PUNJABI</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk2 playpath=channel9 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=309 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/get_punjabi.jpg</thumbnail>
-</item>
-
-<item>
-<title>9X Tashan</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=etvpacific swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=264 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>PTC chakde HQ</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=chakdeptc swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/ptc_chakde.jpg</thumbnail>
-</item>
-
-<item>
-<title>PTC News HQ</title>
-<link>rtmp://cdn.nwk1.yupptv.tv/nwk1 playpath=ptcnews swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail>http://deora.tv/images/ptc-news-online-streaming-channel-free-live-punjabi.jpg</thumbnail>
-</item>
-
-<item>
-<title>Alphaetc Punjabi HQ</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=etcpunjabi swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/b/b1/Alpha_ETC_Punjabi.PNG</thumbnail>
-</item>
-
-<item>
-<title>PTC PUNJABI</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=ptcpunjabi swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=376 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>Zee Jagran</title>
@@ -136,65 +45,6 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>UTV STARS</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=maatvuk swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=218 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/utv_stars.jpg</thumbnail>
-</item>
-
-<item>
-<title>UTV STARS USA</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=maatvest swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=219 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/utv_stars.jpg</thumbnail>
-</item>
-
-<item>
-<title>UTV MOVIES INTERNATIONAL</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=zeeteluk swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=199 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/utv_movies.jpg</thumbnail>
-</item>
-
-<item>
-<title>UTV MOVIES USA</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/pnwk1 playpath=utvmoviesus900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=209 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/utv_movies.jpg</thumbnail>
-</item>
-
-<item>
-<title>BINDASS</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=zeetelpacific swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=200 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Bindass USA</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=utvbindaasus900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=208 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NDTV GOOD TIMES</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=ndtvgoodtimes900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=205 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NDTV INDIA</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=ndtvhindi900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=196 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NDTV 24X7</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=ndtvenglish900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=195 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NDTV PROFIT</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/pnwk1 playpath=ndtvprofit900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=204 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>Xtra</title>
@@ -375,99 +225,28 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Punjab_flag.svg/500px-Punjab_flag.svg.png</thumbnail>
 <items>
 
-
 <item>
-<title>9x Tashan HQ</title>
-<link>rtmp://cdn.nwk.yupptv.tv/nwk playpath=etvpacific swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
- <title>9x Tashan</title>
- <link>http://46.249.213.93/iPhone/broadcast/9xmtashan-tablet.3gp/9xmtashan-tablet.3gp-mr649k.m3u8</link>
- <thumbnail>http://yamgo.mobi/images/mid/logo/Tashan-logo.png</thumbnail>
- </item>
-
-
-<item>
-<title>Mh1</title>
-<link>rtmp://80.82.78.25:1935/cast?ovpfv=2.1.4 playpath=mh_one swfUrl=http://95.211.219.184/LiveVideoPlayer.swf live=true swfVfy=true  pageUrl=http://www.99cast.com/embed.php?v=mh_one&vw=600&vh=450&domain=pogot
-v.eu timeout=15 </link>
-<link>rtmp://shenzhenrtmp.viddillions.com/jadooplus/ playpath=stream625225.stream swfUrl=http://player.longtailvideo.com/player.swf live=true swfVfy=true  pageUrl=http://www.nowwatchtvlive.com/channel-tab-frame/mh1punjabi-1.php timeout=15 </link>
-<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/mh1_news-300x232.jpg</thumbnail>
-</item>
-
-<item>
-<title>Brit asia</title>
-<link>rtmp://desitouch.tv/livetv playpath=britasia swfUrl=http://player.longtailvideo.com/player5.2.swf pageUrl=http://desitouchtv.com/player.php?app=live&play=zeepunjabi timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Punjabi Music</title>
-<link>rtmp://extondemand.livestream.com/ondemand Playpath=trans/dv02/mogulus-user-files/chwardvision/2009/11/09/061d1808-fb27-4f20-8711-72a8b16dacd6 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?color=0x000000&jsEnabled=false&autoPlay=true&iconColor=0xCCCCCC&iconColorOver=0xE7E7E7&mute=false&time= swfVfy=1 conn=S:OK  pageUrl=http://cdn.livestream.com/embed/WARDVISION?layout=4&color=0x000000&mute=false&autoPlay=true&iconColorOver=0xE7E7E7&iconColor=0xCCCCCC </link>
-<thumbnail>http://ben10.edogo.com/wp-content/uploads/2011/10/ben-10.jpeg</thumbnail>
-</item>
-
-<item>
-<title>PTC Punjabi HQ</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=ptcpunjabi swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<link>rtmp://80.82.70.225/live22 playpath=ptcccc swfUrl=http://www.zstream.eu/pl11ayer.swf swfVfy=true live=true pageUrl=http://www.zstream.eu/embed.php?v=ptcccc&vw=600&vh=450&video=0&doma
-in=pogotv.eu timeout=15</link>
-
+<title>PTC Punjabi</title>
+<link>rtmp://141.8.244.56/base playpath=ptc_punjabi.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf pageUrl=http://sportsembed.com/embed.php?v=ptc_punjabi&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=1 swfVfy=1 timeout=15</link>
 <thumbnail>http://deora.tv/images/ptc-punjabi-tv-live-streaming-channel-online-free.jpg</thumbnail>
 </item>
 
 <item>
-<title>PTC chakde HQ</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=chakdeptc swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/ptc_chakde.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>PTC News HQ</title>
-<link>rtmp://cdn.nwk1.yupptv.tv/nwk1 playpath=ptcnews swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail>http://deora.tv/images/ptc-news-online-streaming-channel-free-live-punjabi.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Alphaetc Punjabi HQ</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=etcpunjabi swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/b/b1/Alpha_ETC_Punjabi.PNG</thumbnail>
-</item>
-
-<item>
-<title>Zee punjabi</title>
-<link>rtmp://desitouch.tv/live playpath=zeepunjabi swfUrl=http://player.longtailvideo.com/player5.2.swf pageUrl=http://desitouchtv.com/player.php?app=live&play=zeepunjabi timeout=15</link>
+<title>Z etc Punjabi</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live/5f59a04ad28d4d839674f27e5834971f.m3u8?bitrate=800</link>
 <thumbnail>http://desistreams.tv/images/zee_punjabi.png</thumbnail>
 </item>
 
 <item>
-<title>Zee punjabi uk HQ</title>
-<link>rtmp://5.63.147.140/uk playpath=zeepunjabiuk swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item> 
-
-<item>
-<title>Get PunjabiHQ</title>
-<link>rtmp://cdn.nwk2.yupptv.tv/nwk2 playpath=channel9 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail>http://kamaltv.webs.com/get%20punjabi.png</thumbnail>
-</item>
-
-<item>
 <title>GET PUNJABI</title>
-<link>rtmp://live.wcast.tv/stream playpath=get_punjabi.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=get_punjabi&vw=600&vh=430 timeout=15</link>
+<link>http://94.75.250.49/liveorigin/_definst_/channel91/chunklist_w876663689.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/get_punjabi.jpg</thumbnail>
 </item>
 
-
-
 <item>
-<title>Time tv HQ</title>
-<link>rtmp://live.wms.webverbosity.com:1935/liverepeater/ playpath=chardiklanew.stream swfUrl=http://webverbosity.com/iplayer.php?ch=chardika&id=mediaplayer pageUrl=http://webverbosity.com/iplayer.php?ch=chardika timeout=15</link>
-<thumbnail>http://kamaltv.webs.com/time%20tv.gif</thumbnail>
+<title>Sikh Channel</title>
+<link>rtmp://fml.9EA3.systemcdn.net/209EA3 playpath=SikhChannel swfUrl=https://www.sikhchannel.tv/Media/LiveStreaming.swf pageUrl=https://www.sikhchannel.tv/WatchUs/  timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sikh_channel.png</thumbnail>
 </item>
 
 <item>
@@ -476,93 +255,10 @@ in=pogotv.eu timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sada_channel.jpg</thumbnail>
 </item>
 
-<item>
-<title>world punjabi tv</title>
-<link>rtmp://tv.hindiworldtv.com/live Playpath=pntv swfUrl=http://webverbosity.com/iplayer.php?ch=chardika&id=mediaplayer pageUrl=http://webverbosity.com/iplayer.php?ch=worldtvpunjabi timeout=15</link>
-<thumbnail>http://kamaltv.webs.com/punjabi-tv.gif</thumbnail>
-</item>
-
-<item>
-<title>GET punjabi tv</title>
-<link>rtmp://tv.hindiworldtv.com/live Playpath=getpnj swfUrl=http://webverbosity.com/iplayer.php?ch=chardika&id=mediaplayer pageUrl=http://webverbosity.com/iplayer.php?ch=worldtvpunjabi timeout=15</link>
-<thumbnail>http://i46.tinypic.com/206h7p5.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>7 Sea Usa</title>
-<link>rtmp://tv.hindiworldtv.com/live Playpath=7seadr swfUrl=http://webverbosity.com/iplayer.php?ch=chardika&id=mediaplayer pageUrl=http://webverbosity.com/iplayer.php?ch=worldtvpunjabi timeout=15</link>
-<thumbnail>http://i48.tinypic.com/v49rua.jpg</thumbnail>
-</item>
-
-<item>
-<title>Day and night news</title>
-<link>rtmp://live.wmncdn.net/dayandnightnewstv playpath=d9831ae07c63447f28a8c5fb835ed41e.sdp swfUrl=http://cdn.vdopia.com/swf/mediaplayer_v3.2.swf?24.90343504+367368 pageUrl=http://www.dayandnightnews.com/live-tv live=true timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/day_and_night_news.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Sikh Channel USA</title>
-<link>rtmp://tv.hindiworldtv.com/live playpath=sikhtvus swfUrl=http://webverbosity.com/iplayer.php?ch=chardika&id=mediaplayer pageUrl=http://webverbosity.com/iplayer.php?ch=worldtvpunjabi live=1 timeout=15</link>
-<thumbnail>http://www.sikhsiyasat.net/wp-content/uploads/Sikh_Channel-Logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>SikhChannel UK</title>
-<link>rtmp://fml.6329.edgecastcdn.net/206329 playpath=SikhChannel swfUrl=http://sikhchannel.tv/media/LiveStreaming.swf pageUrl=http://sikhchannel.tv/ live=true swfvfy=true timeout=20</link>
-<thumbnail>http://www.khalsasports.com/newsimages/advertiseSikhChannel.jpg</thumbnail>
-</item>
-
-<item>
-<title>Gurdwara Dashmesh centre Calgary</title>
-<link>rtmp://173.192.187.144:1935/dcg playpath=livestream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf pageUrl=http://www.dashmesh.ca/ timeout=20</link>
-<thumnail>http://www.dashmesh.ca/sites/default/files/city_magazine_dashmesh_custom_logo.png</thumnail>
-</item>
-
-<item>
-<title>Akalmultimedia Ludhiana</title>
-<link>rtmp://akalmultimedia.net/live playpath=gdns-live swfurl=http://www.akalmultimedia.com/modules/mod_playerjr/player-licensed5.swf pageUrl="http://www.akalmultimedia.com/" timeout=20</link>
-<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-snc4/41395_1014083958_725_n.jpg</thumbnail>
-</item>
-
-<item>
-<title>Gurbani Tv EU</title>
-<link>rtmp://live.wms.webverbosity.com:1935/liverepeater/ playpath=verbositylive.stream swfUrl=http://webverbosity.com/app/player.swf pageUrl=http://webverbosity.com/gurbanitvonline.php timeout=20</link>
-<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-snc4/195782_211217345574410_534541_n.jpg</thumbnail>
-</item>
 
 <item>
 <title>BBS Abbotsford Canada</title>
 <link>rtmp://173.192.187.144:1935/bbs playpath=livestream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf pageUrl=http://nritv.ca/page.php?cid=30 timeout=20</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>DD PUNJABI</title>
-<link>rtmp://live.wcast.tv/stream playpath=dd_punjabi.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=dd_punjabi&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dd_punjabi.jpg</thumbnail>
-</item>
-
-
-
-<item>
- <title>Punjabi Hits</title>
- <link>http://46.249.213.87/iPhone/broadcast/punjabihits-tablet.3gp/punjabihits-tablet.3gp-mr647k.m3u8</link>
- <thumbnail>http://yamgo.mobi/images/mid/logo/PunjabiHits-logo_mod.png</thumbnail>
- </item>
-
-
-
-<item>
-<title>Dasmesh Dardar Gurdwara</title>
-<link>rtmp://173.192.187.144:1935/ddc playpath=livestream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf pageUrl=http://nritv.ca/page.php?cid=37 timeout=20</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>NRI TV LIVE</title>
-<link>rtmp://173.192.187.144:1935/live playpath=livestream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf pageUrl=http://nritv.ca/page.php?cid=32 timeout=20</link>
 <thumbnail>none</thumbnail>
 </item>
 
@@ -829,83 +525,29 @@ www.khantv.info timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
 <item>
 
-
-
-<item>
-<title>Star Plus</title>
-<link>rtmp://cdn.telecast.eu/live playpath=starpluslow1.stream swfUrl=http://www.telecast.eu/player/player.swf live=true pageUrl=http://www.telecast.eu/embed.php?u=starpluslive&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
-</item>
-
-<item>
-<title>Zee Smile</title>
-<link>rtmp://65.49.77.251/redirect playpath=dd16.stream  swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf swfVfy=1 conn=S:OK pageUrl=http://www.turbotv.in/zee-smile/ timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_smile.jpg</thumbnail>
-</item>
-
 <item>
 <title>Zee Tv</title>
 <link>http://fw01.livem3u8.me.totiptv.com/live/8be5e8787848472089925a7bb7f43ef1.m3u8?bitrate=800</link>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=zeetv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_tv.jpg</thumbnail>
 </item>
 
 <item>
-<title>Sony TV</title>
-<link>rtmp://streamer35.eboundservices.com/tv/sonytv timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_in.jpg</thumbnail>
-</item>
-
-<item>
-<title>B4U Movies</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=b4umovies swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/b4u_movies.jpg</thumbnail>
-</item>
-
-<item>
 <title>Star GOld HD</title>
-<link>rtmp://cdn.livecaster.tv/broadcast playpath=stargold_hd.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=stargold_hd&vw=600&vh=430 timeout=15</link>
+<link>http://fw01.livem3u8.me.totiptv.com/live/53c2bf7e52a44fd8b6df7f9e83891bbc.m3u8?bitrate=800</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_gold.jpg</thumbnail>
 </item>
 
 <item>
 <title>Colors</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=colors98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=colors98&vw=600&vh=430 timeout=15</link>
+<link>http://68.235.37.141:1935/minnal/dcinema2/chunklist_w1427720110.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/colors_in.jpg</thumbnail>
 </item>
-
-<item>
-<title>Sony Sab</title>
-<link>rtmp://178.18.23.114/strm playpath=sabtvhq2.stream swfUrl=http://www.telecast.eu/player/player.swf live=true pageUrl=http://www.telecast.eu/embed.php?u=sabtvhq2&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sony_sab_tv_in.jpg</thumbnail>
-</item>
-
-<item>
-<title>Life OK</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=life_ok.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=life_ok&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/life_ok_in.jpg</thumbnail>
-</item>
-
-<item>
-<title>Set MAX HD</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=set_max98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=set_max98&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sony_max_tv_in.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Filmy</title>
-<link>rtmp://23.21.155.146/zengalive/ playpath=zenga1juneclusterfilmy150.sdp swfUrl=http://player.longtailvideo.com/player5.9.swf live=true pageUrl=http://www.newtvworld.com/livetv/india/moviesok.html timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sahara_filmy.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>Desi4u Hits</title>
 <link>rtmpe://68.235.37.141/minnal/ playpath=dhits2 swfUrl=http://player.longtailvideo.com/player.swf live=true pageUrl=http://www.mylivetvchannel.com/desi4uhitsmusic/ timeout=15</link>
 <thumbnail>http://watchsuntv.com/channellogo/hits.png</thumbnail>
 </item>
-
 
 <item>
 <title>Desi4u Cinema</title>
@@ -915,83 +557,23 @@ www.khantv.info timeout=15</link>
 
 <item>
 <title>Zee Cinema</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=zeecinema swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx timeout=15</link>
+<link>http://fw01.livem3u8.me.totiptv.com/live/18560c96b9f446bb87acb8981a2fe9c5.m3u8?bitrate=800</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_cinema.jpg</thumbnail>
 </item>
 
 <item>
-<title>UTV Movies</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/pnwk1 playpath=utvmoviesus900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=209 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/utv_movies.jpg</thumbnail>
-</item>
-
-<item>
 <title>Channel V</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live/09cac500285d42ec97465b2219db5f53.m3u8?bitrate=800</link>
 <link>rtmp://cp133304.live.edgefcs.net/live/ Playpath=channelv2@62057 swfUrl=http://player.longtailvideo.com/player.swf swfVfy=true live=true pageUrl=http://1tvlive.in/channel-v-india/ timeout=15</link>
 <thumbnail>http://1tvlive.in/wp-content/uploads/2011/12/channel_v_in-119x80.jpg</thumbnail>
 </item>
 
 <item>
  <title>Zing</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/3e30590edd7940e29335d243342fc6b0.m3u8?bitrate=800</link>
  <link>http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp/zing-tablet.3gp-mr398k.m3u8</link>
  <thumbnail>http://yamgo.mobi/images/mid/logo/zing-logo.png</thumbnail>
  </item>
-
-<item>
- <title>Zoom Tv</title>
- <link>rtmp://cdn.nwk.yupptv.tv/nwk/ playpath=zoomtv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
- <thumbnail>http://1.bp.blogspot.com/-Eeo8l4R_M4o/UWlEntt7nwI/AAAAAAAACFY/iusT7kzH1hU/s1600/zoomtv.jpg</thumbnail>
- </item>
-
-
-<item>
-<title>MTV India</title>
-<link>rtmp://23.21.155.146/zengalive/ Playpath=zenga1juneclustermtv150.sdp swfUrl=http://player.longtailvideo.com/player.swf swfVfy=true conn=S:OK live=true pageUrl=http://1tvlive.in/mtv-india/ timeout=15</link>
-<thumbnail>http://1tvlive.in/wp-content/uploads/2011/12/mtv-india11225-119x80.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>mtunes (NOT ALWAYS ONLINE)</title>
-<link>rtmp://shnzhnrtmptop.viddillions.com/jadooplus/ playpath=stream0034.stream swfUrl=http://player.longtailvideo.com/player5.9.swf swfVfy=true live=true pageUrl=http://1tvlive.in/m-tunes-hd-live/ timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/m_tunes_hd.jpg</thumbnail>
-</item> 
-
-<item>
-<title>B4U Music</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=b4umusic swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/b4u_music.jpg</thumbnail>
-</item>
-
-<item>
-<title>9x Music</title>
-<link>rtmp://94.102.51.78/live33 playpath=9x_music swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=9xm88&vw=600&vh=450&video=0&domain=pogotv.eu timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/num/9x_music.jpg</thumbnail>
-</item>
-
-<item>
-<title>Music India</title>
-<link>rtsp://115.112.248.159:554/prf1/cid_85.sdp timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/music_india.jpg</thumbnail>
-</item>
-
-<item>
-<title>UTV Stars</title>
-<link>rtmp://80.82.70.225/live22 playpath=ustar11 swfUrl=http://www.zstream.eu/pl1ayer.swf swfVfy=true live=true pageUrl=http://www.zstream.eu/embed.php?v=ustar11&vw=600&vh=450&video=0&domain=pogotv.eu timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/utv_stars.jpg</thumbnail>
-</item> 
-
-<item>
-<title>INDIA TV</title>
-<link>rtmp://cdn.livecaster.tv/stream playpath=indiatv1.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=indiatv1&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/india_tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>ET NOW</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=etnow swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=117 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/et_now.jpg</thumbnail>
-</item>
 
 <item>
 <title>Aaj Tak</title>
@@ -1003,42 +585,6 @@ www.khantv.info timeout=15</link>
 <title>Headlines Today</title>
 <link>http://46.249.213.87/iPhone/broadcast/aajtak-tablet.3gp/aajtak-tablet.3gp-mr648k.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-ODHtMx6LohE/UWlAty5xp9I/AAAAAAAACEY/inpPE4J7AT0/s1600/headtoday.jpg</thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY INDIA</title>
-<link>rtmp://cdn.livecaster.tv/broadcast playpath=115521 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=discoveryhindi&vw=600&vh=470 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_in.jpg</thumbnail>
-</item>
-
-<item>
-<title>DD NATIONAL</title>
-<link>rtmp://live.wcast.tv/stream playpath=dd_national.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=dd_national&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dd_national.jpg</thumbnail>
-</item>
-
-<item>
-<title>DD National 2</title>
-<link>rtmp://5.63.144.253:1953/base2/dd1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dd_national.jpg</thumbnail>
-</item> 
-
-<item>
-<title>DD URDU</title>
-<link>rtmp://live.wcast.tv/stream playpath=dd_urdu.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=dd_urdu&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dd_urdu.jpg</thumbnail>
-</item>
-
-<item>
-<title>NAT GEO INDIA</title>
-<link>rtmp://live.wcast.tv/live playpath=NGCHindi.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=NGCHindi&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_in.jpg</thumbnail>
-</item>
-
-<item>
-<title>CNBC</title>
-<link>http://bglive-a.bitgravity.com/web18/secure/feed01?e=2605091102%26h=78f9958b948ea899a6ef4d257e75097d</link>
-<thumbnail>http://www.indiamart.com/press-section/mediasays/gifs/cnbc_india.jpg</thumbnail>
 </item>
 
 <item>
@@ -1422,24 +968,7 @@ player=mplayer</link>
 <item>
 <title>TheWeatherNation TV US</title>
 <link>rtmp://cp77659.live.edgefcs.net/live playpath=0_c6zkpyg0_1@2781 swfUrl=http://cdnbakmi.kaltura.com/p/931702/sp/93170200/flash/kdp3/v3.6.17/kdp3.swf live=1  timeout=15</link>
-<thumbnail>http://media.marketwire.com/attachments/201206/53621_WeatherNationTVlogo.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>BBC World News</title>
-<link>rtsp://media4.lsops.net/live/bbcworld1_en_veryhigh.sdp</link>
-<link>rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_veryhigh.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
-<link>rtmp://d.cdn.msnbclive.eu/edge playpath=bbcworld_live swfUrl=http://msnbclive.eu/player.swf live=true pageUrl=http://weplaylive.tv/world-news-stream/ timeout=15</link
-<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlj.png</thumbnail>
-<thumbnail>http://formfilms.co.uk/wp-content/uploads/2010/05/bbc2_logo_lightbox.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Al Jazeera</title>
-<link>rtmp://media7.lsops.net/live/ playpath=aljazeer_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true</link>
-<link>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live playpath=aljazeera_eng_high swfUrl="http://admin.brightcove.com/viewer/us1.25.04.00.2011-05-19124744/federatedVideoUI/BrightcovePlayer.swf" pageUrl="http://english.aljazeera.net/watch_now/" live=true</link>
+<thumnk>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlh.png</thumbnail>
 </item>
 
@@ -1465,7 +994,24 @@ player=mplayer</link>
 <item>
 <title>Russia Today</title>
 <link>rtmp://fms5.visionip.tv/live app=live swfUrl=http://rt.com/s/swf/player5.4.viral.swf pageURL=http://rt.com/on-air/ playpath=RT_3 live=true</link>
-<link>rtmp://rt.fms.visionip.tv/live app=live swfUrl=http://rt.com/s/swf/player5.4.viral.swf pageURL=http://rt.com/on-air/ playpath=RT_US_3 live=true</link>
+<link>rtmp://rt.fms.visionip.tv/live app=live swfUrl=http://rt.com/s/swf/player5.4.viral.swf pageURL=http://rt.com/on-air/ playpath=RT_US_3 livbnail>http://media.marketwire.com/attachments/201206/53621_WeatherNationTVlogo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>BBC World News</title>
+<link>rtsp://media4.lsops.net/live/bbcworld1_en_veryhigh.sdp</link>
+<link>rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_veryhigh.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
+<link>rtmp://d.cdn.msnbclive.eu/edge playpath=bbcworld_live swfUrl=http://msnbclive.eu/player.swf live=true pageUrl=http://weplaylive.tv/world-news-stream/ timeout=15</link
+<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlj.png</thumbnail>
+<thumbnail>http://formfilms.co.uk/wp-content/uploads/2010/05/bbc2_logo_lightbox.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Al Jazeera</title>
+<link>rtmp://media7.lsops.net/live/ playpath=aljazeer_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true</link>
+<link>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live playpath=aljazeera_eng_high swfUrl="http://admin.brightcove.com/viewer/us1.25.04.00.2011-05-19124744/federatedVideoUI/BrightcovePlayer.swf" pageUrl="http://english.aljazeera.net/watch_now/" live=true</lie=true</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlq.png</thumbnail>
 </item>
 
