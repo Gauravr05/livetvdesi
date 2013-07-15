@@ -287,8 +287,7 @@
 
 <item>
 <title>Star Sports</title>
-<link>rtmp://live2.ilive.to/redirect playpath=u9pmjsett1tqv0r swfUrl=http://static.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/view/44984/ timeout=15</link>
-<link>rtmp://46.23.67.58/live playpath=a1112aass?id=38372 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf swfVfy=1 conn=S:OK live=true pageUrl=http://www.ucaster.eu/embedded/a1112aass/1/600/420timeout=15</link>
+<link>http://203.162.235.26/lives/origin02/starsportsd.isml/starsportsd-1096k.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports_se_asia.png</thumbnail>
 </item>
 
@@ -299,7 +298,6 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport_de.png</thumbnail>
 </item>
 
-
 <item>
 <title>EuroSport 2</title>
 <link>http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8</link>
@@ -307,46 +305,11 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport_de.png</thumbnail>
 </item>
 
-
-<item>
-<title>beIN Sport</title>
-<link>rtmp://rtmp.stream4.tv:1935/liverepeater/_definst_/4003 timeout=15</link>
-<thumbnail>http://desistreams.tv/images/bein_sport.jpeg</thumbnail>
-</item>
-
-
-
-
-<item>
-<title>Super Sports 2</title>
-<l<link>rtmp://rtmp.espnwatch.tv:1935/redirect playpath=3882 swfUrl=http://4372f0f736b94c17980f-72149a3bba3a67bfaa92318a7ed89a98.r76.cf1.rackcdn.com/player2.swf live=1 pageUrl=http://espnwatch.tv/player3.php?id=3882&width=640&height=460 timeout=15</link>
-<thumbnail>http://i45.tinypic.com/f2iqvp.jpg</thumbnail>
-</item>
-
-
-
-<item>
-<title>Ten Sports</title>
-<link>rtsp://202.125.158.233:554/stream1_wifi.sdp</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7b/Ten_Sports.jpg</thumbnail>
-</item>
-
 <item>
 <title>NBA Tv</title>
 <link>rtmp://46.19.141.138:1935/stream//f2OI8s.stream playpath=f2OI8s.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageurl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=b444m3r494l4z364y2x2r2q26433p2p21394q2u23334&adx=&stream=03j5w28474w26444z23384x2b4e4v2l2c454n3i323w5m284q2x2m22414d4v2t213c4v274e4y2r2f4v2x4g3a4t373u5w5l4b4d2o3j5e444i4f4w3p2s4r2y3m23434v2r2g5h584y264x2b4e4m5b4e4a4d4232474i5a45434a4z2w264s2l594x224r204p2q2r2y3m27664p4l2y3g566&sooor=Ng==&str=is&idom=www.firstrow1.eu live=true timeout=9</link>
-<link>rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream playpath=N1V3R0h8.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=true  pageUrl=http://www.04stream.com/NBA TV
-player=default  timeout=15</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/170px-NBA_TV.svg.png</thumbnail>
 </item>
-
-
-<item>
-<title>ESPN America HD</title>
-<link>rtmp://fmsnl.ilive.to:1935/app/_definst_/j0z1tlkds9h5fji</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_america_uk_hd.png</thumbnail>
-</item>
-
-
 
 <item>
 <title>ESPN U.S</title>
@@ -363,149 +326,10 @@ player=default  timeout=15</link>
 </item>
 
 <item>
-<title>ESPN Asia / Fox Sports</title>
-<link>rtmp://142.4.216.172/edge/ playpath=ei69bygbmitkqpi swfUrl=http://static.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/view/44973/ timeout=15</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png</thumbnail>
-</item>
-
-<item>
-<title>ESPN U.K</title>
-<link>rtmp://178.18.23.128/live playpath=spnuk swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=spnuk&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png</thumbnail>
-</item>
-
-
-<item>
 <title>Fight Box HD</title>
 <link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fight_box_hd.jpg</thumbnail>
 </item>
-
-
-<item>
-<title>Geo Super (Link 1)</title>
-<link>rtmp://cdn.livecaster.tv/stream playpath=13246540114814 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=Geosuper&vw=600&vh=470 timeout=15</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/b/bf/GEO_Super_logo.png</thumbnail>
-</item>
-
-
-<item>
-<title>Geo Super (Link 2)</title>
-<link>rtmp://streamer35.eboundservices.com/tv/geosuper</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/b/bf/GEO_Super_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Ptv Sports</title>
-<link>rtmp://cdn.livecaster.tv/broadcast playpath=onlineptvsports swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=ptvsportsss1&vw=600&vh=430 timeout=15</link>
-<thumbnail>http://www.sialnews.com/images/2012/01/PTV-Sports-Logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 1 </title>
-<link>rtmp://fmsnl.ilive.to:1935/app/_definst_/xz5i9s3c5l5kr78</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 2 </title>
-<link>rtmp://fmsnl.ilive.to:1935/app/_definst_/hqamscbsqcganx6</link>
-<link>rtmp://109.163.236.88:1935/live/channel7</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
-</item>
-
-
-<item>
-<title>Sky Sports 3 </title>
-<link>rtmp://95.138.168.10/live/skysp3</link>
-<thumbnail>http://images3.wikia.nocookie.net/__cb20120824135860/logopedia/images/4/46/SkySports3.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 4 </title>
-<link>rtmp://178.21.18.143/liveedge playpath=iuyftrdd-tmzkzxhl3m2 swfUrl=http://cast4you.tv/p1.swf live=true pageUrl=http://cast4you.tv/show.php?id=iuyftrdd-tmzkzxhl3m2&width=620&heigh
-t=490 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png</thumbnail>
-</item>
-
-
-<item>
-<title>Sky News HD</title>
-<link>rtmp://95.138.168.10/live/ playpath=skyspnews swfUrl=http://www.serbiaplus.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.serbiaplus.com</link>
-<thumbnail>http://news.sky.com/static/Z37pamF152HqlJhD3nujyFlZmCllLiEbifEZ8J0e0wb.png</thumbnail>
-</item>
-
-<item>
-<title>Fox Soccer Plus</title>
-<link>rtmp://95.138.168.10/live/ playpath=fscplus swfUrl=http://www.serbiaplus.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.serbiaplus.com</link>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWjUjbFGlNvYjtaiwAcgfhc_1ZwNuLbqaHh1RUWKYKxMdcRhhu</thumbnail>
-</item>
-
-<item>
- <title>Comedy</title>
- <link>rtmp://95.138.168.10/live/ playpath=comedy swfUrl=http://www.serbiaplus.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.serbiaplus.com</link>
- <thumbnail></thumbnail>
- </item>
-
-
-
-<item>
-<title>Willow</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=willow_cricket.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=willow_cricket&vw=600&vh=430 timeout=15</link>
-<link>rtmp://80.82.78.37:1935/cast?ovpfv=2.1.4 playpath=willowc swfUrl=http://95.211.219.184/LiveVideoPlayer.swf live=true pageUrl=http://www.99cast.com/embed.php?v=willowc&vh=430&vw=600 timeout=15</link>
-<thumbnail>http://aimages.willow.tv/willow-logo.gif</thumbnail>
-</item>
-
-<item>
-<title>Star Cricket</title>
-<link>rtmp://cdn.livecaster.tv/stream playpath=star_cricket001 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=star_cricket001&vw=600&vh=430 timeout=15</link>
-<link>rtmp://5.63.151.44/stream playpath=04032013ip1?id=85255 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf swfVfy=1 conn=S:OK live=true pageUrl=http://www.liveflash.tv/embedplayer/04032013ip1/1/600/420 timeout=15</link>
-<thumbnail>http://80.82.78.114/images/star_cricket.png</thumbnail>
-</item>
-
-<item>
-<title>NEO Prime</title>
-<link>rtmp://80.82.78.25:1935/cast?ovpfv=2.1.4 playpath=12377 swfUrl=http://95.211.219.184/LiveVideoPlayer.swf live=true pageUrl=http://www.99cast.com/embed.php?v=12377&vh=430&vw=60 timeout=15</link>
-<link>rtmp://50.23.115.84/live playpath=lankalk3?id=157977 swfUrl=http://mips.tv/content/scripts/eplayer.swf swfVfy=1 conn=S:OK pageUrl=http://mips.tv/embedplayer/lankalk3/1/600/430 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DD Sports</title>
-<link>rtmp://65.49.77.251/redirect playpath=dd3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf swfVfy=true conn=S:OK live=true pageUrl=http://www.turbotv.in/dd-sports-live/ </link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d4/DD_sports_logo.jpg</thumbnail>
-</item>
-
-
-
-<item>
-<title>Ten Action</title>
-<link>rtmp://50.23.115.84/live playpath=aferraas?id=158807 swfUrl=http://mips.tv/content/scripts/eplayer.swf swfVfy=1 conn=S:OK pageUrl=http://mips.tv/embedplayer/aferraas/1/600/420 timeout=15</link>
-<link>rtmp://46.23.67.58/live playpath=affera221?id=38430 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf swfVfy=1 conn=S:OK pageUrl=http://www.ucaster.eu/embedded/affera221/1/600/420 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/ten_action_plus.png</thumbnail>
-</item>
-
-
-<item>
-<title>Ten Sports Pakistan</title>
-<link>rtmp://80.82.70.225/live22 playpath=tensportshd swfUrl=http://www.zstream.eu/pl11ayer.swf pageUrl=http://www.zstream.eu/channel.php?v=tensportshd</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7b/Ten_Sports.jpg</thumbnail>
-</item>
-
-<item>
-<title>Khantv</title>
-<link>rtmp://80.82.78.25/cast playpath=12377 swfUrl=http://95.211.219.184./player-licensed.swf live=true pageUrl=http://99cast.com/embed.php?v=starcricket6364&vw=590&vh=400&domain=www.khantv.info timeout=15</link>
-<link>rtmp://80.82.78.37/cast playpath=12377  swfUrl=http://95.211.219.184/player-licensed.swf live=true pageUrl=http://www.99cast.com/embed.php?v=starcricket6364&vw=590&vh=400&domain=
-www.khantv.info timeout=15</link>
-<thumbnail>http://www.khantv.info/images/star_cricket.png</thumbnail>
-</item>
-
-<item>
-<title>itv4</title>  
-<link>rtmp://89.248.174.30:1935/cast?ovpfv=2.1.4 Playpath=ipl2013live swfUrl=http://95.211.219.184/LiveVideoPlayer.swf   pageUrl=http://www.99cast.com/embed.php?v=ipl2013live&vw=600&vh=430&domain=desistreams.tv conn=S:OK swfVfy=true live=true timeout=15</link> Sky Sport 3
-<thumbnail></thumbnail>
-</item>
-
 
 </items>
 </channel>
