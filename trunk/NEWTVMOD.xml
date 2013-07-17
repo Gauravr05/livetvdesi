@@ -66,111 +66,111 @@
 
 <item> 
 <title>Zee Tv</title> 
-<link>rtmpe://68.235.32.30/web/zeetv token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/zeetv/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/zee_tv.jpg</thumbnail> 
 </item>
 
 <item> 
 <title>Star Plus</title> 
-<link>rtmpe://68.235.32.30/web/starplus token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/starplus/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/starplus.jpg</thumbnail> 
 </item> 
 
 <item> 
 <title>Sony TV</title> 
-<link>rtmpe://68.235.32.30/web/sonytv token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/sonytv/playlist.m3u8</link> 
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_in.jpg</thumbnail> 
 </item> 
 
 <item> 
 <title>Set Max</title> 
-<link>rtmpe://68.235.32.30/web/setmax token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/setmax/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/set_max.jpg</thumbnail> 
 </item>
 
 <item> 
 <title>Sab</title> 
-<link>rtmpe://68.235.32.30/web/sab token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/sab/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/sony_sab_tv.jpg</thumbnail> 
 </item>
 
 <item> 
 <title>Sahara One</title> 
-<link>rtmpe://68.235.32.30/web/saharaone token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/saharaone/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/sahara_one.jpg</thumbnail> 
 </item>
 
 <item> 
 <title>Star Gold </title> 
-<link>rtmpe://68.235.32.30/web/stargold token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/stargold/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/star_gold.jpg</thumbnail> 
 </item>
 
 <item> 
 <title>Zee Smile</title> 
-<link>rtmpe://68.235.32.30/web/zeesmile token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/zeesmile/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/zee_smile.jpg</thumbnail> 
 </item>
 
 <item> 
 <title>Zee Cinema</title> 
-<link>rtmpe://68.235.32.30/web/zeecinema1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/zcinema/playlist.m3u8</link> 
 <thumbnail></thumbnail> 
 </item>
 
 
 <item> 
 <title>Life OK</title> 
-<link>rtmpe://68.235.32.30/web/lifeok token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/lifeok/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/star_gold.jpg</thumbnail> 
 </item>
 
 <item> 
 <title>Aapka Colors</title> 
-<link>rtmpe://68.235.32.30/web/apclr token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/apclr/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/aapka_colors.jpg</thumbnail> 
 </item>
 
 <item> 
 <title>Zoom</title> 
-<link>rtmpe://68.235.32.30/web/zoomtv token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/zoomtv/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/Zoom-TV.jpg</thumbnail> 
 </item>
 
 
 <item> 
 <title>Zing</title> 
-<link>rtmpe://68.235.32.30/web/zing token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/zing/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/images/zing.png</thumbnail> 
 </item>
 
 <item> 
 <title>Tv Asia</title> 
-<link>rtmpe://68.235.32.30/web/tvasia token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/tvasia/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/tvasia.png</thumbnail> 
 </item>
 
 <item> 
 <title>B4U Movies</title> 
-<link>rtmpe://68.235.32.30/web/b4umovies token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/b4umovies/playlist.m3u8</link> 
 <thumbnail>http://idesitv.com/channel/b4u_movies.jpg</thumbnail> 
 </item>
 
 <item> 
 <title>Filmy</title> 
-<link>rtmpe://68.235.32.30/web/sahara_filmy token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/sahara_filmy/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/sahara_filmy.jpg</thumbnail> 
 </item>
 
 <item> 
 <title>Mh1</title> 
-<link>rtmpe://68.235.32.30/web/mh1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/mh1/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/images/mh1.png</thumbnail> 
 </item>
 
 <item> 
-<title>MTV India</title> 
-<link>rtmpe://68.235.32.30/web/mtv token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<title>http://68.235.32.27:1935/ioss/mtv/playlist.m3u8</title> 
+<link>stargold</link> 
 <thumbnail></thumbnail> 
 </item>
 
@@ -188,7 +188,7 @@
 
 <item> 
 <title>Desi Cinema2</title> 
-<link>rtmpe://68.235.37.141/minnal/dcinema2 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.37.141:1935/minnal/dcinema2/playlist.m3u8</link> 
 <thumbnail></thumbnail> 
 </item>
 
@@ -201,13 +201,13 @@
 
 <item> 
 <title>Headline Today</title> 
-<link>rtmpe://68.235.32.30/web/headlines token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/headlines/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/images/headlines-today.jpg</thumbnail> 
 </item>
 
 <item> 
 <title>Times Now</title> 
-<link>rtmpe://68.235.32.30/web/timesnow token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link> 
+<link>http://68.235.32.27:1935/ioss/timesnow/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/images/timesnow.jpg</thumbnail> 
 </item>
 
