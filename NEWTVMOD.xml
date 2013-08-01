@@ -68,24 +68,12 @@
 <title>Zee Tv</title> 
 <link>http://68.235.32.27:1935/ioss/zeetv/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/zee_tv.jpg</thumbnail> 
-</item>
+</item> 
 
 <item> 
 <title>Star Plus</title> 
 <link>http://68.235.32.27:1935/ioss/starplus/playlist.m3u8</link> 
 <thumbnail>http://watchsuntv.com/tvlogos/starplus.jpg</thumbnail> 
-</item> 
-
-<item> 
-<title>Zee Tv</title> 
-<link>http://68.235.32.27:1935/ioss/zeetv/playlist.m3u8</link> 
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_in.jpg</thumbnail> 
-</item> 
-
-<item> 
-<title>Star Plus</title> 
-<link>http://68.235.32.27:1935/ioss/starplus/playlist.m3u8</link> 
-<thumbnail>http://watchsuntv.com/tvlogos/set_max.jpg</thumbnail> 
 </item>
 
 
