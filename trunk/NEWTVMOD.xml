@@ -33,41 +33,54 @@
 
 <item>
 <title>Aaj Tak</title>
+<link>http://cdn.nwk3.yupptv.tv/nwk3/smil:aajtak.smil/playlist.m3u8</link>
 <link>http://46.249.213.87/iPhone/broadcast/aajtak-tablet.3gp/aajtak-tablet.3gp-mr648k.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Headlines Today</title>
+<link>http://cdn.nwk3.yupptv.tv/nwk3/smil:headlinetoday.smil/playlist.m3u8</link>
 <link>rtmp://cdn.m.yupptv.tv/liveorigin/headlinetoday1</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>NEWS X</title>
-<link>rtsp://cdn.m.yupptv.tv/liveorigin/newsx1</link>
-<thumbnail>http://http://www.yupptv.com/img/newsx.png</thumbnail>
+<title>NDTV 24x7</title>
+<link>rtsp://cdn.m.yupptv.tv/liveorigin/abn1</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Sahara Samay</title>
-<link>rtsp://cdn.m.yupptv.tv/liveorigin/saharasamaynew1</link>
+<link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharasamaynew.smil/playlist.m3u8</link>
 <thumbnail>http://www.yupptv.com/img/sahara_samay_iphone_N.png</thumbnail>
 </item>
 
+
 <item>
-<title>Sahara Mumbai</title>
-<link>rtsp://cdn.m.yupptv.tv/liveorigin/saharamum1</link>
-<thumbnail>http://www.yupptv.com/img/75x50_sahara_mumbai.png</thumbnail>
+<title>Alphaetc Punjabi HQ</title>
+<link>http://cdn.nwk3.yupptv.tv/nwk3/smil:etcpunjabi.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 
+<item>
+<title>PTC Punjabi HQ</title>
+<link>http://cdn.nwk3.yupptv.tv/nwk3/smil:ptcpunjabi.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>PTC Chak De</title>
+<link>http://cdn.nwk3.yupptv.tv/nwk3/smil:chakdeptc.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>Zee Jagran</title>
 <link>rtmp://live.wmncdn.net/livestream1/ playpath=5c6d78cffa59e129f040fcec2d788532.sdp swfUrl=http://player-nasa-us.webmobilive.com/jw/player.swf live=true pageUrl=http://zeejagran.com/live/ timeout=15</link>
 <thumbnail></thumbnail>
 </item>
-
 
 <item>
 <title>Xtra</title>
@@ -113,8 +126,14 @@
 </item>
 
 <item>
+<title>Zee ETC</title>
+<link>rtmp://69.1.71.134:1935/zeenatlive/ playpath=51ztvlive101.stream  swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://nowwatchtvlive.com/channel-tab-frame/zeeetc.php</link>
+</item>
+
+
+<item>
 <title>Z etc Punjabi</title>
-<link>http://fw01.livem3u8.me.totiptv.com/live/5f59a04ad28d4d839674f27e5834971f.m3u8?bitrate=800</link>
+<link>http://69.1.71.134:1935/zeenatlive/51ztvlive101.stream/hasbahca.m3u8</link>
 <thumbnail>http://desistreams.tv/images/zee_punjabi.png</thumbnail>
 </item>
 
@@ -126,13 +145,20 @@
 
 <item> 
 <title>9x Tashan</title> 
+<link>rtmp://cdn.m.yuppcdn.net/liveorigin/etvpacific1</link> 
 <link>rtsp://46.249.213.93/broadcast/9xmtashan-tablet.3gp</link> 
 <thumbnail>http://cdn.freedocast.com/yupptv/seoimages/channel_thumb/9xtashan_75x50.gif</thumbnail> 
 </item>
 
 <item>
+<title>BritAsia(Punjabi)</title>
+<link>rtsp://46.249.213.87/broadcast/britasia-tablet.3gp</link>
+<thumbnail>http://1tvlive.in/wp-content/uploads/2012/01/britasia_tv_logo-119x80.gif</thumbnail>
+</item>
+
+<item>
 <title>Rkm Gold</title>
-<link>http://rkmnews.live.cdn.bitgravity.com/rkmnews/live/feed01 timeout=15</link>
+<link>http://rkmnews.live.cdn.bitgravity.com/rkmnews/live/feed01</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -151,11 +177,9 @@
 </item>
 
 <item>
-<title>brit-asia</title>
-<link>rtmpe://80.82.64.244/fms32/ playpath=britasia swfUrl=http://www.99cast.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.99cast.com/embed.php?v=brit_asia_music&vw=600&vh=430&dom
-ain=pogotv.eu live=1 swfVfy=1 timeout=15</link>
-<thumbnail>http://1tvlive.in/wp-content/uploads/2012/01/britasia_tv_logo-119x80.gif</thumbnail>
-</item>
+<title>Jhanjar(Punjabi)</title>
+<link>rtmp://jhanrtmp.tulix.tv:1935/jhanjarl/myStream.sdp</link>
+<thumbnail>Logo</thumbnail>
 
 <item>
 <title>BBS Abbotsford Canada</title>
@@ -192,13 +216,6 @@ ain=pogotv.eu live=1 swfVfy=1 timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports_se_asia.png</thumbnail>
 </item>
 
-<item>
-<title>Ptv Sports</title>
-<link>rtmp://80.82.64.5/live playpath=pyvva swfUrl=http://www.janjua.tv/player/player-licensed55.swf live=true pageUrl=http://www.janjua.tv/embed.php?v=pyvva&vw=600&vh=420&typeplayer=0&d
-omain=www.streamer247.com timeout=15</link>
-<thumbnail>http://www.sialnews.com/images/2012/01/PTV-Sports-Logo.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>EuroSport</title>
@@ -216,8 +233,15 @@ omain=www.streamer247.com timeout=15</link>
 
 <item>
 <title>NBA Tv</title>
+<link>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8</link>
 <link>rtmp://46.19.141.138:1935/stream//f2OI8s.stream playpath=f2OI8s.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageurl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=b444m3r494l4z364y2x2r2q26433p2p21394q2u23334&adx=&stream=03j5w28474w26444z23384x2b4e4v2l2c454n3i323w5m284q2x2m22414d4v2t213c4v274e4y2r2f4v2x4g3a4t373u5w5l4b4d2o3j5e444i4f4w3p2s4r2y3m23434v2r2g5h584y264x2b4e4m5b4e4a4d4232474i5a45434a4z2w264s2l594x224r204p2q2r2y3m27664p4l2y3g566&sooor=Ng==&str=is&idom=www.firstrow1.eu live=true timeout=9</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/170px-NBA_TV.svg.png</thumbnail>
+</item>
+
+<item>
+<title>NFL</title>
+<link>http://nlds21.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_400.m3u8</link>
+<thumbnail>http://static.nfl.com/static/content//public/static/img/navigation/shields/header-shield.png</thumbnail>
 </item>
 
 <item>
@@ -261,6 +285,16 @@ tp://desistreams.tv/embed/geo_super.php timeout=15</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/b/bf/GEO_Super_logo.png</thumbnail>
 </item>
 
+<item>
+ <title>streamer247.com</title>
+ <link>rtmp://$doregex[rtmp]/live playpath=salsatv?id=176578 swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv conn=S:OK live=1 swfVfy=1 timeout=10</link>
+ <regex>
+ <name>rtmp</name>
+ <expres>.*redirect=([\.\d]+)</expres>
+ <page>http://mips.tv:1935/loadbalancer</page>
+ </regex>
+ </item>
+
 </items>
 </channel>
 
@@ -273,130 +307,85 @@ tp://desistreams.tv/embed/geo_super.php timeout=15</link>
 <thumbnail>http://mamasmiles.com/blog/media/2013/Exploring-Geography-India-at-Large_B56A/Flag-of-India-from-wikimedia.png</thumbnail>
 <items>
 
- <item>
- <title>Star Plus TV HD</title>
- <link>rtmp://93.174.93.124/live33 playpath=a1_star swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=i_starplus&vw=600&vh=450&video=0&domain=pogotv.eu</link>
- <link>rtmp://178.18.23.113/tivi/ playpath=starplus swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26</link>
- </item>
-
-
-<item>
- <title>Sony TV HD</title>
- <link>rtmp://93.174.93.124/live33 playpath=hd_sonytv swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=hd_sonytv&vw=600&vh=450&video=0&domain=www.pogotv.eu</link>
- </item>
-
- <item>
- <title>SET Max</title>
- <link>rtmp://178.18.30.120/live playpath=maxu33 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=maxu33&vw=655&vh=430</link>
- </item>
-
- <item>
- <title>Zee Cinema</title>
- <link>rtmp://93.174.93.124/live33playpath=i_zcinema
- swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=i_zcinema&vw=600&vh=400&video=0&domain=pogotv.eu</link>
- </item>
-
- <item>
- <title>Zee TV HD</title>
- <link>rtmp://178.18.30.121/live playpath=tvzew  swfUrl=http://www.ukcast.tv/player/player.swf  live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=tvzew&vw=600&vh=470</link>
- </item>
-
- <item>
- <title>Life OK</title>
- <link>rtmp://178.18.30.121/live playpath=lifeook3  swfUrl=http://www.ukcast.tv/player/player.swf  live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=lifeook3&vw=600&vh=430</link>
- </item>
-
-
-
- <item>
- <title>Aapka Colors</title>
- <link>rtmp://178.18.30.120/live playpath=tvcolorrs  swfUrl=http://www.ukcast.tv/player/player.swf  live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=tvcolorrs&vw=650&vh=480</link>
- </item>
-
-
- <item>
- <title>Sony Sab</title>
- <link>rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp</link>
- </item>
-
- <item>
- <title>Star Gold</title>
- <link>rtmp://live190.la3.origin.filmon.com:1935/live playpath=gold.stream  swfUrl=http://zonytvcom.info/saki/player/src0.swf live=true timeout=15  pageUrl=http://zonytvcom.info/saki2/embed.php?live=gold.stream&vw=600&vh=400</link>
- </item>
-
- <item>
- <title>Star Gold (Link 2)</title>
- <link>rtmp://178.18.30.120/live playpath=goldda live=true timeout=15 swfUrl=http://www.ukcast.tv/player/player.swf  pageUrl=http://www.ukcast.tv/embed.php?u=goldda&vw=600&vh=470</link>
- </item>
-
- <item>
- <title>Star Gold (Link 3)</title>
- <link>rtmp://178.18.30.121/live playpath=goldda live=true timeout=15 swfUrl=http://www.ukcast.tv/player/player.swf  pageUrl=http://www.ukcast.tv/embed.php?u=goldda&vw=600&vh=470</link>
- </item>
-
- <item>
- <title>Zee ETC</title>
- <link>rtmp://69.1.71.134:1935/zeenatlive/ playpath=51ztvlive101.stream  swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://nowwatchtvlive.com/channel-tab-frame/zeeetc.php</link>
- </item>
-
-
-
-<item>
-<title>Star Plus HD</title>
-<link>http://fw01.livem3u8.me.totiptv.com/live//7c75ad89c1cc417aa0f066133c0a2333.m3u8?bitrate=800</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
-<item>
-
 <item>
 <title>Zee Tv</title>
 <link>http://fw01.livem3u8.me.totiptv.com/live/8be5e8787848472089925a7bb7f43ef1.m3u8?bitrate=800</link>
+<link>rtmp://178.18.23.113/tivi/ playpath=zeetv swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26</link>
+<link>rtmp://178.18.30.121/live playpath=tvzew  swfUrl=http://www.ukcast.tv/player/player.swf  live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=tvzew&vw=600&vh=470</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_tv.jpg</thumbnail>
 </item>
 
 <item>
-<title>Star GOld HD</title>
+<title>Star Plus</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live//7c75ad89c1cc417aa0f066133c0a2333.m3u8?bitrate=800</link>
+<link>rtmp://93.174.93.124/live33 playpath=a1_star swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=i_starplus&vw=600&vh=450&video=0&domain=pogotv.eu</link>
+<link>rtmp://178.18.23.113/tivi/ playpath=starplus swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sony TV</title>
+<link>rtmp://93.174.93.124/live33 playpath=hd_sonytv swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=hd_sonytv&vw=600&vh=450&video=0&domain=www.pogotv.eu</link>
+<link>rtmp://178.18.23.113/tivi/ playpath=sonytv swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_in.jpg</thumbnail> 
+</item>
+
+<item>
+<title>SET Max</title>
+<link>rtmp://178.18.30.120/live playpath=maxu33 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=maxu33&vw=655&vh=430</link>
+</item>
+
+<item>
+<title>Sony Sab</title>
+<link>rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp</link>
+<link>rtmp://178.18.23.113/tivi/ playpath=sabtv swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sony_sab_tv_in.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zee Cinema</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live/18560c96b9f446bb87acb8981a2fe9c5.m3u8?bitrate=800</link>
+<link>rtmp://93.174.93.124/live33playpath=i_zcinema swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=i_zcinema&vw=600&vh=400&video=0&domain=pogotv.eu</link>
+<link>rtmp://178.18.23.113/tivi/ playpath=zeecinema swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_cinema.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Gold</title>
 <link>http://fw01.livem3u8.me.totiptv.com/live/53c2bf7e52a44fd8b6df7f9e83891bbc.m3u8?bitrate=800</link>
+<link>rtmp://live190.la3.origin.filmon.com:1935/live playpath=gold.stream  swfUrl=http://zonytvcom.info/saki/player/src0.swf live=true timeout=15  pageUrl=http://zonytvcom.info/saki2/embed.php?live=gold.stream&vw=600&vh=400</link>
+<link>rtmp://178.18.30.120/live playpath=goldda live=true timeout=15 swfUrl=http://www.ukcast.tv/player/player.swf  pageUrl=http://www.ukcast.tv/embed.php?u=goldda&vw=600&vh=470</link>
+<link>rtmp://178.18.30.121/live playpath=goldda live=true timeout=15 swfUrl=http://www.ukcast.tv/player/player.swf  pageUrl=http://www.ukcast.tv/embed.php?u=goldda&vw=600&vh=470</link>
+<link>rtmp://178.18.23.113/tivi/ playpath=stargold swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_gold.jpg</thumbnail>
 </item>
 
 <item>
 <title>Colors</title>
 <link>http://68.235.37.141:1935/minnal/dcinema2/chunklist_w1427720110.m3u8</link>
+<link>rtmp://178.18.30.120/live playpath=tvcolorrs  swfUrl=http://www.ukcast.tv/player/player.swf  live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=tvcolorrs&vw=650&vh=480</link>
+<link>rtmp://178.18.23.113/tivi/ playpath=colorstv swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/colors_in.jpg</thumbnail>
+</item> 
+
+<item>
+<title>Life OK</title>
+<link>rtmp://178.18.30.121/live playpath=lifeook3  swfUrl=http://www.ukcast.tv/player/player.swf  live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=lifeook3&vw=600&vh=430</link>
 </item>
 
 <item>
- <title>B4U Music</title>
- <link>rtsp://46.249.213.87/broadcast/b4u-tablet.3gp</link>
- <thumbnail>http://cdn.freedocast.com/yupptv/seoimages/channel_thumb/b4u_music_75x50.gif</thumbnail>
- </item>
-
-
-<item>
- <title>B4U Movies</title>
- <link>rtmp://178.18.23.129/live playpath=b4u_movies98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/embed.php?u=b4u_movies98&vw=600&vh=430&domain=HALILOU</link>
- <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/b4u_movies.jpg</thumbnail>
- </item>
-
-<item>
-<title>Sony Sab</title>
-<link>rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sony_sab_tv_in.jpg</thumbnail>
+<title>B4U Music</title>
+<link>rtsp://46.249.213.87/broadcast/b4u-tablet.3gp</link>
+<link>rtmp://178.18.23.113/tivi/ playpath=b4umusic swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26</link>
+<thumbnail>http://cdn.freedocast.com/yupptv/seoimages/channel_thumb/b4u_music_75x50.gif</thumbnail>
 </item>
 
-
 <item>
-<title>Zee Cinema</title>
-<link>http://fw01.livem3u8.me.totiptv.com/live/18560c96b9f446bb87acb8981a2fe9c5.m3u8?bitrate=800</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_cinema.jpg</thumbnail>
+<title>B4U Movies</title>
+<link>rtmp://178.18.23.129/live playpath=b4u_movies98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/embed.php?u=b4u_movies98&vw=600&vh=430&domain=HALILOU</link>
+<link>rtmp://178.18.23.113/tivi/ playpath=b4umovies swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/b4u_movies.jpg</thumbnail>
 </item>
-
-<item> 
-<title>Desi Cinema2</title> 
-<link>http://68.235.37.141:1935/minnal/dcinema2/playlist.m3u8</link> 
-<thumbnail></thumbnail> 
-</item>
-
 
 <item>
 <title>Channel V</title>
@@ -405,19 +394,26 @@ tp://desistreams.tv/embed/geo_super.php timeout=15</link>
 <thumbnail>http://1tvlive.in/wp-content/uploads/2011/12/channel_v_in-119x80.jpg</thumbnail>
 </item>
 
-<item>
- <title>Zing</title>
- <link>http://fw01.livem3u8.me.totiptv.com/live/3e30590edd7940e29335d243342fc6b0.m3u8?bitrate=800</link>
- <link>http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp/zing-tablet.3gp-mr398k.m3u8</link>
- <link>rtsp://46.249.213.87/broadcast/zing-tablet.3gp</link>
- <thumbnail>http://yamgo.mobi/images/mid/logo/zing-logo.png</thumbnail>
- </item>
+<item> 
+<title>Zoom</title> 
+<link>http://69.1.71.134:1935/zeenatlive/51ztvlive208.stream/hasbahca.m3u8</link> 
+<thumbnail></thumbnail> 
+</item>
 
 <item>
- <title>Zee Cafe</title>
- <link>rtsp://46.249.213.93/broadcast/zeecafe-tablet.3gp</link>
- <thumbnail></thumbnail>
- </item>
+<title>Zing</title>
+<link>http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp/zing-tablet.3gp-mr398k.m3u8</link>
+<link>rtsp://46.249.213.87/broadcast/zing-tablet.3gp</link>
+<link>rtmp://178.18.23.113/tivi/ playpath=zing swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26</link>
+<thumbnail>http://yamgo.mobi/images/mid/logo/zing-logo.png</thumbnail>
+</item>
+
+<item>
+<title>Zee Cafe</title>
+<link>rtsp://46.249.213.93/broadcast/zeecafe-tablet.3gp</link>
+<thumbnail></thumbnail>
+</item>
+
 <item>
 <title>Desi4u Hits</title>
 <link>rtmpe://68.235.37.141/minnal/ playpath=dhits2 swfUrl=http://player.longtailvideo.com/player.swf live=true pageUrl=http://www.mylivetvchannel.com/desi4uhitsmusic/ timeout=15</link>
@@ -427,6 +423,7 @@ tp://desistreams.tv/embed/geo_super.php timeout=15</link>
 <item>
 <title>Desi4u Cinema</title>
 <link>rtmpe://68.235.37.141/minnal/ playpath=dcinema2 swfUrl=http://player.longtailvideo.com/player.swf live=true pageUrl=http://www.mylivetvchannel.com/desi4ucinema/ timeout=15</link>
+<link>http://68.235.37.141:1935/minnal/dcinema2/playlist.m3u8</link>
 <thumbnail>http://funtv4u.com/wp-content/uploads/2012/06/desi-4u.jpg</thumbnail>
 </item>
 
@@ -434,6 +431,12 @@ tp://desistreams.tv/embed/geo_super.php timeout=15</link>
 <title>Desi4u Cinema</title>
 <link>http://68.235.37.141:1935/minnal/dcinema2/hasbahca.m3u8</link>
 <thumbnail>http://funtv4u.com/wp-content/uploads/2012/06/desi-4u.jpg</thumbnail>
+</item>
+
+<item>
+<title>Desi Classic2</title>
+<link>http://68.235.37.141:1935/minnal/dclassic2/hasbahca.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
