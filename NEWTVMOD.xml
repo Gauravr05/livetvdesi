@@ -304,7 +304,7 @@ tp://desistreams.tv/embed/geo_super.php timeout=15</link>
 
 <channel>
 <name>Indian Channels</name>
-<thumbnail>http://mamasmiles.com/blog/media/2013/Exploring-Geography-India-at-Large_B56A/Flag-of-India-from-wikimedia.png</thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/225px-Flag_of_India.svg.png</thumbnail>
 <items>
 
 <item>
@@ -333,6 +333,7 @@ tp://desistreams.tv/embed/geo_super.php timeout=15</link>
 <item>
 <title>SET Max</title>
 <link>rtmp://178.18.30.120/live playpath=maxu33 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=maxu33&vw=655&vh=430</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sony_max_tv_in.jpg</thumbnail>
 </item>
 
 <item>
