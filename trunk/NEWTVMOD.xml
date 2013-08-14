@@ -74,8 +74,16 @@
 </item>
 
 <item>
+<title>Z Smile</title>
+<link>http://69.1.71.134:1935/zeenatlive/51ztvlive106.stream/hasbahca.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/icon/tv/zz/zee_smile.gif</thumbnail>
+</item>
+
+
+<item>
 <title>B4U Music</title>
 <link>rtmp://178.18.23.113/tivi/ playpath=b4umusic swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26</link>
+<link>http://69.1.71.134:1935/zeenatlive/51ztvlive222.stream/hasbahca.m3u8</link>
 <link>rtsp://46.249.213.87/broadcast/b4u-tablet.3gp</link>
 <thumbnail>http://www.lyngsat-logo.com/icon/tv/bb/b4u_music_in.gif</thumbnail>
 </item>
@@ -90,7 +98,7 @@
 <item>
 <title>Channel V</title>
 <link></link>
-<link>rtmp://cp133304.live.edgefcs.net/live/ Playpath=channelv2@62057 swfUrl=http://player.longtailvideo.com/player.swf swfVfy=true conn=S:OK live=true pageUrl=http://1tvlive.in/channel-v-india/ timeout=15</link>
+<link>rtmp://cp133304.live.edgefcs.net/live/ Playpath=channelv2@62057 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://1tvlive.in/channel-v-india/ timeout=15</link>
 <thumbnail>http://1tvlive.in/wp-content/uploads/2011/12/channel_v_in-119x80.jpg</thumbnail>
 </item>
 
@@ -172,9 +180,9 @@
 <items>
 
 <item>
-<title>ETC Alphaetc Punjabi</title>
+<title>Alpha etc Punjabi</title>
 <link>http://cdn.nwk3.yupptv.tv/nwk3/smil:etcpunjabi.smil/playlist.m3u8</link>
-<thumbnail>http://desistreams.tv/images/zee_punjabi.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/icon/tv/aa/alpha_etc_punjabi.gif</thumbnail>
 </item>
 
 
@@ -193,19 +201,13 @@
 <item>
 <title>Z Punjabi</title>
 <link>rtmp://178.18.23.113/tivi/ playpath=zeepunjabi swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Zee ETC</title>
-<link>rtmp://69.1.71.134:1935/zeenatlive/ playpath=51ztvlive101.stream  swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://nowwatchtvlive.com/channel-tab-frame/zeeetc.php</link>
-</item>
-
-
-<item>
-<title>Z etc Punjabi</title>
 <link>http://69.1.71.134:1935/zeenatlive/51ztvlive101.stream/hasbahca.m3u8</link>
 <thumbnail>http://desistreams.tv/images/zee_punjabi.png</thumbnail>
+</item>
+
+<item>
+<title>Z etc Bollywood</title>
+<link>rtmp://69.1.71.134:1935/zeenatlive/ playpath=51ztvlive101.stream  swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://nowwatchtvlive.com/channel-tab-frame/zeeetc.php</link>
 </item>
 
 <item>
@@ -691,76 +693,6 @@ tp://desistreams.tv/embed/geo_super.php timeout=15</link>
 <items>
 
 
-<item>
-<title>Spike Tv</title>
-<link>rtmp://edge.isearch.to/edge/m5lssurqlffzxtp swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
-player=default</link>
-<thumbnail>http://www-deadline-com.vimg.net/wp-content/uploads/2011/04/SpikeTV_logo_20110409013949.jpg</thumbnail>
-</item>
-
-<item>
-<title>TNT</title>
-<link>rtmp://edge.isearch.to/edge/s7d8wd96rhebpng swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
-player=default</link>
-<thumbnail>http://4.bp.blogspot.com/-ce5cmqwmrm8/Tw-Cuy9LelI/AAAAAAAAFPk/OaS6b0ADkp0/s1600/TNT_TV_logo.png</thumbnail>
-</item>
-
-<item>
-<title>USA Network US</title>
-<link>rtmp://edge.isearch.to/edge/h5eovaj1jeegluq swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
-player=default</link>
-<thumbnail>http://images.sodahead.com/polls/003279465/153380788_usa_network_logo_1_answer_2_xlarge.jpeg</thumbnail>
-</item>
-
-<item>
-<title>A & E</title>
-<link>rtmp://edge.isearch.to/edge/oanry4s71cylxxb swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
-player=default</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/274px-A%26E_Network_logo.svg.png</thumbnail>
-</item>
-
-<item>
-<title>Fox</title>
-<link>http://94.242.221.141/hls/a-lo/stream89.m3u8</link>
-<thumbnail>http://blackchristiannews.com/news/s-PBS-LOGO-large.jpg</thumbnail>
-</item>
-
-<item>
-<title>AMC</title>
-<link>rtmp://edge.isearch.to/edge/z4cxm7zlfyqs65m swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
-player=default</link>
-<thumbnail>http://brusimm.com/wp-content/uploads/2012/05/AMC-TV.jpg</thumbnail>
-</item>
-
-<item>
-<title>Comedy Central US</title>
-<link>rtmp://198.144.153.142:443/kuyo playpath=comedddd?id=3131352e36342e3138302e313138  swfUrl=http://yukons.net/yukplay.swf  pageUrl=http://yukons.net/embed/http://yukons.net/embed/36333646364436353634363436343634/3d5c0799b3c3b91fb65a9d62ff22a80f/595/380 live=1
-player=default</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/comedy_central.png</thumbnail>
-</item>
-
-<item>
-<title>Tru Tv</title>
-<link>rtmp://edge.isearch.to/edge/sfkua8d8yo8jmut swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
-player=default</link>
-<link>rtmp://5.39.67.31/edge/ playpath=sfkua8d8yo8jmut pageUrl=http://www.ilive.to/view/45279 swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<thumbnail>http://tvisual.org/wp-content/uploads/2011/01/trutv-logo.gif</thumbnail>
-</item>
-
-<item>
-<title>PBS</title>
-<link>http://winstream.kamu.tamu.edu/kamu-tv?mswmext=.asf
-player=mplayer</link>
-<thumbnail>http://blackchristiannews.com/news/s-PBS-LOGO-large.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>ABC</title>
-<link>rtmp://edge.isearch.to/edge/nz7l9vc5nv1og7b swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php timeout=15</link>
-<link></link>
-<thumbnail>http://tvseriesfinale.com/assets/abc02aa.jpg</thumbnail>
-</item>
 
 <item>
 <title>CNN</title>
@@ -769,62 +701,30 @@ player=mplayer</link>
 </item>
 
 <item>
-<title>CNN International</title>
-<link>http://akamedia2.lsops.net/live/smil:cnn_en.smil/chunklist-b320000.m3u8</link>
-<link>rtsp://media2.lsops.net/live/_definst_/mp4:cnn_en_high.sdp</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
-</item>
-
-
-<item>
 <title>CNN Live</title>
 <link>rtmp://cp44679.live.edgefcs.net/live playpath=cnnlive_4_low@49691 swfUrl=http://i.cdn.turner.com/cnn/.element/apps/CNNLive/2.1.6.2/assets/swfs/LivePlayer.swf live=true pageUrl=http://edition.cnn.com/video/flashLive/live.html?stream=stream1 timeout=15</link>
 <thumbnail>http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/hdr-main.gif</thumbnail>
 </item>
 
 <item>
+<title>CNN International</title>
+<link>http://94.242.221.141/hls/a-lo/stream38.m3u8</link>
+<link></link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
+</item>
+
+<item>
 <title>HLN</title>
 <link>rtmp://a.cdn.msnbclive.eu/edge/hln_live swfUrl=http://msnbclive.eu/getswf.php?name=player.swf live=1 pageurl=http://blog.livenewschat.tv/the-nancy-grace-room timeout=15</link>
-<link>rtmp://a.cdn.msnbclive.eu/edge/hln_live swfurl=http://msnbclive.eu/getswf.php?name=player.swf live=1 pageurl=http://blog.livenewschat.tv/the-nancy-grace-room/ player=default</link>
-<link>rtmp://c.cdn.livenewschat.eu/edge  swfurl=http://msnbclive.eu/player.swf live=true pageurl=http://www.livenewschat.eu/twoon/ timeout=15</link>
+<link></link>
+<link></link>
 <thumbnail>http://i.cdn.turner.com/dr/hln/www/release/sites/default/themes/hln/logo.png</thumbnail>
 </item>
 
 <item>
 <title>Bloomberg</title>
-<link>http://94.242.221.141/hls/a-lo/stream37.m3u8</link>
 <link>rtmp://cp116697.live.edgefcs.net:80/live playpath=BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_440@18679 swfUrl=http://player.longtailvideo.com/player.swf live=1 timeout=15</link>
 <thumbnail>https://lh3.googleusercontent.com/-VEB545Y1H1M/AAAAAAAAAAI/AAAAAAAAAHQ/N4IRlRex3Nc/s48-c-k/photo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Fox News</title>
-<link>rtmp://46.165.196.36/stream app=stream conn=S:OK playpath=adadadafoxadad?id=87553 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/adadadafoxadad/1/500/400 swfVfy=1 live=1 timeout=30</link>
-<thumbnail>http://thenewsosphere.files.wordpress.com/2012/05/200px-fox_news_channel-svg.png</thumbnail>
-</item>
-
-<item>
-<title>Fox Business</title>
-<link>http://live.webcaston.com:1935/live/channel/aaj01/playlist.m3u8</link>
-<thumbnail>https://si0.twimg.com/profile_images/1268222676/fb_128x128_bigger.png</thumbnail>
-</item>
-
-<item>
-<title>MSNBC</title>
-<link>rtmp://d.cdn.msnbclive.eu/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf live=true pageUrl=http://weplaylive.tv/politics-stream/ timeout=15</link
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CCTV News</title>
-<link>mms://4.30.61.228/cctv9-200</link>
-<thumbnail>http://www.tangmedia.fr/greatwall/images/cctv-news.png</thumbnail>
-</item>
-
-<item>
-<title>The Weather Channel</title>
- <link>http://twci-i.akamaihd.net/hls/live/203612/hls02/master_index.m3u8</link>
-<thumbnail>http://streetfightmag.com/wp-content/uploads/weather_channel.png</thumbnail>
 </item>
 
 <item>
@@ -836,15 +736,38 @@ player=mplayer</link>
 
 
 <item>
+<title>CCTV News</title>
+<link>mms://4.30.61.228/cctv9-200</link>
+<thumbnail>http://www.tangmedia.fr/greatwall/images/cctv-news.png</thumbnail>
+</item>
+
+<item>
+<title>BBC World News</title>
+<link>rtsp://media4.lsops.net/live/bbcworld1_en_veryhigh.sdp</link>
+<link></link>
+<link></link
+<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlj.png</thumbnail>
+<thumbnail>http://formfilms.co.uk/wp-content/uploads/2010/05/bbc2_logo_lightbox.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Russia Today</title>
+<link>rtmp://fms5.visionip.tv/live app=live swfUrl=http://rt.com/s/swf/player5.4.viral.swf pageURL=http://rt.com/on-air/ playpath=RT_3 live=true</link>
+<link>rtmp://rt.fms.visionip.tv/live app=live swfUrl=http://rt.com/s/swf/player5.4.viral.swf pageURL=http://rt.com/on-air/ playpath=RT_US_3 livbnail>http://media.marketwire.com/attachments/201206/53621_WeatherNationTVlogo.jpg</thumbnail>
+</item>
+
+<item>
 <title>Russia Today Documentary</title>
 <link>rtmp://rt.fms.visionip.tv/live app=live swfUrl=http://rt.com/s/swf/player5.4.viral.swf pageURL=http://rt.com/on-air/ playpath=russia_today-rt_docs-live-25f-4x3_3 live=true</link>
 <thumbnail>http://www.cyfraplus.pl/local/img/channel/large/RTD.png</thumbnail>
 </item>
 
 <item>
-<title>Euro News</title>
-<link>rtmp://178.33.234.10/edge/ playpath=fg2fwiffpklotoc pageUrl=http://www.ilive.to/view/43632 swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<thumbnail>http://1.bp.blogspot.com/-A0wx-qfBN-Y/UEhNWdZhDHI/AAAAAAAAa64/GwriqDM1BPY/s1600/euronews.jpg</thumbnail>
+<title>Al Jazeera</title>
+<link></link>
+<link>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live playpath=aljazeera_eng_high swfUrl="http://admin.brightcove.com/viewer/us1.25.04.00.2011-05-19124744/federatedVideoUI/BrightcovePlayer.swf" pageUrl="http://english.aljazeera.net/watch_now/" live=true</lie=true</link>
+<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlq.png</thumbnail>
 </item>
 
 <item>
@@ -854,62 +777,16 @@ player=mplayer</link>
 </item>
 
 <item>
-<title>Russia Today</title>
-<link>rtmp://fms5.visionip.tv/live app=live swfUrl=http://rt.com/s/swf/player5.4.viral.swf pageURL=http://rt.com/on-air/ playpath=RT_3 live=true</link>
-<link>rtmp://rt.fms.visionip.tv/live app=live swfUrl=http://rt.com/s/swf/player5.4.viral.swf pageURL=http://rt.com/on-air/ playpath=RT_US_3 livbnail>http://media.marketwire.com/attachments/201206/53621_WeatherNationTVlogo.jpg</thumbnail>
+<title>TNT</title>
+<link>rtmpe://live.univisionbrazil.com/modelo/tnt.live swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/channel.php?n=tnt</link>
+<thumbnail>http://4.bp.blogspot.com/-ce5cmqwmrm8/Tw-Cuy9LelI/AAAAAAAAFPk/OaS6b0ADkp0/s1600/TNT_TV_logo.png</thumbnail>
 </item>
-
-
-<item>
-<title>BBC World News</title>
-<link>rtsp://media4.lsops.net/live/bbcworld1_en_veryhigh.sdp</link>
-<link>rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_veryhigh.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
-<link>rtmp://d.cdn.msnbclive.eu/edge playpath=bbcworld_live swfUrl=http://msnbclive.eu/player.swf live=true pageUrl=http://weplaylive.tv/world-news-stream/ timeout=15</link
-<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlj.png</thumbnail>
-<thumbnail>http://formfilms.co.uk/wp-content/uploads/2010/05/bbc2_logo_lightbox.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Al Jazeera</title>
-<link>rtmp://media7.lsops.net/live/ playpath=aljazeer_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true</link>
-<link>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live playpath=aljazeera_eng_high swfUrl="http://admin.brightcove.com/viewer/us1.25.04.00.2011-05-19124744/federatedVideoUI/BrightcovePlayer.swf" pageUrl="http://english.aljazeera.net/watch_now/" live=true</lie=true</link>
-<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlq.png</thumbnail>
-</item>
-
-<item>
-<title>Sky News</title>
-<link>mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k</link>
-<link>http://fw01.livem3u8.me.totiptv.com/live//31b003ab7e7749a798fe00424e3dd9ff.m3u8?bitrate=800</link>
-<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlp.png</thumbnail>
-</item>
-
-<item>
-<title>Press Tv</title>
-<link>rtmp://media4.lsops.net/live/ playpath=presstv_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/en/press-tv" swfVfy=true live=true</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/pp/press_tv.png</thumbnail>
-</item>
-
 
 <item>
 <title>Discovery Channel</title>
 <link>http://94.242.221.141/hls/a-lo/stream141.m3u8</link>
 <thumbnail>http://images2.wikia.nocookie.net/__cb20100728112639/logopedia/images/3/34/Discovery_Channel_2000.png</thumbnail>
 </item>
-
-
-<item>
-<title>Nat Geo Wild (Portuguese / English)</title>
-<link>rtmp://5.39.67.31/edge/ playpath=axybwot6nkk8d7x pageUrl=http://www.ilive.to/view/40942/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<thumbnail>http://picturesbythewayside.com/wp-content/uploads/2011/06/Nat-Geo-wild-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Animal Planet HD</title>
-<link>rtmp://fmsnl.ilive.to:1935/app/_definst_/41i3ymbmum28xfk timeout=10</link>
-<thumbnail>http://www.m-streams.com/_images/chanal-pic/animalplanet-2l.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>History Channel</title>
@@ -918,7 +795,6 @@ player=default</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/historychannel_logo.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>Kiss Tv Music</title>
 <link>rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live playpath=live swfUrl=http://kisstelevision.en-directo.com/kisstelevision_avw.swf live=true swfVfy=true pageUrl=http://livetvchannelsinfree.net/kisstv.html timeout=15</link>
@@ -926,127 +802,62 @@ player=default</link>
 </item>
 
 <item>
-<title>Nat Geo</title>
-<link>rtsp://202.125.158.233:554/stream3_wifi.sdp timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_in.jpg</thumbnail>
-</item>
-
-<item>
-<title>NTA International</title>
-<link>rtmp://50.97.94.4/live playpath=180475 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=true pageUrl=http://castalba.tv/embed.php?cid=10522&wh=640&ht=480&r=www.suncastv.co.uk timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nta_international.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies HD</title>
-<link>rtmp://142.4.216.145/edge/ playpath=oiusgatnhu8op94 swfUrl=http://static.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/view/45630 timeout=15</link>
-<thumbnail>www.lyngsat-logo.com/hires/ss/sky_uk_movies.png</thumbnail>
-</item>
-
-<item>
-<title>Star Movies</title>
-<link>rtmp://142.4.216.173/edge/ playpath=kggplz5w9bpaaaj swfUrl=http://static.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/view/46497 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_movies_in.png</thumbnail>
-</item>
-
-<item>
-<title>National Geographic</title>
-<link>rtmp://118.69.202.59:1935/hayhaytv_live playpath=mp4:national.geographic.360p swfUrl=http://www.hayhaytv.vn/player/smartplayer.swf live=1 pageUrl=http://www.hayhaytv.vn/livetv/national-geographic-31356E61.html token=na^tu12%28aqw
-player=default</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_pt.jpg</thumbnail>
-</item>
-
-<item>
-<title>Music Channel </title>
-<link>rtmp://cp86438.live.edgefcs.net:80/live playpath=livestream6_287@41549 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf swfVfy=true live=true pageUrl=http://www.livestream.com/embed/1_music_channel?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=4&t=928904 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/num/1music_channel_ro.png</thumbnail>
-</item>
-
-<item>
-<title>MTV</title>
-<link>http://fw01.livem3u8.me.totiptv.com/live/8d45473ff4ca44d79e1abc4516c2fee0.m3u8</link>
+<title>MTV HD</title>
+<link>http://212.20.40.37:1234/udp/233.7.70.161:5000</link>
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>MTV HITS</title>
+<link>http://212.20.40.37:1234/udp/233.7.70.208:5000</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
-<title>Xorisoria </title>
-<link>rtmp://cp86438.live.edgefcs.net/live playpath=livestream6_69@27810 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf swfVfy=true live=true pageUrl=http://www.livestream.com/embed/xorisoriatv?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=1&t=796861 timeout=15</link>
-<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-ash4/373163_209043812465207_1966241941_q.jpg</thumbnail>
+<title>MTV ROCKS</title>
+<link>http://212.20.40.37:1234/udp/233.7.70.209:5000</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SONY HD</title>
+<link>http://212.20.40.37:1234/udp/233.7.70.126:5000</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Fashion Tv</title>
+<link>http://212.20.40.37:1234/udp/233.7.70.162:5000</link>
 <link>http://spiinternational-i.akamaihd.net/hls/live/204307/FASHIONBOXHD_MT_HLS/once1200.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fashion_tv_us.png</thumbnail>
 </item>
 
-<item>
-<title>Food Network</title>
-<link>rtmp://5.39.65.109/edge playpath=r7oi6ylf755rcno swfUrl=http://static.ilive.to/jwplayer/player_embed.swf swfVfy=true live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=430&channel=40158& timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/food_network_us.png</thumbnail>
-</item> 
 
 <item>
-<title>History Channel India</title>
-<link>rtsp://ss7c6.idc.mundu.tv:554/prf2/cid_38.sdp timeout=15</link>
-<thumbnail>http://cdn.ghosttheory.com/wp-content/uploads/2010/08/historyFeatureImg.jpg</thumbnail>
-</item>
-
-<item>
-<title>TLC</title>
-<link>rtmp://edge.isearch.to/edge/x99v7adz8i3ikkm swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
-player=default timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tlc_us.jpg</thumbnail>
-</item> 
-
- <item>
- <title>Active Channel-HD</title>
- <link>rtmp://sb0hfynwcdzkxs.rtmphost.com/simulcast app=simulcast Playpath=livestream swfUrl=http://www.mylivetvchannel.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.mylivetvchannel.com/activechannel/ buffer=300000 swfVfy=true live=true timeout=10</link>
- <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSpPsAXuceNS1XkX5_sO0mnHq1Vn9K0vFu1nTxza6UKe3ldoBf4</thumbnail>
- <fanart>http://t1.gstatic.com/images?q=tbn:ANd9GcSpPsAXuceNS1XkX5_sO0mnHq1Vn9K0vFu1nTxza6UKe3ldoBf4</fanart>
- </item>
- <item>
- <title>Filmon-HD</title>
- <link>rtmp://live4.gv.edge.filmon.com:1935/live app=live Playpath=13.high.stream swfUrl=http://www.mylivetvchannel.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.mylivetvchannel.com/film4/ buffer=300000 swfVfy=true live=true timeout=10</link>
- <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/08/Film4_HD_logo1.png</thumbnail>
- <fanart>http://nowwatchtvlive.com/wp-content/uploads/2011/08/Film4_HD_logo1.png</fanart>
- </item>
-
- <item>
- <title>AE -HD</title>
- <link>rtmp://142.4.216.154/edge app=edge Playpath=x99v7adz8i3ikkm swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=620&height=500&channel=38765&autoplay=true buffer=300000 swfVfy=true live=true timeout=10</link>
- <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/ae-hd-300x90.png</thumbnail>
- <fanart>http://nowwatchtvlive.com/wp-content/uploads/2011/07/ae-hd-300x90.png</fanart>
- </item>
-
-<item>
-<title>HBO</title>
-<link>http://203.162.16.22/lives/origin01/bts-hbohd.isml/bts-hbohd-2096k.m3u8</link>
+<title>Fightbox</title>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link>
 <thumbnail></thumbnail>
 </item>
-
-
 <item>
-<title>HBO Hits</title>
-<link>rtmp://edge.isearch.to/edge/z28ie9oqoku4qoy swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
-player=default</link>
-<thumbnail>http://payload.cargocollective.com/1/5/164316/2239864/prt_280x188_1320747599.jpg</thumbnail>
+
+<title>Film Box Extra</title>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204303/FILMBOXEXTRA_PL_HLS/once1200.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
 <title>HBO Comedy</title>
 <link>rtmp://edge.isearch.to/edge/a1wn1j3ra1w0cv0 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
 player=default</link>
-<link>rtmp://142.4.216.176/edge app=edge Playpath=a1wn1j3ra1w0cv0 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/38214/watch-live-HBO%20Comedy%20movie-channel-for-free buffer=300000 swfVfy=true live=true timeout=10</link>
+<link></link>
 <thumbnail>http://duels.cz/galerie/hbo_comedy.jpg</thumbnail>
 </item>
 
 <item>
-<title>Starz US</title>
-<link>rtmpe://142.4.217.210/modelo/starz/starz.video swfUrl=http://www.livecupbrazil.com/player/player.swf live=1 pageUrl=http://www.livecupbrazil.com/sports.php?n=starz
+<title>HBO Hits</title>
+<link>rtmp://edge.isearch.to/edge/z28ie9oqoku4qoy swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
 player=default</link>
-<thumbnail>http://blog.gpcom.com/wp-content/uploads/2011/09/Starz-Logo-for-Featured-Image.jpg</thumbnail>
+<thumbnail>http://payload.cargocollective.com/1/5/164316/2239864/prt_280x188_1320747599.jpg</thumbnail>
 </item>
 
 
@@ -1057,147 +868,17 @@ player=default timeout=15</link>
 <thumbnail>http://www.cinemax.com/img/global/logo-ftr.png</thumbnail>
 </item>
 
- <item>
- <title>StarMovie Asia</title>
- <link>rtmp://142.4.216.176/edge app=edge Playpath=kggplz5w9bpaaaj swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/46497/StarMovie_Asia buffer=300000 swfVfy=true live=true timeout=10</link>
- <thumbnail></thumbnail>
- <fanart></fanart>
- </item>
 
- <item>
- <title>Showtime movies</title>
- <link>rtmp://edge.isearch.to/edge/bwbop58ixz281wv swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
-player=default </link>
- <link>rtmp://142.4.216.154/edge app=edge Playpath=bwbop58ixz281wv swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/44126/Showtime_movies buffer=300000 swfVfy=true live=true timeout=10</link>
- <thumbnail>http://i254.photobucket.com/albums/hh98/justme4u2cme/Navi-X%20Playlists/500px-Showtimesvg.png</thumbnail>
- <fanart></fanart>
- </item>
+<item>
+<title>Active Channel-HD</title>
+<link>rtmp://sb0hfynwcdzkxs.rtmphost.com/simulcast app=simulcast Playpath=livestream swfUrl=http://www.mylivetvchannel.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.mylivetvchannel.com/activechannel/ buffer=300000 swfVfy=true live=true timeout=10</link>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSpPsAXuceNS1XkX5_sO0mnHq1Vn9K0vFu1nTxza6UKe3ldoBf4</thumbnail>
+<fanart>http://t1.gstatic.com/images?q=tbn:ANd9GcSpPsAXuceNS1XkX5_sO0mnHq1Vn9K0vFu1nTxza6UKe3ldoBf4</fanart>
+</item>
 
- <item>
- <title>ABC</title>
- <link>rtmp://142.4.216.149/edge app=edge Playpath=nz7l9vc5nv1og7b swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/46476/ABC buffer=300000 swfVfy=true live=true timeout=10</link>
- <thumbnail></thumbnail>
- <fanart></fanart>
- </item>
 
 </items>
 </channel>
-
-<!-- ================================================================================?==== 
-
--->
-
-<channel>
-<name>Cartoons OLD</name>
-<thumbnail>none</thumbnail>
-<items>
-
-<item>
-<title>Nick</title>
-<link>rtmp://cdn.livecaster.tv/stream/nickkp swfUrl=http://www.livecaster.tv/player/player.swf pageUrl=http://www.livecaster.tv/channel.php?u=nickkp</link>
-<thumbnail>http://www.indiaprwire.com/downloads/photo/201006/14699.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Disney Channel</title>
-<link>rtmp://37.59.35.215/edge/ playpath=2tag4dzgwof5ma2 pageUrl=http://www.ilive.to/view/38804/ swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/az/8/88/Disney_Channel_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Disney XD HD</title>
-<link>rtmp://5.39.65.109/edge/ playpath=v0900rxvcx3dzqx pageUrl=http://www.ilive.to/view/44925 swfUrl=http://static.ilive.to/jwplayer/player.swf</link>
-<thumbnail>http://www.uploadimages4free.com/upload/big/disney_xd_2009_logo-26981.jpg</thumbnail>
-</item>
-
-<item>
-<title>Cartoon Network</title>
-<link>rtsp://202.125.158.232:554/stream2_wifi.sdp timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/cartoon_network_nl.png</thumbnail>
-</item>
-
- <item>
- <title>Nickelodeon</title>
- <link>rtmp://142.4.216.178/edge app=edge Playpath=8f7p62ebc1aq711 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/view/42064/Nickelodeon buffer=300000 swfVfy=true live=true timeout=10</link>
- <thumbnail></thumbnail>
- <fanart></fanart>
- </item>
-
- <item>
- <title>TOM AND JERRY-HD</title>
- <link>rtmp://204.45.133.154/ctv app=ctv Playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html buffer=300000 swfVfy=true live=true timeout=10</link>
- <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcRYS4OP5bF0xE47Q60qNwWyxMpoAFsmJUpiZgBN3W6JoLHM59Eqzw</thumbnail>
- <fanart>http://t2.gstatic.com/images?q=tbn:ANd9GcRYS4OP5bF0xE47Q60qNwWyxMpoAFsmJUpiZgBN3W6JoLHM59Eqzw</fanart>
- </item>
-
-<item>
-<title>Pogo</title>
-<link>rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chpogotvlive/2012/03/30/c2565bcd-37cd-4a0e-ae32-86dde9a5269c Playpath=trans/dv15/mogulus-user-files/chpogotvlive/2012/03/30/c2565bcd-37cd-4a0e-ae32-86dde9a5269c swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?width=620&height=470&autoplay=true&jsEnabled=false&time= pageUrl=http://cdn.livestream.com/embed/pogotvlive?layout=4&height=470&width=620&autoplay=true</link>
-<thumbnail>http://www.newtvworld.com/Images/pogo.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Popeye And Friends</title>
-<link>http://72.13.93.186/POPEYE</link>
-<thumbnail>http://incognitotattoo.com/wp-content/uploads/2010/12/popeye_1217.jpg</thumbnail>
-</item>
-
-<item>
-<title>Felix The Cat</title>
-<link>http://72.13.93.186/felixthecat</link>
-<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-snc4/41465_100001916773697_175225_n.jpg</thumbnail>
-</item>
-
-<item>
-<title>Calvin And The Colonel</title>
-<link>http://72.13.93.186/calvinandthecolonel</link>
-<thumbnail>http://images.bcdb.com/pictures/other5/calvin-title.jpg</thumbnail>
-</item>
-
-<item>
-<title>Animated Films</title>
-<link>http://72.13.93.186/animatedfilms</link>
-<thumbnail>http://project-omega.com/images-common/Are%20you%20travelling%20on%20the%20Super%20Highway%20to%20Success.jpg</thumbnail>
-</item>
-
-<item>
-<title>Col. Bleep</title>
-<link>http://72.13.93.186/colbleep</link>
-<thumbnail>http://4.bp.blogspot.com/_LU-hpvGTrkM/TFHmFOCUeOI/AAAAAAAAADw/rJglVuk1BPk/s320/bleep-1.jpg</thumbnail>
-</item>
-
-<item>
-<title>Clutch Cargo</title>
-<link>http://72.13.93.186/clutchcargo</link>
-<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-snc4/157266_840195645_4168771_n.jpg</thumbnail>
-</item>
-
-<item>
-<title>Toon Vault</title>
-<link>http://72.13.93.186/aesopsfables</link>
-<thumbnail>http://www.clipartguide.com/_named_clipart_images/0511-0801-1617-2933_Vege_Cartoons_clipart_image.jpg</thumbnail>
-</item>
-
-<item>
-<title>TOONS</title>
-<link>http://72.13.93.186/TOONS</link>
-<thumbnail>http://www.naturist.de/bilderagde/agde-toons-land1.jpg</thumbnail>
-</item>
-
-<item>
-<title>3 Stooges</title>
-<link>http://72.13.93.186/3stooges</link>
-<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-snc4/49304_100001516854563_4360525_n.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Ben 10</title>
-<link>rtmp://204.45.66.74/ctv Playpath=ben10 swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net</link>
-<thumbnail>http://ben10.edogo.com/wp-content/uploads/2011/10/ben-10.jpeg</thumbnail>
-</item>
 
 
 
