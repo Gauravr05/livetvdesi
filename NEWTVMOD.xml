@@ -63,6 +63,8 @@
 <item>
 <title>Colors</title>
 <link>rtmp://178.18.23.113/tivi/ playpath=colorstv swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26</link>
+<link>rtmp://141.8.244.56/live playpath=tv_colors swfUrl=http://141.8.244.56/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php?v=tv_color
+s&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/colors_in.jpg</thumbnail>
 </item> 
 
