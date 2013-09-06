@@ -8,7 +8,7 @@
 <item>
 <title>Zee Tv</title>
 <link>http://cdn.nwk3.yupptv.tv/nwk3/smil:zeetv.smil/playlist.m3u8</link>
-<link>http://fw01.livem3u8.me.totiptv.com/live/8be5e8787848472089925a7bb7f43ef1.m3u8?bitrate=800</link>
+<link>http://xbmc:xbmc@iptvdesi2.com/achannel6</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_tv.jpg</thumbnail>
 </item>
 
@@ -17,26 +17,26 @@
 <item>
 <title>Star Plus</title>
 <link>rtmp://93.174.93.124/live33 playpath=a1_star swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=i_starplus&vw=600&vh=450&video=0&domain=pogotv.eu</link>
-<link>http://fw01.livem3u8.me.totiptv.com/live/7c75ad89c1cc417aa0f066133c0a2333.m3u8?bitrate=800</link>
+<link>http://xbmc:xbmc@iptvdesi2.com/achannel4</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.jpg</thumbnail>
 </item>
 
 <item>
 <title>Sony TV</title>
 <link>rtmp://93.174.93.124/live33 playpath=hd_sonytv swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=hd_sonytv&vw=600&vh=450&video=0&domain=www.pogotv.eu</link>
-<link></link>
+<link>http://xbmc:xbmc@iptvdesi2.com/achannel2</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/set_in.jpg</thumbnail> 
 </item>
 
 <item>
 <title>Sony Max</title>
-<link>http://test5:test5@iptvdesi.com/channel13</link>
+<link>http://xbmc:xbmc@iptvdesi.com/achannel13</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sony_max_tv_in.jpg</thumbnail>
 </item>
 
 <item>
 <title>Sony Sab</title>
-<link>http://test5:test5@iptvdesi.com/channel10</link>
+<link>http://xbmc:xbmc@iptvdesi.com/achannel18</link>
 <link>rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sony_sab_tv_in.jpg</thumbnail>
 </item>
@@ -44,7 +44,7 @@
 <item>
 <title>Zee Cinema</title>
 <link>http://cdn.nwk3.yupptv.tv/nwk3/smil:zeecinema.smil/playlist.m3u8</link>
-<link>http://fw01.livem3u8.me.totiptv.com/live/18560c96b9f446bb87acb8981a2fe9c5.m3u8?bitrate=800</link>
+<link>http://xbmc:xbmc@iptvdesi2.com/achannel5</link>
 <link></link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_cinema.jpg</thumbnail>
 </item>
@@ -52,14 +52,14 @@
 <item>
 <title>Sahara One</title>
 <link>rtsp://46.249.213.93:554/playlists/sahara-one_hvga.hpl.3gp</link>
-<link>http://fw01.livem3u8.me.totiptv.com/live/ef46ba5648314d5c9979db03a5307a50.m3u8?bitrate=800</link>
+<link></link>
 <thumbnail></thumbnail>
 </item> 
 
 
 <item>
 <title>Star Gold</title>
-<link>http://fw01.livem3u8.me.totiptv.com/live/53c2bf7e52a44fd8b6df7f9e83891bbc.m3u8?bitrate=800</link>
+<link>http://xbmc:xbmc@iptvdesi2.com/achannel3</link>
 <link>rtmp://178.18.23.113/tivi/ playpath=stargold swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26</link>
 <link>rtmp://live190.la3.origin.filmon.com:1935/live playpath=gold.stream  swfUrl=http://zonytvcom.info/saki/player/src0.swf live=true timeout=15  pageUrl=http://zonytvcom.info/saki2/embed.php?live=gold.stream&vw=600&vh=400</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_gold.jpg</thumbnail>
@@ -67,22 +67,15 @@
 
 <item>
 <title>Colors</title>
-<link>http://test5:test5@iptvdesi.com/channel12</link>
+<link>http://xbmc:xbmc@iptvdesi.com/achannel12</link>
 <link></link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/colors_in.jpg</thumbnail>
 </item> 
 
-<item>
- <title>Colors New</title>
- <link>rtmpe://178.18.30.120/live playpath=colorss09 swfUrl=http://www.ukcast.tv/player.swf pageUrl=http://www.ukcast.tv/channel.php live=1 timeout=15</link>
- <thumbnail></thumbnail>
- </item>
-
-
 
 <item>
 <title>rishtey</title>
-<link>http://test5:test5@iptvdesi.com/channel11</link>
+<link>http://xbmc:xbmc@iptvdesi.com/achannel11</link>
 <link></link>
 <thumbnail></thumbnail>
 </item> 
@@ -103,22 +96,22 @@
 
 <item>
 <title>B4U Music</title>
-<link>http://test5:test5@iptvdesi.com/channel17</link>
+<link>http://xbmc:xbmc@iptvdesi.com/achannel15</link>
 <link>rtsp://46.249.213.87:554/playlists/b4u_hvga.hpl.3gp</link>
-<link>http://fw01.livem3u8.me.totiptv.com/live/81ff107849124ff389814b0b8816b1ba.m3u8?bitrate=800</link>
+<link></link>
 <thumbnail>http://www.lyngsat-logo.com/icon/tv/bb/b4u_music_in.gif</thumbnail>
 </item>
 
 <item>
 <title>B4U Movies</title>
-<link>http://test5:test5@iptvdesi.com/channel14</link>
+<link>http://xbmc:xbmc@iptvdesi.com/achannel14</link>
 <link>http://cdn.nwk3.yupptv.tv/nwk3/smil:b4umovies.smil/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/b4u_movies.jpg</thumbnail>
 </item>
 
 <item>
 <title>Channel V</title>
-<link>http://fw01.livem3u8.me.totiptv.com/live/09cac500285d42ec97465b2219db5f53.m3u8?bitrate=800</link>
+<link></link>
 <link>rtmp://cp133304.live.edgefcs.net/live/ Playpath=channelv2@62057 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://1tvlive.in/channel-v-india/ timeout=15</link>
 <thumbnail>http://1tvlive.in/wp-content/uploads/2011/12/channel_v_in-119x80.jpg</thumbnail>
 </item>
@@ -132,14 +125,14 @@
 <item>
 <title>Zing</title>
 <link>http://cdn.nwk3.yupptv.tv/nwk3/smil:zing.smil/playlist.m3u8</link>
-<link>http://fw01.livem3u8.me.totiptv.com/live/3e30590edd7940e29335d243342fc6b0.m3u8?bitrate=800</link>
-<link>http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp/zing-tablet.3gp-mr398k.m3u8</link>
+<link>http://xbmc:xbmc@iptvdesi2.com/achannel7</link>
+<link>rtsp://46.249.213.87:554/playlists/zing_hvga.hpl.3gp</link>
 <thumbnail>http://yamgo.mobi/images/mid/logo/zing-logo.png</thumbnail>
 </item>
 
 <item>
 <title>Z ete Bollywood</title>
-<link>http://fw01.livem3u8.me.totiptv.com/live/dcf0d550815947f3bacaf3521e118124.m3u8?bitrate=800</link>
+<link></link>
 <thumbnail>http://www.lyngsat-logo.com/icon/tv/ll/lamhe_tv_in.gif</thumbnail>
 </item>
 
@@ -248,6 +241,7 @@
 <title>9x Tashan</title> 
 <link>rtmp://cdn.m.yuppcdn.net/liveorigin/etvpacific1</link> 
 <link>rtsp://46.249.213.93/broadcast/9xmtashan-tablet.3gp</link> 
+<link>rtsp://46.249.213.87:554/playlists/9xm_hvga.hpl.3gp</link>
 <thumbnail>http://cdn.freedocast.com/yupptv/seoimages/channel_thumb/9xtashan_75x50.gif</thumbnail> 
 </item>
 
