@@ -73,6 +73,14 @@
 </item> 
 
 <item>
+ <title>Colors New</title>
+ <link>rtmpe://178.18.30.120/live playpath=colorss09 swfUrl=http://www.ukcast.tv/player.swf pageUrl=http://www.ukcast.tv/channel.php live=1 timeout=15</link>
+ <thumbnail></thumbnail>
+ </item>
+
+
+
+<item>
 <title>rishtey</title>
 <link>http://test5:test5@iptvdesi.com/channel11</link>
 <link></link>
