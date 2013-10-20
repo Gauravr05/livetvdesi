@@ -971,6 +971,197 @@ player=default timeout=15</link>
 </item>
 
 
+<item>
+ <title>HBO PLUS</title>
+ <link>rtmp://46.165.210.32/live playpath=canalplanet2?id=173816 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv/embedplayer/canalplanet2/1/650/400
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>HBO-2</title>
+ <link>rtmp://46.165.210.32/live playpath=canalplanet2?id=173816 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>HBO FAMILY</title>
+ <link>plugin://plugin.video.jtv.archives/?mode=2&amp;name=xtreme_terror_h</link> (need to install jtv plugin)
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>TNT</title>
+ <link>rtmp://185.2.138.108/live playpath=tnthd78?id=8424 conn=S:OK swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf pageUrl=http://www.ezcast.tv/embedded/tnthd78/1/650/400
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>AXN</title>
+ <link>rtmp://83.149.124.200/live playpath=axxnhdc?id=182849 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv/embedplayer/axxnhdc/1/650/400
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>MOVIECITY</title>
+ <link>rtmp://206.190.131.92/stream playpath=moviecha4?id=100251 conn=S:OK swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/moviecha4/1/585/382
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>CINE SKY</title>
+ <link>plugin://plugin.video.jtv.archives/?mode=2&amp;name=cineamerica_24</link>(need to install jtv plugin)
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>UNIVERSAL</title>
+ <link>rtmp://50.7.28.162/flash playpath=16006 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/MDliZTE1YTM3NmYyOmE3NmU2OTc2NjU3MjczNjE2Yzc0NzY6ZGNhYTI0YWVjNjJhZm/VjYWIyODAzZmQ0MGU0NmU4NmQyYmU5M2FkNjpiYTI4Y2Y1NGE2Zjk1YzAwMWUwMjI2ZTEzZDFkOTMyZQ__
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>ESPN</title>
+ <link>rtmp://5.63.147.124/stream playpath=sadfas4wera?id=105408 conn=S:OK swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/sadfas4wera/1/600/400
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>FOX</title>
+ <link>rtmp://46.23.67.66/live playpath=xd2013?id=52976 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/xd2013/1/585/385
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>DISCOVERY MAX</title>
+ <link>rtmp://ny.iguide.to/edge playpath=53yj0tcxzl4cqey swfUrl=http://player.ilive.to/secure_player_embed_z.swf live=1 timeout=15 token=I8772LDKksadhGHGagf# swfVfy=1 pageUrl=http://www.ilive.to/embedplayer.php?width=550&height=400&channel=45828&autoplay=true
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>NATIONAL GEOG</title>
+ <link>rtmp://46.23.67.114/live playpath=nati678h?id=7685 conn=S:OK swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf pageUrl=http://www.ezcast.tv/embedded/nati678h/1/650/400
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>DISCOVERY</title>
+ <link>plugin://plugin.video.jtv.archives/?mode=2&amp;name=full_hd1</link>(need to install jtv plugin)
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>CARACOL</title>
+ <link>rtmp://95.211.148.34/vl/_definst_ playpath=brasilsports swfUrl=http://www.veemi.com/player/player-licensed.swf pageUrl=http://www.veemi.com/embed.php?v=brasilsports&vw=600&vh=400&domain=cdn.chatytvgratis.me
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>RCN</title>
+ <link>rtmp://95.211.148.4/vl/_definst_ playpath=redcolombia2 swfUrl=http://www.veemi.com/player/player-licensed.swf pageUrl=http://www.veemi.com/embed.php?v=redcolombia2&vw=610&vh=420&domain=cdn.chatytvgratis.me
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>ATV</title>
+ <link>rtmp://m.iblups.com/live/ playpath=Zld5BoM1Ne conn=S:OK swfUrl=http://p.jwpcdn.com/6/6/jwplayer.flash.swf pageUrl=http://readyvivoydirecto.blogspot.com/2013/08/atv.html
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>CANAL FRECUENCIA</title>
+ <link>rtmp://50.23.65.36/live playpath=gian45?id=182069 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv/embedplayer/gian45/1/600/382
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>UNIVISION</title>
+ <link>rtmp://67.159.54.98:443/live playpath=live_extremotv2 swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/embed/video/extremotv2?viewers=true&watermark=left&autoplay=true
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>UNIVISION</title>
+ <link>plugin://plugin.video.jtv.archives/?mode=2&amp;name=ronitv_novelas</link>(need to install jtv plugin)
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>CINEMAX</title>
+ <link>rtmp://174.37.252.194/live playpath=187737?313338323036393936375f6365356634336537366162386238626530656463353865313665636533386533 swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=15321&wh=630&ht=400&r=www.peliculas720p-mkv.com
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>CMD</title>
+ <link>rtmp://173.193.205.105/live playpath=zeyu10?id=55120 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/zeyu10/1/600/382
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+ +
+ <item>
+ <title>FX</title>
+ <link>rtmp://50.7.28.146/flash playpath=16005 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/YzQ2ODFjZDRlNjM5Ojk4Nzg3NDc2OmM3YTg5MjY2ZjcxODYzNTJhZTc3ZWNiZGE4Nj/c5YjAxMWMxODE1Y2Y6ZTU4YWQ2YzUwYThkOTM4MTA0ZWZjNThiYjMyZGQ1YzU_
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>DISNEY XD</title>
+ <link>rtmp://204.45.157.186/flash playpath=17368 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/OGU5NjA4NGY3MTY3OmIwNjQzMjMwMzEzMjo3MWY5MWVmNTYwYzA3YmE2Y2UwNjdhOD/FmOTY3ODllMGIyMTIyM2I4OjU3MzY1N2U5NTQ3MTg5ZjM1M2Q4NjNjMDgzMmVjMTZl
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>CARTOON NETWORK</title>
+ <link>rtmp://204.45.157.98/flash playpath=17748 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/ZGE1MTYwZDhkYmQyOmM0NjE3Mjc0NmY2ZjZlOjNiODgwMDgyZGM2NDVmODg5MGIzYz/RkMTNhNmY5OThlZTU5OGUzMGI6ZTUxOTMyNzJiN2U4YTQyMDE1NTAwYWYxYzBjOWI5MTM_
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>NICLODEON</title>
+ <link>rtmp://204.45.157.34/flash playpath=16745 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/MzNiNzA4ZjkyMWIwOmE2Njk2MzZiMzIzMDowNWNjM2U0ZDJlYzlmZTg5MmE0MDgzOG/UxYjUxYTViMzM1NTg3OTE2OjFhYjk0YTczNjY2N2Q3ZTZhNWRiYjJiNTU2Y2NkNWJm
+ </link>
+ <thumbnail></thumbnail> 
+ </item>
+
+ <item>
+ <title>DISNEY JUNIOR</title>
+ <link>rtmp://173.192.223.68/live playpath=lorena0411?id=56415 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/lorena0411/1/585/385
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>DISNEY</title>
+ <link>rtmp://50.7.28.130/flash playpath=16738 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/ZjJmOGNiY2ZhMWU3Ojk0Njk3MzZlNjU3OTMyMzA6ZmZiNGQ1MmU3Y2UxNTYyN2ZlZG/E1MGExMTkxZGJjNWZhMWNlNDhjMTo0Nzc2NmIzZDFmOWM1MDU0YWE3NGVhZmYyZTU5MmY4ZA__
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>SYFY</title>
+ <link>rtmp://ny.iguide.to/edge playpath=uc7be9ku8rmpfr4 swfUrl=http://player.ilive.to/secure_player_embed_z.swf token=ask for token pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=400&channel=48066&autoplay=true
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
 <channel>
 <name>Indian Other Channels</name>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/225px-Flag_of_India.svg.png</thumbnail>
