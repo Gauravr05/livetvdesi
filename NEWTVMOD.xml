@@ -905,6 +905,468 @@ player=default timeout=15</link>
 </item>
 
 
+<channel>
+<name>Indian Other Channels</name>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/225px-Flag_of_India.svg.png</thumbnail>
+<items>
+
+
+<item>
+ <title>BIG MAGIC(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD154_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>THRILL(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD153_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>ZEE CLASSIC(HD)</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live//e2f5c5390bbb4e2781454f3f32add81c.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>ZEE BUSINESS(HD)</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/04c8c255153b4272a1a0ef19ff3236f1.m3u8?bitrate=800<link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>ZEE NEWS(HD)</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/7d1847a9b91246b8af20629bfc24d9da.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>ZEE ETC(HD)</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/dcf0d550815947f3bacaf3521e118124.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>ZEE ZING(HD)</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/3e30590edd7940e29335d243342fc6b0.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>SAHARA SAMAY(HD)</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/ef46ba5648314d5c9979db03a5307a50.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <title>B4U MUSIC INDIA(HD)</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/81ff107849124ff389814b0b8816b1ba.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>CHANNEL V INDIA(HD)</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/09cac500285d42ec97465b2219db5f53.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>CHANNEL V INTERNATIONAL(HD)</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/9e38a0084e6d45d080139a166c60a102.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>TEN CRICKET(HD)</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/07febaf06cea4afeba557b3836d959d6.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>DD NATIONAL(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD99_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>RAJ PARIVAR(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD49_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>MAHUAA(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD151_W_150.sdp/playlist.m3u8</link>
+ <thumbnaiL></thumbnail>
+ </item>
+
+ <item>
+ <title>PEOPLE TV(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD121_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>NE HIFI TV(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD168_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>O TV(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD93_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>MAD TV(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD110_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>DONTKNOW(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD94_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>DONTKNOW(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD95_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>TIMES NOW(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD96_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>ET NOW(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD97_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>RAJ MALAYALAM(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD104_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>RAJ TELEGU(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD105_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>GONG(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD120_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>FILMSTARS(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD121_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>IGN(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD122_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>AOUTO SPEED(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD129_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>9X-TSHAN(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD134_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>STAR CJ(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD186_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>ZOOM(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD160_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>CARE WORLD(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD152_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>AAJTAK(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD77_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>SAHARA FILMI(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD66_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>SAHARA ONE(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD67_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+
+ <item>
+ <title>NEWS-24(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD36_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>INDIA NEWS(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD148_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>TEZ(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD79_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>CNN(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD177_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>DELHI AAJTAK(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD68_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>NDTV-INDIA(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD75_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>NDTV 24X7(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD76_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>9X JALWA(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD173_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>9X JHAKAAS(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD81_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>DARSHAN 24(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD82_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>POGO TV(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD29_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>O TV-TARANG(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD95_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>JAPANEES IDOLS(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD138_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>TAAZA TV(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD63_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>SHORT MOVIE TV(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD118_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>DD PUNJABI(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD2_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>MANGALMAY(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD107_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>INDIA NEWS MP(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD141_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>FOOD(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD139_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>REDLINE TV(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD129_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>SRISTI TV(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD87_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>CARTOON NETWORK(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>DISHA TV(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD155_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>RAJ MUSIX TELUGU(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD105_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>DD LOKSABHA(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD3_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>DD URDU(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD1_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>XTREAM SPORT TV(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD128_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>INDIA NEWS-UP(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD144_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>RAJ NEWS KANADA(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD50_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>INDA NEWS HARYANA(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD150_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item
+ <title>COOKING TV(HD)</title>
+ <link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD125_W_150.sdp/playlist.m3u8</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>ZEE TV</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/8be5e8787848472089925a7bb7f43ef1.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>STAR GOLD</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/53c2bf7e52a44fd8b6df7f9e83891bbc.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>STAR PLUS</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/7c75ad89c1cc417aa0f066133c0a2333.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>ZEE CINEMA</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/18560c96b9f446bb87acb8981a2fe9c5.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>ZEE ETC</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/dcf0d550815947f3bacaf3521e118124.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>TEN CRICKET</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/07febaf06cea4afeba557b3836d959d6.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>NATIONAL GEOG WILD</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>FOX NEWS EXTRA</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live//1e2041858ca543fa90ec95d28197e907.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
+ <item>
+ <title>EURO SPORTS-1</title>
+ <link>http://fw01.livem3u8.me.totiptv.com/live//3F35C4428A0D4004A38FF0ADBA7664F4.m3u8?bitrate=800</link>
+ <thumbnail></thumbnail>
+ </item>
+
 </items>
 </channel>
 
