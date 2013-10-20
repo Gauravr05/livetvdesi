@@ -485,6 +485,72 @@ tp://desistreams.tv/embed/geo_super.php timeout=15</link>
  </regex>
  </item>
 
+<item>
+ <title>Sony Six</title>
+ <link>$doregex[rtmp] playpath=sonysix swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com live=1 timeout=15</link>
+ <regex>
+ <name>rtmp</name>
+ <expres>(rtmp://[^'"]+)'</expres>
+ <page>http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=sonysix&amp;width=480&amp;height=270</page>
+ <referer>http://www.eboundservices.com/users/sonysix/</referer>
+ </regex>
+ </item>
+
+ <item>
+ <title>Star Sports</title>
+ <link>$doregex[rtmp] playpath=starsports swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com live=1 timeout=15</link>
+ <regex>
+ <name>rtmp</name>
+ <expres>(rtmp://[^'"]+)'</expres>
+ <page>http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=starsports&amp;width=480&amp;height=270</page>
+ <referer>http://www.eboundservices.com/users/starsports/</referer>
+ </regex>
+ </item>
+
+ <item>
+ <title>Ten Sports</title>
+ <link>$doregex[rtmp] playpath=tensports swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com live=1 timeout=15</link>
+ <regex>
+ <name>rtmp</name>
+ <expres>(rtmp://[^'"]+)'</expres>
+ <page>http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=tensports&amp;width=480&amp;height=270</page>
+ <referer>http://www.eboundservices.com/users/tensports/</referer>
+ </regex>
+ </item>
+
+ <item>
+ <title>ESPN (India)</title>
+ <link>$doregex[rtmp] playpath=starcricket swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com live=1 timeout=15</link>
+ <regex>
+ <name>rtmp</name>
+ <expres>(rtmp://[^'"]+)'</expres>
+ <page>http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=starcricket&amp;width=480&amp;height=270</page>
+ <referer>http://www.eboundservices.com/users/starcricket/</referer>
+ </regex>
+ </item>
+
+ <item>
+ <title>Geo Super</title>
+ <link>$doregex[rtmp] playpath=sports swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com live=1 timeout=15</link>
+ <regex>
+ <name>rtmp</name>
+ <expres>(rtmp://[^'"]+)'</expres>
+ <page>http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=sports&amp;width=480&amp;height=270</page>
+ <referer>http://www.eboundservices.com/users/sports/</referer>
+ </regex>
+ </item>
+
+ <item>
+ <title>PTV Sports</title>
+ <link>$doregex[rtmp] playpath=ptvsports swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com live=1 timeout=15</link>
+ <regex>
+ <name>rtmp</name>
+ <expres>(rtmp://[^'"]+)'</expres>
+ <page>http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=ptvsports&amp;width=480&amp;height=270</page>
+ <referer>http://www.eboundservices.com/users/ptvsports/</referer>
+ </regex>
+ </item>
+
 </items>
 </channel>
 
